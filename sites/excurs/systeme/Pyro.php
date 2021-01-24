@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Pyro</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">PYRO</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,94 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Pyro/Pyro.png" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Pyro</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Pyro System ͞"</span>
+                        <br>
+                        <span>Yo ho ho, there’s a place I know,</span>
+                        <br>
+                        <span>The slam’s all clean and the wenches glow,</span>
+                        <br>
+                        <span>Yo ho ho, a-Ruin I’ll go,</span>
+                        <br>
+                        <span>Mark my jump off to Pyro.͟</span>
+                        <br>
+                        <span>- Traditionelles Lied der einheimischen</span>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <span>Wenn Spider das Gesicht der Piraterie in der Galaxis ist, dann ist Pyro das schlagende Herz. Als sonst desolates, lebloses System, welches durch eine verlängerte Nova-Phase seines Sterns gebeutelt wird, ist Pyro vor allem als die Heimat des Piraten-Außenpostens auf der Ruin-Station bekannt. Wie auch Spider ist Pyro ein Beispiel dafür, dass Piraten eine Lücke füllen und sich sogar ausbreiten, nachdem ein System von seinen zivilisierten Entwicklern verlassen wurde. Anders als Spider jedoch wurde aus Pyros nicht einfach ein geordneter Schwarzmarkt, welcher ein Äquivalent zu normalen Marktplätzen auf Standardwelten darstellt. Hier kämpfen verfeindete Piratengangs um die Vorherrschaft.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <h2 style="font-family: 'Nasa'">Hintergrund & Entdeckung</h2>
+                        <span>Jegliche Aussichten auf Leben im Pyro System verschwanden vor Millionen Jahren, als der Stern des Systems anfing, sich in eine Nova zu verwandeln. Astrobiologen, welche die Überreste der Planeten im theoretischen grünen Band untersuchten, fanden kaum Hinweise darauf, dass überhaupt höheres Leben möglich gewesen wäre. Außer Algen-ähnlichen Fossilien wurde nichts entdeckt. Das System besteht aus sechs ruinierten Welten, die einen hellen, jedoch sterbenden Stern umkreisen. Wären nicht die Sprungpunkte zu zwei bewohnten Systemen entdeckt worden, die mit Pyro verbunden sind, wäre das System wohl niemals besiedelt worden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Das System wurde angeblich im Jahre 2401 von der Roustabout entdeckt, einem Tankerschiff unter Erd-Flagge, welches sich durch das Taranis System auf der sicheren Routen-Variante im Vergleich zu Kellars Run befand. Der Wachoffizier des Schiffes bemerkte eine Gravitationsanomalie 30.000 Kilometer abseits der Route, ging dem aber nicht weiter nach. Es dauerte noch einmal 44 Jahre, bis die Besitzer des Schiffes nach neuen Bergbauterritorien suchten und dazu Entdecker in diese Region entsandten, welche Pyro und seine Umgebung formell kartierten. Diese Studie bemerkte schnell die allgemeine Unordnung des Planetensystems, die Schwierigkeit, transportable Ressourcen zu finden, und die Unwahrscheinlichkeit, irgendetwas im System erfolgreich zu terraformen.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Pyro ist heute ein allgemein bekannter Name im UEE, da es als Hintergrund für eines der ersten Arena Commander Level von Original-Systems dient. Die eisblaue Nova und die gefrorene Höllenlandschaft von Planeten, die sich langsam auf ihre Zerstörung zubewegen, schienen ein guter Ort zu sein, um zu zeigen, wie interessant 3D-Raumkampf sein kann.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Pyro I</h2>
+                        <span>Pyro I ist ein verkohlter, schwarzer Felsen, der sich langsam auflöst. Kaum jemand interessiert sich für den Planeten. Der Raum um Pyro I ist schwer zu navigieren, wenn man nicht gerade Schilde höchster Qualität verbaut hat. Außerdem wurden keinerlei signifikante Mineralienvorkommen auf der Planetenoberfläche entdeckt, aus denen man Gewinne ziehen könnte.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Pyro II</h2>
+                        <span>Pyro II ist ein kernloser Planet, der mit der Zeit in den Stern fallen wird. Während der ersten Entdeckung des Systems war Pyro II stark im Fokus. Der Planet schien signifikante Ablagerungen von Cadmium, Titan sowie schwerkraft-geschmiedete Edelsteine zu enthalten. Ein kleinerer „MetallRausch͞ sorgte dafür, dass diese Vorkommen durch Handelsschiffe der Menschen schnell erschöpft wurden. Innerhalb von nur fünf Jahren wurde die Welt zu einer in keiner Weise mehr praktikablen, leeren Hülle.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Pyro III</h2>
+                        <span>Der dritte Planet des Systems ist der einzige, von dem man glaubt, dass er einmal im grünen Band des Systems gelegen haben könnte, bevor der Stern zur Nova wurde. Dort wurden die winzigen Algen-ähnlichen Fossilien entdeckt. Aus diesem Grund lag der initiale Fokus auf Non-ProfitForschungsvorhaben während Pyros erster Erforschung. Was das Leben der Forscher dabei schwer macht ist die Tatsache, dass der Nova-Prozess aus Pyro III eine Magma-Welt gemacht hat. Die wissenschaftliche Gemeinschaft verlor daher schnell wieder das Interesse an Pyro III und am System im Allgemeinen. Pyro III ist technisch gesehen auf der Liste der potentiell terraformbaren Planeten des UEE, auch wenn es extrem schwer wäre, einen Magma-Planeten zu zähmen, weshalb nie ein ernsthaftes Interesse an diesem Projekt entwickelt wurde.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Pyro IV & V</h2>
+                        <span>Die Kombination von Pyro IV, einem felsigen Protoplaneten, und Pyro V, einem massiven, gelbgrünen Gasgiganten, ist eine der beeindruckenderen stellaren Landschaften im bekannten Universum. Fraglich ist allerdings, ob es sich dabei um eine einzige Entität handelt – sind Pyro IV und V also das Ergebnis eines massiven Meteoreinschlags, welcher den Orbit von Pyro IV in den von Pyro V veränderte? Pyro V scheint Pyro IV in Slow Motion aufzuholen, ein Anblick, den man wohl sonst nirgendwo in der Galaxie finden kann. Pyro V gilt als niedrigqualitativer Auftank-Punkt, da der Wasserstoff-Mix in seiner oberen Atmosphäre viele Verunreinigungen enthält. Pyro VI & Ruin Station Der äußerste Planet des Pyro Systems, Pyro VI, wäre nicht weiter bemerkenswert, wenn er nicht die Heimat der Ruin Station wäre, die von Pyros einzigen permanenten Bewohnern bevölkert wird. Auch wenn die Herkunft der Station bislang recht unklar ist, so ist doch bekannt, dass sie ihre Arbeit einst als eine Gold Horizon Terraforming Basis aufnahm, die jedoch verlassen wurde, als bekannt wurde, dass kein vernünftiges Terraforming in Pyro oder nahegelegenen Sternensystemen möglich sein würde. Sobald die ursprünglichen Siedler die vorgefertigte Station verlassen hatten, wurde Pyro schnell zum Treffpunkt für den Schwarzmarkthandel. Von da an war es nur noch eine Frage der Zeit, bis es denselben Pfad einschlug wie Spider zuvor: Aktive Piraterie und die Entwicklung einer einzigartigen Subkultur. Während es auf Spider jedoch oft um Ehre zwischen Dieben geht, basiert Pyro eher darauf, dass die Männer mit den meisten und besseren Waffen gewinnen.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <span>Die Ruin Station ist daher nicht geeignet für Touristen, regulären Handel oder selbst erfahrene Kopfgeldjäger, die den Nervenkitzel des Kampfes suchen. Die Piraten, welche die Station kontrollieren, sind die Besten der Besten und jederzeit bereit, sich gegenseitig für ein größeres „Stück des Kuchens͞ in den Rücken zu fallen. Xeno Threat ist die Crew, die aktuell die Station kontrolliert, jedoch kann sich das jederzeit ändern.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span>Kampf mit Feuerwaffen ist auf der Ruin Station so allgegenwärtig, dass Ladenbesitzer tatsächlich eine Reihe gepanzerter Türen installiert haben. Wenn interne Machtkämpfe ausbrechen, versiegeln sich lokale Läden und Einrichtungen automatisch selbst. Ein Highlight der schummrig beleuchteten Hallen der Ruin Station ist Corner Four, eine Reihe ehemaliger Forschungslabore, die in Drogenfabriken und medizinische Einrichtungen umgebaut wurden, in denen keine Fragen gestellt werden. Neutrality, die unerlässliche Bar der Station, ist der einzige sichere Ort auf der Station. Gepanzerte Schläger, Cousins genannt, sorgen für Frieden, zumindest so weit, dass das Personal und die Einrichtung selbst einigermaßen sicher sind.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Jedes unzureichend abgeschirmte Raumschiff wird erheblichen Schaden erleiden, wenn es während seiner Reise in Materieströme von Pyros Stern gerät.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Wenn es irgendwelche Zweifel an der Fähigkeit des Menschen geben sollte, in ungünstigen Gegenden zu überleben, so muss man lediglich auf die Bewohner Pyros schauen, um zu verstehen, dass unsere Spezies bemerkenswerte Anpassungsfähigkeiten besitzt.͞</span>
+                        <span>– Conrad Hesler, Struggling to Survive: The Human Story, 2812.05.11</span>
                     </div>
                 </div>
 

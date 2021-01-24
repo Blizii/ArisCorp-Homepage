@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Leir</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
+
 <body>
   <!-- //// HEADER INCLUDE //// -->
     <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
@@ -22,7 +23,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">LEIR</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +31,98 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Leir/Leir.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Leir</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Leir ist ein unbeanspruchtes System, von dem einige dachten, dass es sich zu einem riesigen Knotenpunkt der Menschheit entwickeln würde. Entdeckt wurde es von einem ICC Scannerteam, das im Jahr 2677 eigentlich das Banshee System genauer unter die Lupe nehmen wollte. Die Spurensucher waren ganz fassungslos, einen Typ-A Hauptreihenstern samt drei mineralienreichen und potentiell bewohnbaren Planeten vorzufinden. Die erste Bewertung des Systems entfachte sowohl in der Öffentlichkeit als auch im privaten Sektor großes Interesse. Imperatrix Illyana Messer VI, die noch immer versuchte, ihre neu gewonnene Macht zu festigen, entschied sich dazu, dem System keine Ressourcen zur Verfügung zu stellen und so Leirs offiziellen Status im Unklaren zu lassen.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Die Minenarbeiter kamen in Scharen, viele von ihnen kehrten jedoch niemals in ihre Heimat zurück. Es gab mehr und mehr seltsame Gerüchte, und Gefahren sowie fehlende grundlegende Dienstleistungen im System sorgten zusätzlich für keinen guten Ruf. Nur eine Siedlung konnte sich dauerhaft im System halten. Die Niederlassung “Leir” befand sich auf dem zweiten Planeten und war eine bunte Mischung aus unbeholfenen Reisenden, gierigen Bergleuten, flüchtigen Kriminellen und kaltherzigen Söldnern, die auf der Suche nach schnellem Geld waren. Obwohl die Siedlung später während des Terraformingprozesses ausgelöscht wurde, hatte sich der Name bereits tief in die öffentliche Wahrnehmung eingeprägt, wodurch er zum Synonym für das gesamte System wurde. Im Jahr 2743 entschied Galor Messer IX, das noch immer unbeanspruchte System in Kapital umzuwandeln und öffnete Tür und Tor für den kommerziellen Fortschritt. Er autorisierte die Versteigerung der Genehmigung zum Terraformen von Leir II, dem Kronjuwel des Systems. Damit sollte sein Vermächtnis finanziert werden: die vollständige und grundlegende Umgestaltung aller Regierungsgebäude des UEE. Der Gewinner bot so viel, dass viele davon ausgingen, er hätte einen Fehler begangen. Wie sich herausstellte, hatte er das nicht. Das aggressive Gebot kam von Hatfield & Harding, einem neu gegründeten Unternehmen von Clarence Hatfield, einem exzentrischen Billionär von Lo, und Olive Harding, einem Bergbaubaron, der sich aus eigener Kraft hochgearbeitet hatte. Die beiden hatten große Pläne für den Planeten. Jetzt brauchten sie nur noch jemanden, der sie umsetzte.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Der unbekannte Doktor (the new doctor)</h2>
+                        <span>Hatfield und Harding fanden auf ihrer Suche im gesamten Universum schließlich Dr. Marcus Fayel, einen Terraformingexperten bei UPARQ, dessen Kollegen ihn als brillant, charismatisch und ideal für die Position beschrieben. Dr. Fayel sicherte sich den Posten bereits im Verlauf des ersten Bewerbungsgesprächs.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Als das Projekt begann, ließ Dr. Fayel Leir IIs erste Terraformingkolonie genau auf der größten Mineralader des Planeten erbauen. Es dauerte nicht lange, und schon lief eine erste, geheim gehaltene Bergbauoperation an. Dr. Fayel verheimlichte dieses private Projekt jahrelang vor Hatfield & Harding und ließ die Profite in seine eigenen Taschen und die von einem kleinen Kreis von Mitarbeitern, welche die Operation beaufsichtigten, fließen. Niemand weiß genau wann, aber irgendwann schien der Stress der Überwachung eines gewaltigen Terraformingvorhabens und der Geheimhaltung einer illegalen Bergbauoperation Dr. Fayel allmählich auf die Psyche zu schlagen. Im Jahr 2803 ernannte der Firmenvorstand von Hatfield & Harding Dr. Fayel zum “Mitarbeiter des Jahres”. Er lehnte das Angebot, die Auszeichnung persönlich entgegenzunehmen, ab und schickte stattdessen eine Videonachricht an das Bankett. Darin wiederholte Dr. Fayel immer wieder die Phrase der “Reinheit des Zwecks” und sprach mit großem Pathos über die Welt, “die ich hier erschaffe”.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Allerdings zuckte niemand mit der Wimper. Laut mehrerer anwesender Gäste war Dr. Fayel über das Lärmen der Vorstandsmitglieder nur schwer zu verstehen. Offenbar war dem Vorstand mehr daran gelegen, sich zu berauschen, als Dr. Fayel zuzuhören. Am 3. Mai 2812 verlor das Unternehmen plötzlich jeglichen Kontakt mit ihrer Operation auf Leir II. Einige Stunden später wurde eine Nachricht von dem Planeten in Endlosschleife übertragen: Dr. Fayel, ganz in Weiß gekleidet, stand im Vordergrund, während die Arbeiter in perfekten Reihen hinter ihm angetreten waren. Er verkündete, dass die “Läuterung” des Planeten vollbracht wäre, die Kontrolle jedoch in seinen Händen bliebe. Er sprach ausführlich über die Selbstüberschätzung der Menschheit und erklärte sein Vorhaben, sich mit seinem Gefolge vom Rest der Gesellschaft abzuspalten. Dr. Fayel endete damit, klarzustellen, dass seine Absichten friedlicher Natur seien, seine Anhänger den Planeten jedoch bis zum Tode verteidigen würden, falls jemand versuchen sollte, ihrer Souveränität ein Ende zu bereiten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Hatfield und Harding waren wutentbrannt. Die Firma war durch jahrzehntelange Investitionen ausgeblutet und brauchte dringend eine Einnahmequelle. Im Geheimen leihten sie sich Geld und heuerten Söldner an, um den Planeten zurückzuerobern. Aufzeichnungen in den Archiven sollten später enthüllen, dass die Führungskräfte des Unternehmens daran zweifelten, dass die Arbeiter zu Dr. Fayel stünden, wenn es hart auf hart käme. Sie hatten keine Ahnung, wie falsch sie damit liegen sollten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
+                        <span>Auch wenn niemand genau weiß, was wirklich an diesem Tag passiert ist, zeichnen die einzelnen, abgehackten Funksprüche zwischen den Söldnern ein deutliches Bild. Die angreifenden Truppen traten in die Atmosphäre ein, landeten und fanden ein menschenleeres Zentrum vor. Als sie sich in Teams aufteilten, um nach Dr. Fayel zu suchen, gerieten sie in einen Hinterhalt. Der Angriff sollte die Söldner von ihren Schiffen weglocken, damit sie bei einem Feuergefecht nicht beschädigt würden. Einige glauben, dass diese Schiffe bis heute das Rückgrat der Flotte darstellen, die nach wie vor um den Planeten patrouilliert und ihn beschützt.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Die fehlgeschlagene Operation sprach sich schnell herum, Hatfield und Harding mussten vor einem Unterausschuss des Senats zu den Ereignissen Stellung nehmen. Das Vertrauen der Investoren stürzte gemeinsam mit dem Aktienkurs in den Keller. Es dauerte nicht lange, bis die Firma geschlossen und das Schicksal von Leir in Dr. Fayels Händen zurückgelassen wurde. In dieser Zeit blieb das UEE auf Abstand, da das System offiziell nicht beansprucht wurde. Die Versuche von Hatfield & Harding, den Planeten zurückzuerobern, bewiesen nur, dass die Bewohner gewillt waren, bis zum Tod zu kämpfen, um ihre neue Heimat zu beschützen. Die Verdrängung der Messers von der Macht lag noch nicht lange zurück, und dem UEE war nicht daran gelegen, militärische Truppen einzusetzen, um noch mehr Menschen seinem Willen zu unterwerfen. Bis heute gibt es zahlreiche Theorien, aber wenige Fakten, wie Dr. Fayel die Arbeiter davon überzeugen konnte, für dieses gewaltige Experiment an seiner Seite zu stehen. Einige glauben, es liegt an Jahrzehnten professioneller Informationsmanipulation und Gehirnwäsche. Andere haben sich gefragt, ob ein unbekanntes Ereignis eine Massenpsychose der Arbeiter, die unter extremem Stress schuften mussten, bewirkt haben könnte. Einige der von Hatfield & Harding übergebenen Aufzeichnungen beweisen, dass es in den letzten fünf Jahren des Projekts keine einzige Anfrage eines Arbeiters gab, den Planet verlassen zu wollen. Es ist unklar, ob wirklich alle Bewohner Dr. Fayal Glauben schenkten oder ob Oppositionelle einfach inhaftiert wurden oder gar ein schlimmeres Schicksal erfuhren. Nach dem Invasionsversuch der Söldner wurden Dr. Fayal und seine “Schüler” tatsächlich vom Rest des Universums abgeschnitten. Sie verdienten sich einen Namen, der noch heute verwendet wird, um sie zu beschreiben: die Ausgegrenzten (the Outsiders). In der Folgezeit begann das Leir System zu verfallen. Es fanden keine Ausbesserungen der Infrastruktur statt und nach wie vor fehlen etablierte Handelsrouten und -möglichkeiten. Aber das macht Leir auch zu einem der faszinierendsten Systeme.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Leir I</h2>
+                        <span>Dieser kleine, felsige Planet ist von Natur aus bewohnbar, allerdings aufgrund seiner fehlenden Infrastruktur oder anderer Vorzüge kein idealer Ort zum Leben. Eine kleine Bergbaugruppe nennt ihn ihr Zuhause und freut sich über jeglichen Handel mit Frachtern.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Leir II (Mya)</h2>
+                        <span>Die Nachfahren der ursprünglichen Separatisten kontrollieren noch heute Leir II, auch wenn sie es inzwischen Mya nennen. Einige von Dr. Fayels kompromisslosen Grundhaltungen wurden seit seinem Tod gelockert, aber die meisten Bewohner behandeln Besucher nach wie vor mit Verachtung, und auf einem Großteil des Planeten gilt für Besucher “Zutritt verboten”. Manch einer ist bereit, Fremden etwas zu verkaufen, eingekauft wird von Fremden jedoch nach wie vor nicht. Einige Besucher vermissen das geschäftige Treiben, anderen gefällt genau das. Auch ohne die Möglichkeit Handel zu treiben, ist der Planet aufgrund seiner beeindruckenden Gebirge einen Besuch wert. Man kann leicht erkennen, warum so viele glauben, es wäre das Paradies, das vor dem restlichen Universum beschützt werden müsse. Die Bevölkerung bezeichnet Ihren Planeten als “rein” und einzigartig. Aufgrund der fehlenden Baumaterialen aus dem restlichen Universum verwenden viele Strukturen denselben Typ Stein oder wurden direkt in die Berge hinein gebaut.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Leir III</h2>
+                        <span>Der dritte Planet im Leir System ist ein felsiges Gestirn, das vor Ressourcen nur so überquillt. Frühe Scans haben eine Fülle an Graphit und Kristallen entdeckt. Das veranlasste viele Bergleute, ungeachtet der tödlichen Stürme auf der Oberfläche, die riskante Landung auf dem Planeten zu versuchen.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Heute gibt es auf Leir III keine dauerhaften Siedlungen mehr, nachdem die riesigen, einheimischen Sandwürmer, auch bekannt als Valakkar, eine Vorliebe dafür entwickelt haben, genau diese zu zerstören. Auf dem Planeten leben verstreut ein paar mutige Bergarbeiter und Gesetzlose in rudimentären Lagern, die meisten haben sich jedoch mit ihrer nomadischen Existenz abgefunden und ziehen regelmäßig weiter, um genügend Abstand zu den Stürmen und Würmern zu haben.</span>
+
+                        <br>
+                        <br>
+
                         <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Obwohl die Separatisten externe Einflüsse scheuen, darf man nicht davon ausgehen, dass sie nicht für ihren Schutz ausgerüstet sind. Eine lokale Miliz patrouilliert in alten, aber zuverlässigen Schiffen um den Planeten und hat keinerlei Problem damit, Bedrohungen jedweder Art anzugreifen.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">“Nach meiner Versetzung traf mich, während ich das, was ich vermeintlich für die Herrlichkeit der Menschheit hielt, bestaunte, ein Gedanke, der meinen Schädel wie ein Nagel aus Licht durchdrang. Es liegt nur an der Reinheit des Zwecks, dass ein solcher Planet erschaffen werden kann, nicht nur um zu überleben, sondern auch um zu wachsen. Ich wurde in die Irre geführt. Ich dachte, ich wäre rechtschaffen. Das war ich nicht. Aber ich werde es sein.” </span>
+                        <span>– Dr. Marcus Fayel, Rede zur Entgegennahme von Hatfield & Hardings Auszeichnung “Mitarbeiter des Jahres”, 2803</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">“Diesem System ist wahre Größe verheißen. Besonders die zweite Welt bietet beeindruckende Landschaften, scheint vor Ressourcen überzuquellen und ist reif für das Terraforming. Sollte man jemals einen einfachen Zugang zu dem System erhalten, muss das UEE sicherstellen alles getan zu haben, um es in die eigenen Reihen aufzunehmen.” </span>
+                        <span>– Katherine Oliver, ICC Stellar Surveyors Ersteinschätzung, 2677</span>
                     </div>
                 </div>
 

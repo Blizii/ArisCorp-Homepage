@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Rhetor</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">RHETOR</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,103 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Rhetor/Rhetor.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Rhetor</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Das Rhetor System ist gleichzeitig eines der ältesten und eines der jüngsten Systeme der UEE. Eines der ältesten wegen seines Platzes in der Expansionsgeschichte der Menschheit. Rhetor wurde 2387 zum ersten Mal besucht, das macht es zu einem der ersten Systeme, die die Menschheit entdeckt hat. Dennoch halten es die meisten für ein jugendliches System, da es das Herz des öffentlichen und privaten Universitätssystems in der UEE darstellt. Rhetor bleibt, egal wie man es dreht und wendet, ein wichtiger Teil der Menschheitsgeschichte und ein Schlüsselfaktor für ihre Zukunft.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Rhetor wurde von Leona Sono und Neil Nyemeto, zwei ambitionierten Doktoranden des Marsianischen Instituts für Raumfahrt und Technologie entdeckt. Sono, eine Ingenieursstudentin und erfahrene Pilotin, wollte die Genauigkeit ihrer Atomnavigationsuhr ihres Schiffes testen, während sie den Sol-Croshaw-Sprungpunkt durchquerte. Nyemeto, ein Astrophysikstudent, begleitete Sono, um Daten aus dem Plasma in Croshaw sammeln zu können. Als sie sich auf den Rückflug vorbereiteten, meldete eine von Nyemetos Forschungsdrohnen eine ungewöhnliche Datenfolge zurück. Das Duo untersuchte die Position, an dem die Daten aufgezeichnet wurden, ohne zu erwarten, dass sie die Koordinaten direkt zu dem Croshaw-Rhetor Sprungpunkt führen würden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Nach Rückkehr an ihr Institut teilten sie ihre Entdeckung mit der Präsidentin der Schule, Adrianne Zemlock, einer früheren Politikerin, die heftig kritisierte hatte, wie sich die Menschheit im Croshaw System ausgebreitet hatte. Zemlock befürchtete, dass, wenn private Firmen zu viel Einfluss auf die planetare Entwicklung haben, diese nur mit dem Gedanken an Profit aufgebaut würden und die Bedürfnisse der Menschheit erst an zweiter Stelle kämen. Wie sagte Zemlock einst: „Die Menschheit hat realisiert, dass man die Sterne leicht erreichen kann. Der schwierige Teil ist es, herauszufinden, was man mit ihnen anstellen sollte. Ich frage euch also – welche Art Universum sollen wir erschaffen?“</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Mit dieser Frage im Hinterkopf informierten Zemlock, Sono und Nyemeto die erst kürzlich gegründeten UNE über den Sprungpunkt. Sie weigerten sich jedoch, dessen Koordinaten ohne die Zusicherung preiszugeben, dass ein Viertel der Oberfläche auf allen bewohnbaren und terraformten Planeten in dem System für Bildungszwecke reserviert wird. Sich Unternehmensinteressen zu widersetzen, war zwar schwierig, aber die Bildungsgemeinschaft unterstützte dieses Vorhaben.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Zemlock wurde zu einer festen Größe im Spectrum, in dem sie die Notwendigkeit für eine „verantwortungsvolle Expansion“ immer wieder leidenschaftlich verteidigte. Der öffentliche Druck, private und öffentliche Interessen zu vereinbaren, stieg und die UNE stimmte ihren Bedingungen schlussendlich zu. Sie entschieden sich sogar dazu, das System Rhetor zu nennen, die Bezeichnung für einen Meister und Lehrer der Redekunst und Zemlocks beliebter Spitzname, um daran zu erinnern, dass „Worte die Macht haben, Welten zu formen“.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Während der Erkundung des Systems fand die UNE fünf Planeten, drei davon erdähnliche Welten, die in der großen bewohnbaren Zone des Sterns lagen und die es wert waren, terraformt zu werden. Auf Rhetor II (Persei) wurden außerdem reiche Vorkommen an Neodym, Erbium, Samarium und weitere seltenen Elementen entdeckt.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <span>Die UNE versteigerte die Bergbaurechte für den gesamten Planeten und verwendete die daraus erhaltenen Erträge, um das Terraforming von Reisse (Rhetor III) und Mentor (Rhetor IV) zu finanzieren. Um ihrer ursprünglichen Vereinbarung treu zu bleiben, reservierte die UNE Land auf Persei, um dort eine staatlich finanzierte Universitäten zu errichten, während sie Unternehmen Anreize boten, den Planten für ihre Forschungen und Denkfabriken in Betracht zu ziehen. Obwohl es Zemlocks Vorstellungen einer Bildungsoase nicht gänzlich entsprach, wurde Persei ein Inkubator für richtungsgebende Ideen und technologische Entwicklungen. Die beiden weiteren bewohnbaren Planeten Rhetors entwickelten zu Bollwerken der Universitätsbildung. Studenten und Universitätspersonal stellen sowohl auf Reisse als auch auf Mentor heute die Mehrheit der Bevölkerung. Ein Abschluss an einer dieser Universitäten wird als Überholspur für Arbeitsstellen auf der Erde oder Terra gesehen, der Bewerbungsprozess, um an einer der Schulen im System angenommen zu werden, ist dementsprechend hart umkämpft.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span>Viele Historiker haben sich schon gefragt, welches Schicksal Rhetor ereilt hätte, wenn Zemlock, Sono und Nyemeto nicht darauf bestanden hätten, Bildung an erste Stelle zu setzen. Perseis seltene Minerale brachten dem System nur ein paar Jahrhunderte großen Reichtum ein, wohingegen Rhetors Bildungsstruktur der Menschheit noch immer neue Perspektiven, Ideen und Technologien beschert. Aus diesem Grund halten viele Rhetor für eines der lebendigsten Systeme des Imperiums.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Rhetor I</h2>
+                        <span>Ein kleiner felsiger Zwergplanet mit keinerlei Aussicht auf Terraforming und einem menschenfeindlichen Klima.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <h2 style="font-family: 'Nasa'">Rhetor II (Persei)</h2>
+                        <span>Werner Fricke, ein ehemaliges Mitglied des UNE-Komitees für planetare Expansion, sagte: „Das Versprechen von Persei ist, was Rhetor möglich macht.“ Die enormen Vorräte an seltenen Elementen waren der ökonomische Motor für den Planeten, der die Entwicklung des gesamten Systems antrieb. Zuerst holten sie sich Bergbaukonsortien und Technologiefirmen, dann folgten hochqualifizierte Wissenschaftler aufgrund des schnellen Zugriffs auf seltene Elemente für ihre Forschungen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <span>Nachdem alle Ressourcen abgebaut waren, erlangte Persei Ansehen bei den intellektuellen und wissenschaftlichen Gemeinschaften. Zahlreiche Forschungsunternehmen und privat finanzierte Ideenfabriken haben auf Persei ihren Hauptsitz. Es war jedoch die Arbeit der staatlich finanzierten Universität von Persei für analytische Forschung und Quantifizierung, die dafür berühmt wurde, die wissenschaftlichen Grenzen zu sprengen. Obwohl die meisten Forschungen geheim sind, sind der energieeffiziente Quantum Drive und das verbesserte hitzebeständige Gewebe für Raumanzüge nur einige der Fortschritte, die ihren Ursprung auf Persei haben sollen. Aufgrund der sensiblen Beschaffenheit dieser Forschungen wurde der Zugang zu dem Planeten stark eingeschränkt.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Rhetor III (Reisse)</h2>
+                        <span>Reisse ist die Heimat für eine große Anzahl prestigeträchtiger Institutionen für höhere Bildung, die eine Vielzahl an Ausbildungsoptionen für Menschen in jeder Lebenslage anbieten. Trotz seines wachsenden Rufs als Partyplanet, können auf Reisse Experten für eine große Bandbreite Wisseensgebiete gefunden werden, von Wirtschaftstheoretikern bis zu Experten für die nur mündlich überlieferten Traditionen der Banu. Aufgrund der zahlreichen Experten, die in Spectrum-Shows auftreten und der vielen Studenten dürfte Reisse mehr Kommunikationsrelays in seiner Umlaufbahn haben als jeder andere Planet im Verse. Und: Die junge Bevölkerung hat den Planeten für Jahrhunderte auf dem Scheitelpunkt kultureller und politischer Bewegungen gehalten. Sie lässt ihn auch einen beständigen Stachel im Fleisch der UEE sein. Sogar das Messer-Regime hatte seine Probleme damit, Widerstände des Planeten zu unterdrücken. Erst kürzlich der Öffentlichkeit zugängliche gemachte Dokumente zeigen, dass Messers Geheimagenten sogar in die Verwaltung und die Studentenschaft der staatlich geförderten Universitäten auf Reisse eingeschleust wurden, um als radikale und entschiedene Gegner ihres Regimes für Aufruhr zu sorgen. Sie glaubten, dass extreme Ansichten dabei helfen würden, Dissidenten auf dem Planeten zu diskreditieren. Anfangs ging der Plan auch auf und Rhetor schien nicht in Einklang mit dem Rest der UEE zu sein. Doch der Widerstand gegen Rhetors radikale Ideen ließ die Gegner des Messer-Regimes nur lernen, wie sie ihre Botschaften für die Öffentlichkeit anpassen mussten. Historiker glauben heute, dass der Widerstand des Systems großen Einfluss auf die Verhandlungen des terranischen Senators Akari mit den Xi͛An über einen Friedensvertrag hatte – und zwar unabhängig von den Messers. Ungeachtet dieser Ära war und wird Reisse aber immer das Paradies für jugendlichen Überschwang und den freien Austausch von Ideen sein.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Rhetor IV (Mentor)</h2>
+                        <span>An einem entfernten Ende der bewohnbaren Zone angesiedelt hat Mentor ein harsches borealisches Klima, wodurch die meisten Menschen lieber drinnen bleiben. Seine hoch angesehenen Universitäten haben den Ruf, fleißiger zu sein als die auf Reisse. Einige Studenten sagen, dass das fordernde Wetter ihnen hilft, sich auf ihre Studien zu konzentrieren, während andere mit der Dauerkälte hadern – physisch wie psychisch. Aus diesem Grund haben die Institute auf Mentor auch eine höhere Abbruchquote als die auf Reisse.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Des Weiteren ist Mentor die Heimat einer der Schatzkammern für universelle Samen. Dieser gesicherte Ort enthält angeblich Samen für jede einzelne Pflanze in der UEE. Der genaue Standort der Schatzkammer ist ein streng gehütetes Geheimnis. Die auf dem Planten erhöhte Militärpräsenz hält sich aber für gewöhnlich von den Universitäten fern. Rhetor V Die Atmosphäre dieser wunderschönen chromatischen Gasgiganten besteht aus fortwährenden Wirbelstürmen. Dieser hypnotisierende Anblick wird zugleich von Touristen, vorbeifliegenden Piloten als auch Studenten mit einer Vorliebe für halluzinogen Substanzen bewundert.</span>
+
+                        <br>
+                        <br>
+
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Auch wenn es auf Persei öffentliche Universitäten gibt, hält das UEE-Militär noch immer umfangreiche Landerestriktionen mit strengen Auflagen aufrecht. Um einen Vorfall zu vermeiden, solltet Ihr sicherstellen, die passende Freigabe zu haben, bevor Ihr irgendeine Landezone anfliegt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Nachdem wir den Sprung verlassen haben, blickte ich zu Neil und fragte, was passiert ist. Er lächelte und antworte ‚Geschichte͚.“ </span>
+                        <span>– Leona Sono, Die versehentliche Entdeckung, 2464</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">„Bildung, Ehre, Empathie. Das sind die zentralen Werte, welche die Universität von Reisse von ihren Studenten einfordert. Nach vier Jahren jedoch, die ich nun an der Universität bin, beschreiben eher folgende Worte meine Erfahrung: Politik, Proteste und Parteien. Was kann ich sagen? Es war die beste Zeit meines Lebens.“ </span>
+                        <span>– Alex Boboltz, Tagebuch eines Reisse Revolutionärs, 2731</span>
                     </div>
                 </div>
 

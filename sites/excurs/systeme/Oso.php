@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Oso</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">OSO</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,64 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Oso/Oso.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Oso</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Entdeckt im Jahr 2861 von einem Amateurforscher namens Errol Navis, besitzt das System, das er nach seiner Tochter benannt hat, sechs verschiedene Welten, die einen weißen Typ-F Hauptreihenstern umkreisen. Oso wurde schnell das Ziel von Untersuchungsteams und Konzernen, die sich als Erste die Terraforming-Rechte an den neuen Welten sichern wollten. Jedoch änderte sich das Interesse innerhalb eines Jahres dramatisch. Die Entdeckung höherer Lebensformen auf Oso II zwang die Regierung dazu, den Protektorstatus entsprechend des Fair Chance Acts zu verhängen.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Die Ankündigung riegelte das System umgehend ab, aber einige der weniger behutsamen Vermessungsfirmen ließen die Ergebnisse ihrer planetaren Gutachten durchsickern. Sie versuchten, einen Antrag beim UEE-Senat einzubringen, dass Oso II möglicherweise für menschliche Habitate terraformt werden könnte, ohne einheimisches Leben zu zerstören. Schließlich beschloss eine knappe Mehrheit des Senats, die Grundsätze des Fair Chance Acts einzuhalten. Sie etablierten eine permanente Garnison in der Nähe des initialen Sprungpunktes des Systems, um die Spezies sich ohne äußere Einmischung entwickeln zu lassen. Ungeachtet dessen, gibt es viele Reisen in das System, um sich an den Handelsmöglichkeiten auf dem Schwarzmarkt beteiligen zu können.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Oso I</h2>
+                        <span>Der erste Planet im System ist eine rotations-gebundene Welt, die eine der beeindruckendsten Tag-/ Nacht-Unterschiede in der erforschten Galaxie bietet. Die zur Sonne gerichtete Seite ist ein endloses Meer aus Lava, während die dunkle Seite eine kahle, schwarze und eisenreiche Landschaft ist, zu kalt, um menschliches Leben zu ermöglichen, obwohl eine Landung mit der entsprechenden Ausrüstung durchaus möglich ist. Umfangreiche Mineralvermessungen auf der Nachtseite von Oso I wurden bereits durchgeführt, bevor das System dem Fair Chance Act unterstand, allerdings wurde dabei nur wenig von Wert entdeckt. Heute ist der Planet eher für seine beeindruckende Aussicht als für wertvollen Fördermöglichkeiten bekannt.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Oso II</h2>
+                        <span>In einer üppigen Biosphäre mit einer Vielzahl unterschiedlicher Regionen und Klimazonen weist Oso II eine erhöhte Schwerkraft auf, viel höher als auf der Erde. Der Planet ist den meisten als die Heimat der am höchst-entwickelten primitiven Spezien bekannt, die je von der UEE gefunden wurden. Die sogenannten Osoianer kommunizieren als vielgliedrige Rasse aktiv miteinander, indem sie Farbblitze mittels am Kopf befindlichen Chamäleonzellen konstruieren. Die Humane Wissenschaftsvereinigung hat ausgiebige Lobbyarbeit betrieben, um eine Chance zu erhalten, mit der aufstrebenden Lebensform zu kommunizieren. Noch heute laufen die Studien zur Kommunikation der Osoianer innerhalb der Grenzen des Fair Chance Acts. Neben den Osoianern beheimatet dieser Planet auch eine Vielzahl kleinerer Arten. Obwohl direkte Studien eine Verletzung des Fair Chance Acts darstellen, waren einige Wissenschaftler in der Lage, eine dauerhafte Erlaubnis der UEE zu erhalten, um eine Forschungsstation außerhalb der Orbits zu etablieren. Dort versuchen sie, die Spezies aus der Ferne zu studieren. Diese Stationen werden sorgfältig überwacht und ihre Besetzung immer nur für kurze Zeit erlaubt.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Mittlere Planeten Der dritte Planet im Oso System ist ein Gasgigant. Oso III begann sein Leben als abnormaler Jupiter, der in Rotation um die Sterne im System geriet. Der Planet ist an seinen leicht grünen und weißen Farbvariationen erkennbar, die durch silikathaltigen Wolken erzeugt werden. Von einem wissenschaftlichen Standpunkt aus, wäre Oso III wegen seiner Nähe zu Oso II weitestgehend „langweilig sicher“. Als solcher wird er häufig als Beweis zitiert, um die Theorie zu stützen, dass der Gasgigant als eine Art „Kometenschild“ für Oso II funktioniere, der den höheren Lebensformen erst die Entwicklung ermöglicht. Unbemannte wissenschaftliche Überwachungs-stationen sind deshalb entlang der Lagrange Punkte des Planeten zur Erfassung der Meteoriteneinschläge positioniert.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Oso IV ist ein unbewohnter kernloser Planet, der einst eine Oberfläche reich an Edelsteinen und Bodenschätzen besaß und der wahrscheinlich einer planetaren Katastrophe ausgesetzt war. Diese Ressourcen wurden sehr schnell und leise kurz nach der ursprünglichen Entdeckung des Systems von unseriösen Bergbauoperationen komplett abgebaut. Oso IV hat keine Atmosphäre und es gibt in der wissenschaftlichen Gemeinde einen laufenden Streit darüber, ob jemals eine Atmosphäre existierte. Heutzutage gibt es eigentlich keine stichhaltigen Gründe für eine Landung auf Oso IV.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Station Chimera</h2>
+                        <span>Die Beobachtungsbasis „Chimera“ ist die Heimat des wechselnden Militäraufgebots, das mit dem Schutz des Systems von äußeren Einmischungen beauftragt ist. Während die Absichten edel sind, stand deren Effektivität vor kurzem unter Beschuss, als durch eine Senatsuntersuchung Vorwürfe der Fahrlässigkeit im Alltag der Station laut wurden. Diese Überprüfung ergab konstant durchschnittliche oder unterdurchschnittliche Leistungsberichte für nahezu jegliches Armeepersonal, das der Station zugewiesen war, ebenso wie Beweise für Korruption, Bestechung und sogar Erpressung. Trotz des regelmäßigen Austauschs der Besatzung, haben interne militärische Stationsberichte, die bis vor kurzem geheim gehalten worden sind, die Erkenntnisse des Senats bestätigt und den internen wohlbekannten Ruf der Chimera als Brutstätte für Burnouts und Zusammenbrüche öffentlich gemacht.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span>Während diese Situation wenig über das Ansehen der Armee aussagt, beschreibt der Senatsreport für jeden Geschäftsmann, der bereit ist, außerhalb der Gesetze zu arbeiten, eine Vielzahl an Möglichkeiten. Zu jeder gewünschten Zeit war es möglich, die lokale Besatzung zu bestechen, um Einmischungen zu entgehen, Oso II zu besuchen und das System unversehrt und ungescannt wieder zu verlassen. Die Auswirkungen dieser Untersuchung sind noch heute spürbar. Der Imperator zitierte die Ergebnisse in seinem Dekret an das Oberkommando, um die Betriebspolitik der Chimera umgehend neu zu strukturieren und die konsequente Umsetzung durch zivile Auditoren prüfen zu lassen, um eine ethisch korrekte Arbeitsweise sicherzustellen.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Äußere Planeten</h2>
+                        <span>Der fünfte und der sechste Planet im Oso System, sind uninteressant und wurden seit der ersten Flut wissenschaftlicher Untersuchungen weitestgehend vermieden. Oso V ist ein Eisgigant, nicht mehr als eine aufgewühlte Masse Ammoniakdampf, die menschliches Leben verhindert. Der am weitesten entfernte Planet in diesem System ist Oso VI, ein Zwergplanet, der wenig von Wert bietet. Der einzige Bergbaubericht, der jemals erstellt worden ist, behauptete irrtümlich, dass es konzentriertes Eisenerz auf dem Planeten gäbe. Das war das Ergebnis einer später korrigierten Fehlkalibrierung der Sensoren und kein echter Beweis für wertvolle Mineralien auf der Oberfläche. Das wird auch durch erfolglose Bergleute belegt, die nicht auf diese Messfehler geachtet haben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
 
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                            <span>Beachten Sie, dass der Erlass gegen Reisen nach Oso eigentlich nur für die Annäherung an die inneren Planeten gilt. Flüstern im Wind „In die Augen eines Osoianers zu sehen ist wie in unsere eigene Vergangenheit zu blicken und das Potential zu erkennen, das in jedem von uns steckt, sich zu entwickeln und zu wachsen. Für jede Spezies, der wir begegnen, die wir mit unserem Fortschritt in den Schatten stellen, musst du dich fragen, gibt es da draußen vielleicht noch eine andere Spezies, die UNS in den Schatten stellen wird?“ – Professor JT Collins, Ein Schritt bis zum Absturz.</span>
                     </div>
                 </div>
 

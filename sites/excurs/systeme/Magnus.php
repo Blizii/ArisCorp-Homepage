@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Magnus</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">MAGNUS</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,77 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Magnus/Magnus.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Magnus</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>„Magnus: An der Grenze des Unbekannten!“ So liest sich die Reisebroschüre der lokalen Regierung. In Wahrheit beschreibt dieser Slogan das Magnus System eher wie es vor einem Jahrhundert war. In den letzten Dekaden wuchs die Besiedlung und die allgemeine Bevölkerung in dem System immer weiter an, welches sich selbst als inoffizielles Hauptsystem der menschlichen Kultur in den Grenzbereichen ansieht.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Entdeckt im Jahre 2499, war es noch ein kleines, völlig unbedeutendes System. Drei Planeten umkreisen einen Typ-K Hauptreihenstern. Dunkler als die Sonne der Erde, hat Magnus nicht die Kraft äußere Planeten oder ein weit verzweigtes Netz von Sprungpunkten zu bilden. Erkundungen fanden keine Protoplaneten, Gasvorkommenn oder Asteroidenfelder in der Umgebung des Systems. Magnus ist der leerste und ödeste vorstellbare Ort im Weltraum. Nur eine einzelne Welt, Magnus II, wurde für das Terraforming als geeignet identifiziert.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Der Prozess ging schnell. Durch die Entfernung zu den dicht frequentierten Raumstraßen und durch das Vorkommen von Schwermetallen, sowie den zu erwartenden schnellen Terraforming-Prozessen, beauftragte das Militär das geschlossene Terraforming ab dem Jahre 2533. Im späten 26. Jahrhundert gab es auf Magnus eine große Naval-Basis und Werften, auf welchen viele Schiffe gebaut und konstruiert wurden. Dies währte allerdings nur etwa 50 Jahre, da durch Budgetkürzungen und der Wunsch die Operationen in anderen Systemen wie Kilian)durchzuführen, die Basis im MagnusSystem aufgegeben wurde.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Magnus II war eine gewisse Zeit lang ein karger Wüstenplanet. Während das Terraforming noch nicht abgeschlossen war, behinderten extreme Sonneneruptionen den Übergang zu einem Planeten der gemäßigten Breiten. Dadurch bedingt beschleunigte sich der Verfall der UEE-Einrichtungen und das Interesse an einer Besiedlung dieses Systems verringerte sich zusehends. Eine Geisterwelt mit  verfallenden Werften und Raffinerien blieb zurück. Die Bevölkerung sank während dieses Zeitraumes auf unter 3000. Und von ihr hatte der Großteil noch nicht einmal einen Rechtsanspruch auf den Aufenthalt.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Im Jahre 2751 lief die ursprünglich militärische Einstufung des Systems ab und Kolonisten konnten nun mit der Besiedlung beginnen. Die UEE sah keinen Nutzen mehr und gab ihre Ansprüche auf die Landmassen ab. Die Kolonisten von Magnus waren ein bunt zusammengewürfelter Haufen von Outbackers, Claim Jumper und anderen zwielichtigen Gestalten, die versuchten ihrem Ruf, welchen sie in den Kernwelten besaßen, zu entkommen. Das Ergebnis war ein System, dass den Ruf hatte, das dort „alles möglich sei“ und die Bewohner sich am Rande des Gesetztes bewegen könnten. Eine Kultur, welche dieses System unterstützt ist daraufhin entstanden: „Töten oder getötet werden“ – aus diesem Motto ist schließlich ein strenger Ehrenkodex entstanden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Während der vergangenen Jahre wurde Borea (Magnus II) jedoch immer zivilisierter und nutzt nun den Ruf und die Geisterstädte, um mit Touristen Geld zu verdienen. Es ist zwar immer noch eine der gefährlichsten von Menschen besiedelten Welten, doch die lokale Regierung versucht gerade, ein funktionierendes Rechtssystem zu installieren. Attentate und Morde sind trotzdem nicht unüblich. Trotz allem bietet das System gute Chancen für einen Neuanfang, da die individuelle Vergangenheit ignoriert wird und man stattdessen an seinem Potential gemessen wird. Alleine aus diesem Grund wächst die Bevölkerung auf Borea Jahr für Jahr an.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Magnus I</h2>
+                        <span>Magnus I ist ein chthonischer Planet, ein ehemaliger Gasriese der seine Atmosphäre durch die Nähe zur Sonne verloren hat. Übrig bleib eine fest verdichtete Felsmasse, welche reich an hochwertigen Mineralien ist. Die UEE ist alleiniger Inhaber der Schürfrechte auf Magnus I und geht normalerweise keine Verträge mit Fremdfirmen ein, sei es zum Transport oder der Veredlung der Mineralien. Aufgrund seiner Kosmologie ist Magnus I auch eine Quelle von hochwertigen Diamanten. Diese werden zu Edelsteinschmuck verarbeitet als auch zu industriellen Zwecken verwendet. Auch hier hält die UEE alle Rechte. Kriminelle konnten sich so noch nie ein Standbein auf Magnus I aufbauen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Magnus II (Borea)</h2>
+                        <span>Borea wurde durch Terraforming geschaffen und ist das Zentrum des Systems. Er ist eingestuft als erdähnlicher Planet und beherbergt viele verschiedene Klimazonen. Der Planet ist mit unzähligen verlassenen UEE-Stationen übersät, welche langsam zerfallen und nach und nach von der Natur zurück erobert werden. Einige wurden von Grenzbewohnern übernommen und bewohnbar gemacht. In den gemäßigten Klimazonen gibt es Farmen zur Deckung des Eigenbedarfs. Diese werden oft von Einzelgängern bewirtschaftet, welche nach Magnus gekommen sind um der Gesellschaft zu entfliehen. Die Hauptstadt von Magnus II ist New Castle. Erst kürzlich fand wieder ein Attentat auf den Gouverneur des Rates statt. Seitdem wird der gesamte Verkehr zum Planeten über die Industriestadt Odyssa umgeleitet. Hier befindet sich nun der einzige Raumhafen von Magnus. Früher wurden in Odyssa Raumschiffe gebaut, jedoch begann nach dem Abzug der UEE auch dort alles zu verfallen. Drake Interplanetary hat in den letzten Jahren begonnen, die Anlagen wieder herzustellen und zu modernisieren. Jetzt wird hier die Cutlass und Caterpillar von Drake Interplanetary gebaut. In dieser Stadt sind kriminelle Banden ein großes Problem. Viele Hausbesetzer beanspruchen zudem die Rechte an den ehemaligen UEE-Einrichtungen. Dies ist also ein interessanter Ort um nach illegalen Reparatur- und Upgrade-Möglichkeiten zu suchen.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Magnus III</h2>
+                        <span>Magnus III ist ein Gasgigant, ähnlich dem Jupiter. Seine Sphäre ist riesig, farbenreich und befindet sich extrem weit weg von der Sonne des Systems. Deshalb wird er auch nur sehr selten zum Auftanken genutzt. Gerüchte die nicht verstummen, behaupten, dass sich an den La-GrangePunkten Piratentreffpunkte befinden. Der Mangel an planetaren Polizeikräften und das allgemeine Desinteresse um Verbrechen zu bestrafen, machen solche Gerüchte jedoch sehr glaubwürdig. Gleichzeitig liegt das System weit außerhalb der Bereiche, welche leicht zu erreichen sind und gerade daher ist es ideal geeignet für bedeutende Piratenkartelle.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Magnus IV existiert nicht. Eine gern genommene Behauptung der Einheimischen ist, dass das System einen vierten Planeten hat, üblicherweise „Triggerfish“ genannt. Abhängig davon, mit wem man redet, hat dieser Planet einfach alles – von einem üppigen Paradies, das außerhalb des grünen Bandes Leben hervorgebracht hat, bis zu lang verschollenen Navy-Geheimnissen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Es erscheint mir die richtige Vorgehensweise des Senats zu sein, alle Schürfrechte zurück zu ziehen. Wenn unsere Regierung nicht darauf vorbereitet ist, die Lasten unseres Systems zu tragen, warum sollte es ihm dann erlaubt sein, die Früchte zu ernten?“ </span>
+                        <span>– Senator Arie Olan, Ansprache an den Congress, 2814.04.08</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">Von seiner langen und  stolzen Raumfahrt bis zu den Bewohnern jeder Couleur, die man hinter jeder Ecke findet, hat Magnus viel zu bieten, um der Hast des täglichen Lebens im Empire zu entfliehen.“ </span>
+                        <span>– Newcastle Tourismus-Zentrale, Magnus: Am Rande des Unbekannten, 2912.09.11</span>
                     </div>
                 </div>
 

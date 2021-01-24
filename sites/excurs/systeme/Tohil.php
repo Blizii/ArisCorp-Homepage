@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Tohil</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TOHIL</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,117 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tohil/Tohil.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Tohil</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Das frühe 28. Jahrhundert war für das UEE eine turbulente Zeit. Fast zwei Jahrhunderte erhöhter militärischer Spannung mit den Xi’an hatten das Reich entkräftet und die Navy entlang der Perry-Linie gefährlich ausgedünnt. Weit weg auf der gegenüberliegenden Seite des UEE, befasste sich das Militär auch mit dem Auftauchen der Vanduul. Inzwischen wurden Risse im Machtverhältnis des Messer-Regimes deutlich. Imperator Samuel Messer VIII., berüchtigt für seine Vorliebe für Brutalität, wurde 2715 ermordet. Sein kränkelnder älterer Bruder Galor stieg inmitten vieler Kontroversen und Sorgen, dass er nicht in der Lage sei, das Imperium zu leiten, zu Messer IX auf.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Während all dieser Unsicherheit wurde das Tohil System 2716 entdeckt. Das Chaos der Zeit hielt das UEE davon ab, eine Präsenz im System aufzubauen, und nur wenige hätten vorhersagen können, wie strategisch wichtig das System werden würde. In der Zwischenzeit jedoch erlaubte es das Fehlen dieser Präsenz den Gesetzlosen, im System Fuß zu fassen, und es etablierte sich der Ruf eines bis heute existierenden Schmugglerparadieses. <br> Heute ist Tohil III ein faszinierendes Reiseziel für abenteuerlustige Reisende.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Die zufälligen Entdecker</h2>
+                        <span>Im Jahre 2716 fanden sich zwei kleine Schmuggler in Nyx wieder. Aadya Firmino, die Tochter eines prominenten Bau-Magnaten von Terra, hatte ihr komfortables Leben zurückgelassen, um auf Abenteuersuche zu gehen. Sie entkam ihrer Langeweile in einer Constellation und schloss sich schließlich Oisha Suen, einer erfahrenen Pilotin und Mechanikerin an. Gemeinsam führten sie Low-Level-Schmuggelmissionen aus Levski heraus, bis die Volksallianz die immer dreisteren Versuche Aadyas, ihr kriminelles Unternehmen auszuweiten unterband und sie ins Exil führte.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Unsicher, wohin sie gehen sollten, ließen sie ihre Constellation langsam durch Nyx’s dunklen Nebel treiben, als Aadya ihr nächstes Spiel strategisch ausrichtete und Oisha einen Scanner testete, den sie gerade repariert hatte. Zuerst nahm Oisha an, dass die seltsamen Scannerwerte auf einen Fehler ihrerseits zurückzuführen waren. Weitere Untersuchungen ergaben, dass das nicht stimmte; sie hatte einen neuen Sprungpunkt entdeckt, der das Schiff in das, was später Tohil System geannt werden sollte, brachte.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Aadya und Oisha feierten ihr Glück und diskutierten, was sie mit ihrer Entdeckung anfangen sollten. Aadya behauptete, vertrauenswürdige Partner mit beachtlichen Scan-Equipment zu haben, das ihnen helfen könnte, die möglichen Reichtümer des Systems einzuschätzen. Sie waren sich einig, dass es das Beste wäre zu wissen, was sie entdeckt hatten, bevor sie herausfanden, was sie damit machen sollten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Die beiden reisten ins Bremen System, um sich mit ihren Partnern zu treffen und am Abend vor dem Treffen feierten Aadya und Oisha mit Stil. Oisha erwachte am nächsten Tag mit einem unerträglichen Kater auf und stellte fest, dass Aadya verschwunden war. Bald wurde das Spectrum mit Berichten überflutet, dass ein neues System entdeckt wurde. Sie alle haben Aadya allein für den Fund gewürdigt und sie als Entdeckerin dargestellt, die ein luxuriöses Leben hinter sich gelassen hat, nur um die Entdeckung ihres Lebens zu machen. Am Boden zerstört durch den Verrat, ging Oisha für ein langes, umfassendes Interview zur Terra Gazette. Sie beschrieb ihre Rolle bei der Entdeckung des Systems und präsentierte Beweise, darunter zahlreiche gefälschte Regtags, die die Connie bei Schmuggeloperationen verwendete, die Aadyas Erzählung widerlegten. Der Skandal wurde in Spectrum ein Hauptartikel, da Aadya die Vorwürfe zuerst zurückwies und dann versuchte, sich der Prüfung zu entziehen, als ihre Geschichte auseinanderfiel. Die Geschichte verlor schließlich Dampf und eine nachfolgende Untersuchung durch das Ministerium für Transport und Navigation verlieh Aadya Firmino (da es ihr Schiff war) und Oisha Suen (weil sie der erste Pilot war, welche den Sprungpunkt erfolgreich navigierte) die Anerkennung für die Entdeckung des Systems, während die Advocacy für beide Haftbefehle ausstellte. In der Zwischenzeit waren militärische Späher in das Tohil System eingedrungen und hatten das System gescannt. Sie entdeckten, dass es wenig Ressourcen und keine leicht bewohnbaren Planeten gab. Ein weiterer Nachteil war, dass das System nur über das nicht beanspruchte Nyx-System betreten werden konnte. Mit dringenderen Fragen, die das Imperium betrafen, gab das UEE das System wieder ab.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Eingezogen in die Perry-Linie</h2>
+                        <span>Einige Jahre später entdeckte eine Navy-Aufklärungspatrouille des Oya-Systems einen Sprungpunkt, der nach Tohil führte. Plötzlich war das System mit der Perry-Linie verbunden, einer Reihe von Systemen, die während des Kalten Krieges ein Niemandsland zwischen dem UEE und dem Xi’an-Imperium bildeten. Das Militär hielt das System lebenswichtig für die Sicherheitsinteressen des Imperiums, und 2721 wurde es offiziell vom UEE beansprucht. Das Militär nannte es nach einem alten Kriegsgott Tohil, um es offiziell mit den anderen Perry-Line-Systemen in Einklang zu bringen. Die Truppen wurden nach Tohil verlegt, um sich auf eine mögliche Xi’an-Invasion vorzubereiten oder bei möglichen Offensiven im Oya-System eingesetzt zu werden. <br> Militärische Aktivitäten innerhalb des Systems führten schließlich zur Entdeckung eines weiteren Sprungpunktes. Dieser verband Tohil mit dem Virtus-System, das bereits eine Xi’an-Präsenz hatte. Nach der Entdeckung ließ das Militär die Zahlen kalkulieren und stellte fest, dass ihnen die Ressourcen fehlten, um eine Präsenz im System aufzubauen und aufrechtzuerhalten, die in der Lage wäre, beide Sprungpunkte zu bewachen. Erschwerend kam hinzu, dass die Verstärkungen zwei Sprünge entfernt waren und das Nyx-System passieren mussten, bevor sie auf eine Bedrohung reagieren konnten. Umgeben von Unsicherheit auf allen Seiten, zog das Militär seine Truppen nach Castra zurück und richteten ein Netzwerk von Annäherungssensoren in der Nähe um Tohils Sprungpunkten ein, das sie überwachten und aufrechterhielten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Schmugglerparadies</h2>
+                        <span>Der reduzierte Einfluss des Militärs öffnete die Tür für Gesetzlose. Diejenigen, die keine Lust hatten, sich den Levski-Revolutionären anzuschließen, strömten in das System. Insbesondere Schmuggler blühten auf, nachdem sie entdeckt hatten, dass die schwimmenden botanischen Biomassen auf Tohil III stark genug waren, um sie als Landezonen zu nutzen. Die Verbindung des Systems zu Virtus wurde sogar zur sichersten Schmuggelroute zwischen dem UEE und Xi’an-Imperium. Unermessliche Mengen an Schmuggelware und sogar Anti-Messer-Revolutionäre strömten durch das Tohil System.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <span>Im Jahr 2789 galt das System als sicher genug vor den neugierigen Blicken des Messer-Regimes, dass es der Ort eines geheimen Treffens zwischen dem Senator von Terra Terrence Akari und dem jungen Xi’an Kaiser Kr.ē war. Die beiden verhandelten einen Friedensvertrag, der ein Bündnis vorsah, falls Messer und die Erde einen militärischen Schritt gegen die Xi’an unternehmen sollten, um zu zeigen, wie zahnlos das herrschende Regime geworden war. Es war ein lähmender Schlag, von dem sich die Messers nie erholen würden, und drei Jahre später beendete die Empörung über das Massaker von Garron II schließlich das despotische Regime.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <h2 style="font-family: 'Nasa'">Tohil I</h2>
+                        <span>Tohil I sitzt knapp 0,064 AE von Tohils K4-Hauptsequenzstern entfernt. Diese Nähe hat die kleine, überschaubare Welt in einen völlig unbewohnbaren Lavaplaneten verwandelt.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Tohil II</h2>
+                        <span>Dieser felsige Mesoplanet, der sich in einer Umlaufbahn innerhalb des grünen Bandes des Systems befindet, ist intensiven Sonnenwinden ausgesetzt, welche laut Wissenschaftlern über viele Jahrtausende hinweg langsam den Planeten von seiner Atmosphäre befreit haben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Tohil III</h2>
+                        <span>Tohil III ist ein bewohnbarer Ozeanplanet, dem jede bedeutende Landmasse fehlt. Dies stellte die UEE-Bürokraten vor die Frage, ob es sich lohnte, sie zu bevölkern. Es fehlte auch der Reichtum an natürlichen Ressourcen, der Nemo so attraktiv machte. Diese Faktoren spielten letztendlich in der ursprünglichen Entscheidung des UEE, das System nicht in Anspruch zu nehmen, eine Rolle. Was Tohil III hat, ist eine der interessantesten und ungewöhnlichsten Ökologien im bekannten Universum. Das Wasser wird von massiven botanischen Biomassen gesprenkelt, die im Wesentlichen schwimmende Inseln sind. Über und unter diesen sich bewegenden Massen sammelt sich die Flora und zahlreiche epiphytische Arten verankern sich entlang der verworrenen Wurzeln und Äste der Insel. Die Pflanzen, aus denen diese gigantischen Büschel bestehen, sind anders als alles, was anderswo entdeckt wurde. Bisher sind alle Versuche, diese Biomassen in einem Labor oder auf einer anderen Welt wachsen zu lassen, gescheitert.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Der Legende nach war es ein beschädigtes Schmuggelschiff, das zuerst versuchte, auf einer dieser “lebenden Inseln” zu landen. In der Schmugglergemeinde verbreitete sich schnell die Nachricht, dass diese Pflanzen stark und robust genug waren, um Schiffe und sogar Strukturen zu tragen. Schmuggler behielten das Geheimnis für sich und nutzten diese Inseln jahrelang für tote Briefkästen oder als Versteck.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Der Rest des Imperiums erfuhr schließlich 2789 von der unglaublichen Ökologie dieses Planeten, als sich der Senator von Terra Akari heimlich mit Kaiser Kr.ē auf der Insel Lemuria traf. Die Bilder des Treffens zeigten den Ort als tropisches Paradies ohne Sand. Nach dem Fall der Messers Regimes strömten Touristen auf den Planeten und verärgerten die Gesetzlosen, die die frühere Anonymität des Planeten bevorzugten. Als sich der Einfluss des UEE vergrößerte, waren die meisten Gesetzlosen gezwungen, ihre Aktivitäten an einen anderen Ort zu verlagern. Obwohl Tohil III kein anerkannter Planet ist, hat das UEE nach der Zerstörung von Amidon Island im Jahr 2847 strenge Bauvorschriften erlassen. Damals war sie eine der größten und bevölkerungsreichsten Landezonen des Planeten, bis die Pflanzen, die sie trugen, schnell verwelkten und im Meer versanken. Da so wenig über den Lebenszyklus dieser Pflanzeninseln bekannt ist, gibt es in der wissenschaftlichen Gemeinschaft immer noch heftige Diskussionen darüber, ob unsere Anwesenheit ein wesentlicher Faktor für ihre Zerstörung war.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Tohil Asteroidebgürtel Alpha</h2>
+                        <span>Erste Scans des Asteroidengürtels entfachten die Hoffnung, dass es sich um eine Haupt-Erzader handeln würde, aber nachfolgende Scans zerschlugen diesen Traum. Hier gibt es immer noch kleine Lagerstätten mit wertvollen Ressourcen, aber der Konsens unter den größeren Bergbaubetrieben ist, dass ihre Gewinnung mehr Mühe macht, als sie wert sind. Heute ist dieser dichte Asteroidengürtel vor allem als hervorragendes Versteck für Gesetzlose bekannt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Tohil IV</h2>
+                        <span>Der letzte Planet des Systems ist eine gefrorene Super-Erde, die weit außerhalb des grünen Bandes liegt. Das bemerkenswerteste Merkmal des Planeten ist eine Oberfläche, die durch häufige Meteor- und Asteroidenschläge gekennzeichnet ist. Nur wenige nehmen sich die Zeit, diese Welt zu besuchen, was sie zu einem Favoriten unter einigen Schmugglern gemacht hat, die sich lieber nicht in die bevölkerungsreicheren Teile des Systems wagen wollen.</span>
+
+                        <br>
+                        <br>
+
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Wer in Tohils dichtem Asteroidengürtel nach Ressourcen jagen will, muss vorsichtig sein. Der Gürtel ist voll von Verstecken, die von Schmugglern und Gesetzlosen besucht werden, die dafür bekannt sind, Fallen zu stellen und gefälschte Notsignale einzusetzen, um Schiffe in einen Hinterhalt zu locken.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">“Man konnte einfach sagen, dass etwas nicht stimmte. Normalerweise war es leicht zu vergessen, dass man nicht auf festem Boden stand, aber in den letzten Tagen der Insel konnte man spüren, dass es bei jedem Schritt ein wenig nachgab. Plus, der Geruch war einfach schrecklich, als ob der ganze Ort verrottet wäre…. was, schätze ich, tatsächlich der Fall war.” </span>
+                        <span>– Dustin Wiltzie, ehemaliger Bewohner von Amidon Island, 2847</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">“Meine Hoffnung ist, dass wir einen Weg finden, unsere beiden großen Spezies zusammenzubringen, anstatt sie auseinander zu halten. Unsere beiden Kulturen würden davon profitieren, einen Freund auf der anderen Seite der Perry-Linie zu haben, anstatt einen Feind.”</span>
+                        <span>– Senator Terrence Akari beim Treffen mit Kaiser Kr.ē, 2789</span>
                     </div>
                 </div>
 

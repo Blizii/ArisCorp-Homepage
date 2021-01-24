@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Nyx</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">NYX</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,55 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Nyx/Nyx-1.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Nyx</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Nyx wurde im Jahr 2582, während des Höhepunkts der territorialen Expansion des neu gegründeten United Empire of Earth, entdeckt. Das System besteht aus drei, nicht weiter bemerkenswerten Planeten, welche einen F-Typ Hauptsequenz Stern umkreisen. Astronomisch gesehen ist der interessanteste Aspekt von Nyx, dass sich das System direkt an der Grenze zu einem dunklen Nebel befindet, welcher die Orbits aller drei Welten einhüllt. Die Gase des Nebels schränken die Sicht stark ein und limitieren signifikantdie nutzungvon scannern… etwas, worauf sich die wenigen Bewohner des Systems verlassen.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Das System wurde zuerst  Das System wurde zuerst über einen Sprungpunkt vom Stanton System aus, durch die AlleingängerNavigationsjumperin Carla Larry, kartiert. Carlas offizieller Anspruch spezifiziert nicht besonders viel Interesse am System, da es diesem „an signifikanten Mineralablagerungen und logischen Gründen für die Kosten von Terraforming mangelt“. Larry unternahm den Versuch, die drei Welten des Sterns formal Lou, Morgan und Ashley zu nennen, welche anscheinend drei ihrer romantischen Eroberungen waren. Nach üblichen Grundsätzen erkannte das UEE diese Namen jedoch nicht an. Die Namen wurden daher nicht weitläufig verwendet. Ob die furchtlose Entdeckerin des Systems irgendeinen der Namensvettern der Planeten damit beeindrucken konnte, ging in der Geschichte verloren. In den letzten zwei Jahrhunderten gewann Nyx ein wenig extra Reputation als Zwischenstopp auf dem Castra-Stanton-Run, durch den sich signifikante Credit-Werte in Form von Ladung zu jedem Zeitpunkt durch das System bewegen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Nyx I</h2>
+                        <span>Der erste Planet des Nyx Systems ist ein eine kernlose, hitzegebeutelte Welt, die schon vor langer Zeit ihrer wertvollen Mineralien beraubt wurde. Bald nachdem das System entdeckt worden war, enthüllte eine Routineerkundung die Präsenz von hochwertigen Metallen unter der Planetenoberfläche. Nachdem sich diese Nachricht verbreitet hatte, rückte der Planet kurze Zeit in den Fokus eines Militär-unterstützten Bergbauvertrages mit Gold Horizon. Innerhalb von 50 Jahren war der Planet von all seinen Ressourcen befreit und sämtlicher materieller Reichtum nach Kilian verschifft, um das Empire in seinen Kriegsbemühungen zu unterstützen. Im Jahre 2630 war Nyx I vollständig nutzlos geworden und nur wenige Beweise von menschlicher Anwesenheit blieben zurück.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Nyx II</h2>
+                        <span>Als verrauchte, desolate Welt wurde Nyx II als Grenzfall für das Terraforming betrachtet. Dicke Wolken aus Säure und Kohlenstoffdioxid umgeben die Welt und der Planet liegt technisch gesehen am inneren Rand des grünen Bandes des Systems. Dennoch wurde eine Studie durchgeführt, ob es irgendwie möglich sein könnte, den Planeten bewohnbar zu machen. Das Ergebnis war, dass es möglich sei, es aber Generationen an Aufwand bedeuten würde. Gleichzeitig würde das Ergebnis wenig mehr sein als eine gut in den Nebelgasen versteckte Basis. EVA auf dem Planeten selbst würde weiterhin tödlich sein. Selbst Erkundungsschiffe, die vor den korrosiven Elementen geschützt sind, wären aufgrund der Hochdruck-Atmosphäre nicht funktionsfähig.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Asteroiden und Delamar</h2>
+                        <span>Ein dichter Asteroidengürtel umkreist Nyxs Stern in etwa acht AU Abstand. Das Asteroidenfeld ist keine Quelle wertvoller Mineralien, aber gekoppelt mit dem Nebel ist es ein guter Ort, um sich zu verstecken. Eine unbekannte Zahl kleiner Siedlungen wurde auf Asteroiden in der Gegend gegründet, die alle vom Import überlebensnotwendiger Güter von außerhalb des Systems abhängig sind. Diese kleinen, nicht kartierten Basen sind die Heimat von Kolonisten, die nach allem Möglichen suchen – von einem Leben außerhalb des UEE bis hin zu einer Plattform, von der aus man außerhalb des Gesetzes operieren kann. Piratenüberfälle im System gehen vermutlich von den größeren Basen des Feldes aus. Das Highlight dieser Siedlungen ist Delamar, der größte der Asteroiden. Mit einer Größe eines Planetoiden ist Delamar tief im Nyx Gürtel versteckt. Die Siedlung wurde von Freidenkern während der unterdrückenden Messer-Ära gegründet und ist bis heute eine Brutstätte für politische Radikale und Anti-UEE Stimmung. Viele Kriminelle sind dorthin gezogen. Dies führte zu einem anhaltenden Konflikt zwischen kleinen, kriminellen Gruppen und den politischen Radikalen. Letztere sind der Meinung, dass die offenen illegalen Aktivitäten ihre Nachricht unterminiert. Delamar kann von jedem besucht werden, der das System durchquert, jedoch existiert ein starkes Paranoia-Gefühl. Jeder, der mit dem Betrieb der Station zu tun hat, lebt ständig in der Angst vor einer massiven Polizei-Razzia, die stets kurz vor der Tür zu stehen scheint. Die Wahrheit ist jedoch, dass der Mini-Mond so gut versteckt und so schwer zu erreichen ist, dass das UEE bisher nie ernsthaft in Betracht gezogen hat, Kräfte zu dessen Eliminierung zu schicken.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Nyx III</h2>
+                        <span>Der letzte Planet im Nyx System ist ein Eisgigant, der sehr weit vom Sonnenlicht entfernt ist. Als ein massiver Ball aus gefrorenem Wasser und Ammoniumdampf ist Nyx III weder ein Kandidat für das Terraforming, noch enthält er irgendwelche Mineralien oder sonstige Ressourcen, deren Extraktion sich lohnen würde. Der Planet besitzt keine atembare Atmosphäre. Während ein Schiff mit Lebenserhaltungssystem auf der Oberfläche für einige Zeit überleben kann, gibt es wenige Gründe einen solchen Versuch zu wagen. EVA wäre unmöglich und eine externe Schiffsreparatur wäre im Vakuum des Alls einfacher. Reisewarnung Während Levskis Luftschleusen stets offen für Besucher sind, werden die Gäste angehalten, sich an Regeln und Moral zu halten oder sie riskieren, sich den Zorn der Bewohner zuzuziehen. So wir die Willkommensschilder auf Delamar sagen: „Selbst wenn Du nicht mit uns übereinstimmst, wirst Du unser Rech auf Leben respektieren.“</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Wir, die Allianz der Bewohner von Levski, widmen unser Leben der kontinuierlichen Entwicklung einer Gemeinschaft, in der wahrlich jeder gleich ist, wo sich jeder sicher und frei fühlen kann, seine Ideen auszudrücken. Dabei sollen sich alle gegenseitig unterstützen, eine erleuchtete und sich selbst versorgende Gemeinschaft zu erschaffen.“ </span>
+                        <span>–	People’s Alliance, Absichtserklärung, 2655</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
-
-                        <br>
-                        <br>
-
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">“Um Levski vollständig zu verstehen, muss man die handgefertigte Statue des Anthony Tanaka besuchen, desjenigen Jungen, dessen Tod eine Initialzündung für die Anti-Messer-Bewegung gewesen ist. Während es noch andere Denkmäler von Tanaka in der UEE gibt, ist keine so schön und ausdrucksstark wie diese.“ </span>
+                        <span>– Observist Dark, 2945.09.16</span>
                     </div>
                 </div>
 

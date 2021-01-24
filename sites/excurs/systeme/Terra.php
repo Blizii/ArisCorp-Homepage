@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Terra</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TERRA</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,70 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Terra/Terra_prime.png" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Terra</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Terra, das leuchtende Juwel des United Empire of Earth, hat große Fortschritte gemacht, das kulturelle Zentrum der Menschheit zu werden. Während eingefleischte Erd-Loyalisten diesen Anspruch abstreiten würden, gibt es keinen Zweifel, dass Terra den Finger am Puls des Empires hat. Vom wachsenden Strom der Megakonzerne, die ihre Hauptquartiere nach Terra verlegen, bis hin zum Einfluss der lokalen Musikszene auf die Popkultur kommt Terra einem selbstproduzierten Rivalen der Erde unbestreitbar am nächsten.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Das Terra System, damals noch 342A genannt, wurde zuerst im Jahre 2508 als Teil des Projekts Far Star kartographiert. Als die ersten Scannerdaten eine natürliche Supererde im grünen Band, der habitablen Zone des Sterns zeigten, war deren Kolonisierung fast schon beschlossene Sache. Der Planet – von seinem Entdeckerteam schnell Terra getauft, was ein Name war, der später am gesamten System haften bleiben sollte – fing die Faszination vieler in den UNE ein, da er einer unberührten Version unserer Erde erstaunlich ähnlich sah. Siedler wie auch Megakonzerne wollten sich möglichst bald ein Stück dieses opulenten, grünen und ressourcenreichen Planeten sichern. Was die Faszination für Terra noch weiter steigen ließ, war die Entdeckung massiver Steinruinen kurz nach Beginn der Kolonisierung der südlichen Landmasse von Terra III, die eindeutig auf intelligentes Leben hinwiesen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Diese Entdeckung erschuf eines der größten und meistdebattierten archäologischen Mysterien unserer Zeit. Nicht lange nach seiner Entdeckung bemerkten die ersten Bewohner des Systems, dass dieses in doppelter Hinsicht ein Segen war. Nicht nur beherbergte Terra eine Welt, die für Menschen ideal geeignet war, es war auch noch reich an Sprungpunkten. Bis jetzt wurden sieben Sprungpunkte kartographiert und Wissenschaftler hegen große Hoffnungen, dass ein achter bald entdeckt werden wird. Dank seiner Lage und seiner zahlreichen Verbindnungen ist Terra in vier Jahrhunderten zu einem großen Zentrum für Geschäfte, Kultur, Politik und Handel angewachsen.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Aero (Terra I)</h2>
+                        <span>Eine harte, steinige Welt, die unglaublich nah am Stern des Systems, Terra Nova, liegt. Obwohl der Planet reich an Ressourcen ist, schlugen die meisten Unternehmungen, diese Ressourcen abzubauen, fehl. Dies lag an den extrem unwirtlichen Oberflächentemperaturen und der langen, 95 Erdtage andauernden Umlaufzeit des Planeten.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Pike (Terra II)</h2>
+                        <span>Ganz im Gegensatz zu Aero sind die Bergbau-Operationen auf Pike ein Meisterwerk der menschlichen Ingenieurskunst. Der mineralienreiche Planet ist mit Bergbau-Außenposten und Raffinerien übersäht, die für die Expansion Terras unerlässlich sind.</span>
+
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Terra (Terra III)</h2>
+                        <span>Die Hauptstadt von Terra ist Prime, eine wunderschöne Megastadt, die an einer Bucht gelegen ist. Als ein krasser Gegensatz zur Erde wurde alles in Prime von den ursprünglichen Siedlern geplant, was zu einer besseren Balance zwischen Natur und Zivilisation als auf unserer Heimatwelt führte. Anders als bei vielen Städten liegt der Raumhafen von Prime außerhalb der Stadt, um Lärm und Luftverschmutzung zu reduzieren. Eine Einschienenbahn bringt Besucher zu den beiden Hauptstadtteilen – der funkelnden Innenstadt und der Wohngegend, genannt The Block. Dieser Teil der Stadt wurde aus den ursprünglichen, vorfabrizierten Teilen der Kolonie gebaut und auch wenn viele in Prime ihn als Schandfleck betrachten, so gibt es doch einen starken Widerstand der Bewohner von The Block gegen eine Modernisierung. Terras zweitgrößte Stadt, Quasi, liegt in der südlichen, kälteren Hemisphäre und wurde im Schatten der massiven Ruinen gebaut, die zu Beginn der Besiedlung Terras entdeckt wurden. Quasi gilt als ein größeres Touristenziel als Prime, obwohl auch einige Firmenhauptquartiere in der Region liegen. New Austin, ein weiterer der ursprünglichen Kolonialisierungspunkte, ist das, was auf Terra einer Industriestadt am ehesten gleichkommt. Als Gewerbegebiet, wie es im Buche steht, beheimatet New Austin eine große Anzahl an Firmen wie ORIGIN Jumpworks und das Hauptquartier der Sataball Territorial League. Die Lebenskosten sind hier geringer als in Prime, was zu einer Art „Arbeitergesellschaft“-Einstellung geführt hat. Das Zentrum der Stadt ist die Old Hall, eine ehemalige Versammlungsstätte der Bergbau-Gilde, die nun von Fabrikbesitzern, Piloten, Frachtkapitänen und Schiffseignern bevölkert wird.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Gen (Terra IV)</h2>
+                        <span>Oft wird übersehen, dass Terras Schwesterwelt Gen ebenfalls besiedelt ist. Dieser kleinere Planet, der übrigens der äußerste des Systems ist, wurde ein knappes Jahrhundert nach Terras erster Besiedelung terraformt. Der Planet ist recht gut bevölkert, da er jedoch überwiegend Militärbasen, imperiale Verwaltungsgebäude und Wohnbereiche beherbergt, sind nahezu alle Bewohner Regierungsangestellte. Trotz wiederholter Versuche, war Gens Bitten um Repräsentation im Senat bislang ohne Erfolg. Gegner führen an, dass eine weitere bürokratische Aufsicht den Interessen des Empires im System zuwiderlaufen könnte, während Pro-Terra-Aktivisten der Meinung sind, der Senat würde sich hüten, dem Terra-System weiteren politischen Einfluss zu gewähren.</span>
+
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Reisende im Terra-System werden dazu ermutigt, den Verkehrsbestimmungen rund um die drei großen Militär- und Sicherheitsstationen besondere Aufmerksamkeit zu schenken. Schiffe, die sich INS Reilly, IAS Hammett oder ICS Evolen nähern, sollten eine gültige Freigabe der Stationen besitzen oder einen großen Bogen um diese Stationen zu machen, um unerwünschte Vorfälle zu vermeiden.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Unsere einzige Hoffnung, unsere einzige Chance, eine Zukunft zu erschaffen, die unsere Kinder und die Kinder unserer Kinder verdienen, ist die Unabhängigkeit Terras zu erlangen.“ </span>
+                        <span>–	Governeur Assan Kieren, Rede auf einer politischen Kundgebung, 03.12.2638</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">„Jeder mag von den tollen Oberklasse-Restaurants schwärmen, die man in Terra Prime findet. Aber für zwei Credits gibt es nicht viel auf Terra, das an den Geschmack eines heißen Pirozhki frisch vom Verkaufsstand eines Straßenhändlers rankommt, während gerade die Sonne über New Austin aufgeht. Das, mein Freund, ist eine Mahlzeit, die du so schnell nicht vergessen wirst.“ </span>
+                        <span>–	Senator Keros Albervar, im Horizons Magazine, Ausgabe Juli 2942</span>
                     </div>
                 </div>
 

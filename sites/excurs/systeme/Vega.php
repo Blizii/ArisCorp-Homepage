@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Vega</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">VEGA</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,63 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Vega/Vega.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Vega</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Auf den ersten Blick ist das Vega-System ein unscheinbares System mit vier Planeten, die einen Hauptreihenstern vom Typ-G umkreisen. Zu Beginn als Kernstück der rapiden menschlichen Expansion angesehen, welcher eines Tages mit Planeten wie der Erde und Terra konkurrieren könne, fand sich Vega an der Frontlinie des Vanduul-Konflikts wieder und leidet bis heute daran. Das System wurde 2402 zum ersten Mal besiedelt. Die zwei Planeten Aremis und Selene in der grünen Zone wurden rasch dem Terraforming unterzogen. Die Bevölkerung des Systems expandierte, errichtete Städte, schürfte im Asteroidengürtel und erlangte ihren ersten UEE-Repräsentanten und das alles in kurzer Abfolge. Dieses Wachstum endete mit dem Fall von Armitage gegen Ende des 27. Jahrhunderts. Vega fand sich an der Frontlinie wieder und aus Furcht vor einem organisierten, andauernden Feldzug der Vanduul verringerte sich die Bevölkerung drastisch. Da sich jene, die es konnten, zu den inneren Welten zurückzogen, fielen die Immobilienpreise ins Bodenlose und die Grundhaltung der Bevölkerung in diesem System änderte sich praktisch über Nacht. Innerhalb eines Augenblicks bestand der profitabelste Job im gesamten System darin, Wege zu finden, wie man es verlassen konnte. Die befürchtete Vanduul-Invasion hat, bis jetzt, noch nicht stattgefunden. Abgesehen von den schnell zurückgeschlagenen Aufklärungsüberfällen unternahmen die Aliens keinerlei Vorstöße, um das System zu übernehmen oder großflächig zu verwüsten. Trotzdem schwebt eine konstante Bedrohung durch eine Invasion weiterhin über der Bevölkerung. Während einheimische Veganer sich selbst an der Frontlinie der Kriegsanstrengungen sehen, schließen sich viele Militärs nicht an. Mit der existierenden Infrastruktur und der direkten Verbindung zu den Kernwelten mag bei einer Versetzung nach Vega das Gefühl eines Fronteinsatzes einfach nicht aufkommen. Innerhalb des vergangenen Jahrzehnts begann sich die Lage im System zu drehen. Menschen, welche die Effekte einer recht schwierigen Wirtschaft spürten, strömten nach Vega, um einen Vorteil aus den niedrigen Immobilienpreisen zu schlagen. Selbst angesichts der Tatsache, dass die Frühwarnsysteme ab und an das System abriegeln, wenn durch Virgil streunende Vanduul-Clans entdeckt werden, wird diese Bedrohung für einige durch die Vorteile einer billigen Miete mehr als aufgewogen.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <h2 style="font-family: 'Nasa'">Vega I</h2>
+                        <span>Vega I ist ein Zwergplanet, der relativ nahe am Stern des Vega-Systems liegt. Bisher wurde noch kein Versuch unternommen, ihn bewohnbar zu machen. Auch wurden noch keinerlei interessante Ressourcen auf ihm entdeckt. Eine einzige unbemannte Sonde war alles, was Astrogeologen brauchten, um den Planeten von vornherein als potenzielle Einkommensquelle auszuschließen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Vega II (Aremis)</h2>
+                        <span>Aremis ist von einer Reihe von Planetenringen umgeben, welche ebenfalls einige kleine Schäfermonde beinhalten. Das ist für eine bewohnte Welt schon wahrhaft erstaunlich. Die Biosphäre des Planeten, die im Zuge des Terraforming-Prozesses für Menschen angenehm gemacht wurde, entwickelte sich auf natürliche Weise und erzeugte eine große Palette an Flora und Fauna, welche auch heute noch existiert. Aremis war der zweite Planet, der im Vega-System besiedelt wurde. Die meiste Zeit seines „Lebens“ war Vega II der Standort für eine Reihe von Navy- und anderen Stützpunkten sowie ein beliebter Anlaufpunkt für Strandurlaube. Auf dem Planeten wurden Basen aller vier Waffengattungen errichtet, darunter auch eine der ältesten Einrichtungen der Army, „Camp [General Chester C.] Manheim“. Diese Entwicklung änderte sich im Laufe der letzten Jahre. Aremis profitierte am meisten von der kürzlichen Bevölkerungsexplosion, die zur Entstehung mehrerer erwähnenswerter kleiner Städte sowie der Bewirtschaftung eines großen Teils des fruchtbaren Landes führte. Dieser Bevölkerungszustrom hat das System nach der Ernennung Aremis‘ zum „Planet to watch“ durch die New United gestärkt. Die Stadt New Corvo ist zurzeit die größte Stadt des Planeten und der Ort, an dem sämtlicher nicht-planetarer Handel stattfindet. Außerdem entwickelt es sich zum Zentrum für kulinarische Wissenschaften im UEE. Viele Ökonomen sind der Meinung, dass Aremis seinen Schwesterplaneten Selene in ein paar Jahren überholen und sogar dessen Relevanz übertreffen wird. Der örtliche Rat des Gouverneurs begann nachdrücklich auf einem Antrag auf Anerkennung durch den Senat zu beharren. Es wurden sogar Schritte unternommen, Freelancer und Söldner anzuwerben, welche die lokalen Polizeieinheiten und Milizen unterstützen sollten, um so die Kriminalität zu senken.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Vega III (Selene)</h2>
+                        <span>Selene ist das Herz des Vega-Systems, obwohl viele glauben, dass es diesen Titel nicht mehr allzu lange behalten wird. Wenngleich die Bevölkerung wesentlich geringer ist als in der Blütezeit des Systems, beherbergt Selene doch eine Einwohnerzahl, die durchaus Größenordnungen über der anderer Grenzwelten liegt. Selene wird im UEE-Senat angemessen repräsentiert – mit einem Sitz, der als recht einflussreich gilt. Die größte Stadt und Hauptlandezone ist Titus, eine wild wuchernde Megastadt, die von vergangener Größe zu träumen scheint. Während das Stadtzentrum ziemlich weit entwickelt ist, liegen rund um das Zentrum verrostete Bauprojekte, die über Jahrhunderte nie fertiggestellt worden sind. In letzter Zeit wurden viele dieser Projekte von externen Interessenten gekauft, die hoffen, die Region zu sanieren. Der Erfolg oder Misserfolg dieser Initiative muss sich noch zeigen. Ein spezieller Teil der Bevölkerung ist besonders interessant: die Nachkommen der Überlebenden aus dem Orion-System. Als blutdürstiger Haufen ohne Namen schließen sich die Nachkommen der Überlebenden, die einst auf Orion geflohen waren, oftmals zusammen, um grauenhafte Vergeltungsschläge im Vanduul-Raum zu unternehmen. Diese Missionen zahlen sich selten aus und sind extrem gefährlich, gelten jedoch als Auszeichnungen für wahre Söldner-Kampfpiloten.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Asteroidengürtel und Vega IV</h2>
+                        <span>Jenseits von Selene liegt der dichte Asteroidengürtel des Systems. Auch wenn er offiziell dem UEE gehört, finden in dem bereits stark abgebauten Gürtel keine Patrouillen statt. Unabhängige Vertragspartner ohne eigene Schürfrechte sind hier oft zu sehen und auch wenn dem Asteroidengürtel wertvolle Mineralien fehlen, wird er oft als eine Art Trainingsgebiet für angehende Schürfer gesehen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Die letzte Welt im Vega-System, Vega IV, ist ein Standard-Gasriese, eine massive, dichte, rotbraune Welt, die niemals mit Jupiter oder Krang in Sachen Schönheit wird konkurrieren können. Was Vega IV allerdings bieten kann, ist ein vernünftiger Anlaufpunkt für jeden, der Treibstoff für ein größeres Schiff sucht. Unabhängige Raffinerien sprenkeln den Orbit des Gasriesen und die äußere Wasserstoffschicht ist sogar rein genug, um dort selbst zu sammeln.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Lassen Sie sich nicht durch die Haltung der Einwohner täuschen – Vega steht an der Frontlinie. Vanduul sind in diesem System unterwegs und über Vega hinaus zu reisen bringt Bürger in akute Gefahr, auf Plünderer zu stoßen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Obwohl ich drei Tage in der Brigg verbrachte, ich Schulden von zwei Wochen Gehalt hatte und ich mich nur noch an die Hälfte erinnere, werde ich jedem, der fragt, schwören, dass das Beste daran, in der Navy zu sein, das freie Wochenende auf Aremis ist.“ </span>
+                        <span>–	Leutnant Donald Hywanti, Artillerie-Offizier im Ruhestand</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">„Ich arbeite auf einer Landezone, habe mit Leuten aus dem ganzen Universum gesprochen und je mehr ich getroffen habe, desto sicherer wurde ich, dass ich nie woanders als auf Vega leben würde. Sicher gibt es auch Menschen außerhalb des Systems, aber Vega ist für mich der einzige Ort, der ein richtiges Volk hat.“ </span>
+                        <span>– Terri Santos, Cargolympics Champion</span>
                     </div>
                 </div>
 

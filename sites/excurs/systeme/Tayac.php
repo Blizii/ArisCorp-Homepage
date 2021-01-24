@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Tayac</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TAYAC</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,91 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tayac/tayac.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Tayac</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Als ein einfaches System mit einer komplizierten Vergangenheit hat Tayac über vier Jahrhunderte, in denen wir das System besetzt hielten, das Beste und Schlechteste in den Menschen hervorgebracht. Entdeckt wurde es im ‚Eastern Expansion Program͚ des frühen 26. Jahrhundert. Das Klasse-G Hauptreihensternsystem wurde zum ersten Mal von einem UPE-Piloten im Jahr 2524 besucht, der den Sprungpunkt von Terra nach Nexus näher untersucht hatte. Mit drei Planeten und einem Asteroidengürtel wurde das System, bekannt als 368A, von den Vermessern für eine kommerzielle Entwicklung eingestuft, der innerste Planet wurde als Terraforming-Kandidat vermerkt.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Aufgrund der Schar neuer Systeme, die während des Jahrzehnts der Expansion entdeckt worden sind, wuchs der Rückstau an Planeten, die darauf warteten, terraformt zu werden, da die Finanzierung und die nötigen Ressourcen beansprucht wurden, sobald sie budgetiert waren. Erst im Jahr 2539 wurde mit dem Terraforming in Form einer Orbitalanlage auf 368A.01M (Tayac I) begonnen. Allerdings startete vor dessen Fertigstellung im Jahr 2541 der erste offizielle inter-spezies Krieg in der Geschichte der Menschheit. Als der Kampf gegen die Tevarin heftiger wurde, wurden alle unnötigen Projekte beendet, um sich darauf konzentrieren zu können, die Kriegsanstrengungen und die Schlagkraft der Flotte zu erhöhen. Das Terraforming von Tayac I war eines dieser Projekte, das von den Kürzungen betroffen war.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Das System blieb bis zum Ende des Krieges und dem Aufstieg von Ivar Messer in der Rolle als Imperator relativ unangetastet. Durch die Erweiterung der Kontrolle des Imperiums durch Messer wurde Tayac zu einer Militärzone, die für den zivilen Verkehr gesperrt war. Alle bekannten Sprungpunkte zu diesem System wurden vom Militär abgeriegelt. Erst Jahrhunderte später, nachdem die Herrschaft des Messer-Regimes zu Ende ging, wurde vollständig bekannt, was dort wirklich vor sich ging, während es völlig von der Öffentlichkeit abgeschirmt war.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Tayac I</h2>
+                        <span>Ivar Messer war erpicht darauf, Waffen zu entwickeln, die dem Imperium ermöglichten, zukünftige Konflikte schnell und mit minimalen Militärverlusten zu beenden, nachdem er sich, vor allem durch seine eigenen Erfahrungen an der Front, über den hohen Preis des Tevarin-Krieges klar wurde. Unter seiner Herrschaft wurden Dutzende strenggeheimer Blacklist-Initiativen, Pläne und Forschungsprojekte für Massenvernichtungswaffen aufgestellt und großzügig finanziert.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Eines dieser Projekte mit dem Codenamen Vespa war die Idee von Dr. Thessaly Tayac, der glaubte, dass die Terraforming-Technologie auch für Waffenzwecke benutzt werden könnte. Das nur zur Hälfte abgeschlossene Terraforming von 368A.01M wurde als perfekte Testumgebung ausgewählt und im Jahr 2546 wurde der kleine felsige Planet Dr. Tayac für Forschungszwecke freigegeben. Für die nächsten Jahrzehnte wurde der Planet systematisch terraformt und dann wieder „de-terraformt“, bis schlussendlich ein Planet mit sehr gutem Potential in einen öden Fels mit keinerlei Atmosphäre verwandelt worden war.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Obwohl Dr. Tayac den Terraformingprozess erfolgreich umkehren konnte, konnte sein Team die Technologie nicht in eine Waffe umwandeln. Es gab zwei Probleme: Größe und Zeit. Die Orbitalplattform, welche für die Destabilisierung der planetaren Biosphäre benötigt werden würde, hätte eine stattliche Größe. Es war unmöglich, sich ein Szenario vorzustellen, in dem die Navy eine solche Plattform während eines Gefechts sicher über einer feindlichen Welt positionieren könnte.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <span>Und selbst wenn sie es jemals schaffen würden, die Plattform in eine passende Position zu bringen, wäre der Destabilisierungsprozess viel zu langwierig. Bis zu Dr. Tayacs Ableben wurden bemerkenswerte Fortschritte erzielt, jedoch nicht genug, um das Projekt einem tatsächlichen Nutzen zuzuführen. Nach dem Tod des Doktors wurden die Zügel des Projekts Vespa weitergegeben und die Arbeit in dem System fortgeführt, das zu dieser Zeit in der Navy gemeinhin als „Tayac“ bekannt war. Obwohl Generationen über Generationen von Messers darauf hofften, dass Vespa Früchte tragen würde, blieben die Hürden einfach unüberwindbar. Im Jahr 2750 war Tayac I durch die Experimente so instabil geworden, dass es nicht weiter terraformt werden konnte und das Interesse an dem Projekt verlief sich im Sande wie seine Finanzierung.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span>Vespa wurde offiziell eingestellt und das Tayac System beinahe aufgegeben. Es dauerte aber nicht lang, bis sich die politischen Winde des Imperiums drehten und die Messers stürzten. In den darauf folgenden Unruhen wurden auch Dr. Tayacs Experimente öffentlich bekannt. Es war nicht nur eine schockierende Enthüllung dessen, wozu die Messers tatsächlich fähig waren, sondern belastete zusätzlich das ohnehin sehr fragile Friedensabkommen, das gerade erst mit den Xi͛An getroffen worden war. Als ein Zeichen des Vertrauens und als Versicherung, dass das alte Imperium der Vergangenheit angehört, teilte Imperator Toi alle Forschungsergebnisse des Projekts Vespa mit der Xi͛An-Regierung, schwörend, dass man diese Technologie nie wieder weiterverfolgen würde. The</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Ark / Die Arche</h2>
+                        <span>Nachdem sich die Regierung weiter vom vorherigen Regime distanziert hatte, schlug Imperator Marshall Leon vor, dass nach Jahrzehnten des Misstrauens und Krieges ein Leuchtturm des Friedens nötig sei, um die Völker des Universums zu vereinen. Seine Idee wurde zu dem, was später als „die Arche“ bekannt werden sollte, ein Verwahrungsort für umfassendes Wissen und ein sicherer Ort für diplomatische Diskussionen zwischen den Völkern. Es gab viele Vorschläge, wo die Arche beheimatet sein sollte, aber am Ende wurde Tayac I ausgewählt, um zu symbolisieren, wie großartige Werke Hoffnung und Licht über die Schatten unserer Vergangenheit gießen können.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span>Die ursprüngliche Konstruktion wurde im Jahr 2800 abgeschlossen und von Anfang an enthielt die Arche eine der größten öffentlichen Bibliotheken und Archivbestände im bekannten Universum. Aufgrund der fehlenden bewohnbaren Planeten in diesem System, wurde die Arche zum Zentrum der Aktivitäten in Tayac, mit Wissenssuchenden und auf sie ausgelegte Dienstleistungen rund um die Bibliothek. Obwohl sich die Arche noch nie bewegt hat, gibt es Gerüchte, dass sie sich im Hinblick auf ihr zweihundertjähriges Fertigstellungsjubiläum vielleicht zum ersten Mal auf ihre Reise durch die Sterne begeben könnte, so wie es Imperator Leon ursprünglich vor all diesen Jahren vorgeschlagen hatte. Alle, die die Arche noch besuchen möchten, sollten das jetzt tun, solange man den Vorteil hat, sie an einem semi-permanenten Standort finden zu können.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Tayac II</h2>
+                        <span>Tayac II, ein massiver Gasgigant, ist für seine ehrfurchtgebietende planetaren Ringe bekannt, die zu den dichtesten im UEE-Gebiet zählen. Die dunklen Linien sorgen für einen visuell anziehenden Kontrast zu der hellen Atmosphäre des Planeten, den sie umgeben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Tayac Asteroidengürtel Alpha</h2>
+                        <span>Das einzige Nennenswerte dieses kargen Asteroidengürtels mit wenigen Ressourcen ist eine umkreisende Kunstinstallation, die zur Feier des 100. Geburtstags der Arche beauftragt wurde. Das Projekt wurde im Jahr 2900 fertiggestellt, ist als Silent Song („Stilles Lied“) bekannt und stellt die erste gemeinsame Bemühung zwischen dem menschlichen Künstler Yosef Colt, dem Xi͛An Künstler Aor und dem Banu Erfindungsteam dar, die für ein ganzes Jahrzehnt zusammenlebten und arbeiteten. Einige sagen sogar, dass dieses Zusammenleben eine beeindruckendere Leistung ist als die Installation an sich.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Tayac III (Shepherd)</h2>
+                        <span>Der Zwergplanet umkreist eng den Asteroidengürtel und hat sich seinen Spitznamen dafür verdient, ein scheinbar wachsames Auge auf eine Herde Asteroiden zu haben. Es wird spekuliert, dass der Planet ursprünglich Teil des Gürtels war, bevor er mit Teilen der Herde verschmolz und sich dann von deren Resten getrennt hat. Reisewarnung Eine Mahnung ist angebracht, da die Arche und ihre unmittelbare Umgebung entsprechend des Arche-Vertrags als neutraler Raum betrachtet wird und die UEE dort keine Gerichtsbarkeit besitzt. Flüstern im Wind</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Wir konnten den Prozess ganze sechs Stunden aufrechterhalten. Eine beachtliche Leistung ungeachtet dessen, wie weit wir noch gehen müssen, bevor sich unser Bemühen selbst als nützlich erweist. Ein sehr lohnenswertes Bemühen, möchte ich hinzufügen, da all unsere Anstrengungen hier nichts im Vergleich zu seinem wahren Potential sind, die Leben unserer Bürger auf anderen Sternen zu sichern.“ </span>
+                        <span>–	Dr. Tayac, Projekt Vespa Fortschrittsbericht, 03.06.2572</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">„Diese Arche soll als Testament und stolze Aufzeichnung für die Leben dienen, die wir führen und alle vor uns bereits geführt haben.“</span>
+                        <span>–	Imperator Marshall Leon, Galaveranstaltung zu Ehren der Arche, 2800</span>
                     </div>
                 </div>
 

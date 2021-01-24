@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Nexus</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">NEXUS</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,97 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Nexus/Nexus.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Nexus</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>UDS-2445-3-09, Hathor, das „Wegekreuz des Verbrechens“: Das Nexus System hatte im Laufe seiner langen Geschichte viele Namen. Nexus ist nur der letzte und eindeutigste Spitzname dieser Sammlung. An einem strategisch sehr wichtigen Knotenpunkt gelegen und mit mehreren Sprungpunkten ist Nexus ein umgangssprachlicher Name für das System, der im 28. Jahrhundert zum ersten Mal in Bezug auf seine Rolle als Verbindungsstelle mehrerer gesetzloser Systeme verwendet wurde.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Als das UEE das System im Jahr 2931 für sich beanspruchte, startete die Regierung in einem Versuch, seine Assoziation mit Piraten auszulöschen, eine offizielle Initiative zur Verwendung eines älteren Namens: Hathor. Allerdings war der Name Nexus bereits zu sehr im Sprachgebrauch des Empires verwurzelt, weshalb die Bemühungen überall nur verspottet wurden. Schlussendlich gab das UEE nach und erkannte das System offiziell als Nexus an. Tatsächlich war sein Name immer ein deutlicher Hinweis auf die zu dieser Zeit vorherrschenden Zustände des Systems.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">UDS-2445-3-09</h2>
+                        <span>Nexus wurde am 9. März 2445 von Dominic Thapa entdeckt, einem UNE-Navypiloten, der das damals vom Militär als geheim eingestufte Cathcart System für neue Sprungpunkte sondierte. Es war das Militär, das dem System seinen ersten Namen gab – UDS-2445-3-09. Pfadfinder betraten das System nur kurze Zeit später und fanden einen bläulich-weißen Typ-A Hauptreihenstern, fünf Planeten und einen sehr mineralreichen Asteroidengürtel.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Die erste UNE Beurteilung bestätigte dieses Potential, wies aber auch auf ein Problem hin. Das System konnte nur durch das Cathcart System erreicht werden, das zu dieser Zeit ein reines für das Militär zugängliches System war. Anstatt die Öffnung Cathcarts für den Zivilverkehr zu riskieren, versuchte das Militär anfangs, selbst Nutzen aus dem System zu ziehen. Sie terraformten Nexus IV und führten sogar Terraforming-Experimente auf dem Smog-Planeten Nexus II durch.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Unglücklicherweise musste die Regierung zu dieser Zeit einem immensen Budgetdefizit ins Auge blicken und die kostspielige Entwicklung von Nexus wurde schnell auf das Abstellgleis geschoben. Das Militär war jedoch noch immer strikt dagegen, Zivilisten Zugang zum Cathcart System zu gewähren. Es musste also ein Kompromiss ausgearbeitet werden. Indem nur einzelnen Unternehmen eingeschränkter Zugang gewährt wurde, konnten strenge Kontrollen beibehalten werden. Die UNE verkauften die Bergbaurechte an Nexus also für eine stattliche Summe an die Hathor Group. Der Erlös wurde dazu genutzt, das Haushaltsloch zu stopfen. Einige Historiker glauben, dass diese Entscheidung der herrschenden Universalisten-Partei half, ihre Mehrheit in den eng ausgegangenen Wahlen in 2468 zu behalten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Die Hathor Group</h2>
+                        <span>Die Hathor Group erwarb im Januar 2468 alle Schürfrechte am Nexus System. Es war ein neuartiger Vertrag, welcher den UNE Jahrhunderte später als Inspiration für etwas ganz Ähnliches im StantonSystem diente. Die darauf folgende mangelnde Aufsicht durch die Regierung und die Öffentlichkeit ermöglichten es der Hathor Group, das System nach ihrem Belieben zu gestalten. Der Einfluss der Firma war so omnipräsent, dass sich die astronomischen Karten aus dem 26. Jahrhundert darauf als Hathor System beziehen. Während Hathor an der Macht war, wurden nur wenige Gesetze durchgesetzt. Die Militärpräsenz im Nachbarsystem Cathcart hatte abgenommen, nachdem sich das System in eine Müllhalde verwandelte und solange Mineralien abgebaut und Profite erwirtschaftet wurden, kümmerte sich die Hathor Group nicht darum, was ihre Angestellten und Vertragspartner neben der Arbeit anstellten. Nexus wurde für sein Glücksspiel, ungezügelte Gewalt und zahlreiche illegalen Aktivitäten immer bekannter. Verbrechen wurden neben dem Bergbau zum einzigen rentablen Wirtschaftsmotor. Die illegalen Aktivitäten wurden durch die später entdeckten, drei weiteren Sprungpunkte und den erhöhten Verkehr von den unbeanspruchten Nachbarsystemen nur noch verstärkt. Gangs begannen damit, die Flugrouten zwischen den Sprungpunkten und Planeten zu belauern und jedes Schiff, das sie fanden, auszurauben. Dies, kombiniert mit dem Würgegriff der Hathor Group, brachte die meisten Leute davon ab, das System zu besuchen und die meisten Unternehmen entschieden sich dagegen, dort Betriebe aufzubauen. Währenddessen betrieb die Hathor Group weiterhin Raubbau auf Nexus III, Nexus IV und dem Elcibre Gürtel bis die Profitspanne begann, unter ihr aufgeblasenes Sicherheitsbudget zu fallen. Die Hathor Group verließ das System offiziell im Jahr 2672 und hinterließ ein unwirtliches Ödland, mit unzähligen Bergbau-Narben bei mangelnder ziviler Infrastruktur. Es sollte daher nicht überraschen, was als nächstes geschah.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Das Wegekreuz des Verbrechens</h2>
+                        <span>Nachdem die Hathor Group das System verlassen hatte, stellte die von Bergbaustollen durchzogene Oberfläche von Lagos die perfekte Deckung für kriminelle Gruppen dar, die in das System kamen und dort Operationsbasen aufbauten. Die Bevölkerung des Systems schwoll an und ließ manche glauben, es könnte sogar Spider als Zentrum der Unterwelt ablösen. Während dieser Ära wurde der Name Nexus zum ersten Mal verwendet, um seine Rolle als krimineller Mittelpunkt zu beschreiben. Er verdiente sich in dieser Zeit auch den Zusatz: das „Wegekreuz des Verbrechens.“ Für mehrere Jahrzehnte stellte das UEE nur minimale Ressourcen bereit, um die illegalen Aktivitäten in dem System einzudämmen. Dann, im Jahr 2931, als sich Dean Kellars berühmter und namensgebender Run in das System ergoss, versuchten die UEE-Behörden, ihre Kontrolle wieder geltend zu machen. Sie waren schockiert, als sie feststellten, dass sich die Kriminellen nicht nur weigerten, zurückzuweichen, sondern auch nicht zögerten, das Feuer auf die Ordnungskräfte zu eröffnen. Nachdem Kellars Run schließlich zu Ende ging, war das UEE von dieser Missachtung derart angestachelt, dass sie eine Bewegung zur Rückgewinnung von Nexus und der strategischen Trennung von dem problembehafteten Cluster gesetzloser Systeme starteten. Seitdem hat das UEE eine grundlegende Infrastruktur in Nexus errichtet, inklusive der Etablierung einer militärischen und einer Advocacy-Präsenz. Dennoch sind die Zustände in dem System bestenfalls als riskant zu bezeichnen. Die Schiffsrouten sind weitgehend sicher und sogar Unternehmer, die das System für Jahrhunderte gemieden hatten, begannen damit, dort wieder Betriebe aufzubauen. Allerdings sollten unternehmerische Schrottsammler darauf hingewiesen werden, dass, obwohl das UEE Fortschritte in dem System erzielt hat, der Kampf um die Kontrolle über Nexus noch immer anhält. Während das UEE mit der Entwurzelung etablierter Krimineller auf Nexus III erfolgreich war, gestaltete sich das auf Nexus IV (Lago) nicht so einfach und erfolgreich.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Nexus I</h2>
+                        <span>Dieser Protoplanet umkreist den Stern des Systems so nah, dass er vollständig verkohlt ist. Dennoch hielt das die Hathor Group nicht davon ab, ihn auf Ressourcen zu scannen. Es wurde jedoch nichts von Wert gefunden, was niemanden überraschte.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Nexus II</h2>
+                        <span>Nexus II zeichnet sich durch eine dichte, stickstoffreiche Atmosphäre aus. Anfangs nutzte das UEE Nexus II für Terraforming-Experimente mit einem Smogplaneten, allerdings schlugen alle Versuche, eine atmungsaktive Atmosphäre zu erhalten, fehl. Viele glauben, dass die Kosten für diese gescheiterten Experimente das UEE dazu zwangen, das System an die Hathor Group zu „verkaufen.“</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <h2 style="font-family: 'Nasa'">Nexus III</h2>
+                        <span>Diese von Natur aus bewohnbare Welt war einst der zentrale Knotenpunkt für die Hathor Group, bevor sich die Outlaws die verlassenen Fabriken aneignete. Als das UEE beschloss, das System zurückzuerobern, war Nexus III ihr erstes Ziel. Nach einem langwierigen Kampf um die Kontrolle über den Planeten, rückte das UEEMilitär ein und richtete eine dauerhafte militärische Präsenz ein. Heute ist der Planet auf militärisches Personal beschränkt und niemand ohne die entsprechende Genehmigung sollte versuchen, dort zu landen. Elcibre Gürtel Im 26. und 27. Jahrhundert hatte die Hathor Group diesen kargen Asteroidengürtel stark ausgebeutet. Neuste technologische Fortschritte haben jedoch erst kürzlich noch unentdeckte Ablagerungen wertvoller Mineralien gefunden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Nexus IV (Lago)</h2>
+                        <span>Der Name Lago stammt aus einem berühmten Video aus dem 26. Jahrhundert über eine fiktionale Outlaw Zufluchtsstätte. In den 2920ern wurde diese Vision Realität. Durch die mangelnde Präsenz des UEE konnten sich die Outlaws in so großer Zahl sammeln, wie man sie sonst nirgendwo außerhalb des Spider-Systems findet. Auf dem Papier hat das UEE große Fortschritte bei der Rückeroberung des Planeten erzielt. Es wurden eine Advocacy-Station, lokale Polizeikräfte und eine kleine Zivilbevölkerung aufgebaut. Den Familien von Soldaten, die ihren Dienst auf Nexus III ableisten, wurden extrem lukrative Grundstücksangebote gemacht, in der Hoffnung, den Planeten mit respektablen Bürgern besiedeln zu können. Trotz all dieser positiven Entwicklungen hat Lago noch immer seine Probleme. Die Siedlungen sind klein, eng und wegen ständiger Angriffe krimineller Banden, welche die Ortschaften für ihre eigenen Zwecke erobern möchten, stark verbarrikadiert. Auch der Nachschub ist häufig knapp. Diese und weitere Probleme machen Lago zwar zu einem verlockenden Ort für unternehmerische Schrottsammler, aber auch zu einem weniger idealen Platz zum Leben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Nexus V (Roter Gott)</h2>
+                        <span>Ein Gasgigant, den die Einheimischen aufgrund seiner roten und dunkelbraunen wirbelnden Farben ‚Roter Gott͚ nennen. Einige Quellen behaupten, der Name ginge auf die ‚Sang Gestas͚ zurück, einer geheimnisvollen Gruppe von Outlaws im Lago System, die glauben, der Planet besäße mysteriöse Kräfte. Reisewarnung Auch wenn es große Fortschritte bei der Wiederherstellung von Recht und Ordnung auf Nexus gab, sollte jeder, der das System betritt, daran denken, dass es drei „S“s für ein sicheres Reisen gibt: Stay (bleibe) in der dir zugewiesenen Spur, Scanne deine Umgebung und Schilde hoch!</span>
+
+                        <br>
+                        <br>
+
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span></span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Der heutige Tag markiert einen stolzen Moment in der Geschichte. Denn heute lassen wir uns auf eine Partnerschaft mit der Regierung ein, um unser stetig wachsendes Territorium weiterzuentwickeln. Die Hathor Group und die UNE haben mit diesem System noch einiges vor.“ </span>
+                        <span>– Jela Martinez, CEO der Hathor Group, Pressemeldung, 2468</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">„Das ist das Problem, nich? Lauf lang genug auf Nexus rum und du weißt nicht, wenn du treff͛n wirst. Und du kannst dir nie sicher sein, wer davon der Schlimmste is. Wie ich zu sagen pflege, alle Wege führen nach Nexus und auf allen davon werdet ihr wahrscheinlich ausgeraubt.“ </span>
+                        <span>– Telly „Tubs“ Garson, Interview auf Nexus: Kreuzung des Verbrechens, 2925</span>
                     </div>
                 </div>
 

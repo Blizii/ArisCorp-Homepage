@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Virgil</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">VIRGIL</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,66 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Virgil/Virgil-System.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Virgil</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Das Virgil System wurde im Jahre 2412 durch Zufall entdeckt. Der berühmte Astrofotograf Alaine Viktus führte eine Deep Field Untersuchung etwa eine astronomische Einheit hinter der Kometenwolke des Vega Systems durch. Viktus hatte die Triebwerke seines Untersuchungsraumschiffs ausgeschaltet und war „dunkel geworden“, um seinen Scannern die maximale Auflösung zu ermöglichen. Als er versuchte, seine hochspezialisierte Sternenkamera zu aktivieren, war diese aufgrund einer nicht wahrnehmbaren Schiffsbewegung nicht in der Lage, einen Sternen-Lock durchzuführen. Weitere Nachforschungen ergaben, dass diese Bewegung aus der extremen Nähe – innerhalb von 400 Metern – zu einem nicht erfassten Sprungpunkt führte.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Allgemeine Verblüffung über Viktus unglaubliches Glück verwandelte sich schnell in beispiellose Passion für ausgedehnte Weltallentdeckung. Der Hauptreihenstern vom Typ-K, von Pressesprechern auf der Erde schnell als Virgil benannt, um einen Sinn von hoheitsvoller Schicksalsträchtigkeit zu etablieren, befand sich in einer Region des Alls, die naturgemäß als unerreichbar galt. Sein erster Planet war sogar der allerbeste Kandidat für Terraforming, der bis heute entdeckt wurde. Innerhalb von zehn Jahren war Virgil eine grüne, blühende Menschenkolonie und innerhalb eines Jahrhunderts eine todsichere Wahl für formale UPE-Repräsentation. Die schnelle Kolonisierung von Virgil führte zu „Project: Far Star“, dem von der Regierung finanzierten Marsch „nach draußen“, in einen Bereich des Alls, der durch Virgils Entdeckung freigeschaltet worden war.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Dann, so schnell sie begonnen hatte, kehrte sich die Situation wieder. Die Entdeckung der Vanduul im Jahre 2681 und der Ansturm ihrer zunehmend zerstörerischen Überfälle brachte Far Star und die galaktische Expansion nach Westen zu einem sofortigen Stillstand. Die Menschheit war geschockt von dem kompletten Fall und der nachfolgenden Aufgabe durch das UEE von Orion. Virgil verwandelte sich über Nacht in einen militärischen Außenposten mit ganzen Flotten, die nun von der ehemals so ruhigen Kolonie aus operierten. Einen einzigen Sprung von Tiber entfernt, dort wo das Empire die Front halten wollte, wurden Virgils Felder zur Unterstützung des massiven, militärischen Aufkommens angepasst.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Als Tiber fiel, kollabierte die Navy in vollem Rückzug und war nicht in der Lage, eine sekundäre Front zu etablieren, während die Vanduul unbarmherzig vorrückten. Die Vanduul zeigten keinerlei Gnade mit dem System, schlachteten militärisches Personal und Zivilisten vollständig ab. Virgil I idyllische Biosphäre wurde zu permanenten Wolken aus Asche und etwa 200 Jahre menschlicher Expansion wurden aus der Geschichte gelöscht. Einige Transporte entkamen dem Blutbad, geschützt von Abfangjägern des berühmten Squadron 214. Auch wenn sie die Chance hatten, dem System zusammen mit den Transporten zu entkommen, entschied sich jedes einzelne Mitglied des Squadrons dazu, nach Virgil I zurückzukehren, um zu versuchen, noch weitere Zivilisten zu retten.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>In den folgenden Jahren besuchten eine Reihe von Aufklärungsmissionen Virgil, bis ein Netzwerk von Überwachungsbojen vom Empire im Jahre 2790 verdeckt etabliert worden war, um eine Vorwarnung zu erhalten, wenn Vanduul-Klans das System betreten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Virgil I</h2>
+                        <span>Es gibt ein berühmtes Foto, welches auf Virgil I aufgenommen wurde. Es zeigt die verkohlten Überreste eines imperialen Zollhauses, zertrümmerte weiße Säulen, die einen rauchenden, kohlschwarzen Himmel umrahmen. Ein zerbrochenes Schild liegt auf der rechten Seite des Bildes, seine originale Beschriftung „EXPORTE“ wurde mit dem Wort TOD unterschrieben. Dieses Bild, zusammen mit einer Reihe von Interpretationen verschiedener Künstler, tauchte auf UEERekrutierungspostern auf, welches die Vanduul-Bedrohung für über ein Jahrzehnt anprangerte. Jahre zuvor, war der erste Planet des Virgil Systems das Aushängeschild des UPE für Terraforming. Wenn es jemals eine Welt gab, die genau dafür gemacht schien, einen einfachen Übergang zur Bewohnbarkeit durch Menschen zu ermöglichen, dann war es Virgil. Man fand heraus, dass der Boden des Planeten Supernährstoffe enthielt, die es von Menschen importierter Vegetation erlauben sollte, sich schnell zu entwickeln. In wenigen Jahren hatte sich die Atmosphäre des Planeten auf Erdstandard eingestellt. Zunächst mit weiten Teilen von üppigem, tropischen Wald und scheinbar endlosen Ebenen bedeckt, wurde Virgil schnell zu einer hochproduktiven AG-Welt und zu einem exotischen Touristenziel. Mit dem militärischen Aufbau änderte sich die Grundhaltung der Gesellschaft auf Virgil I, aber die natürliche Schönheit blieb. Antimaterievorräte und RaumschiffReparatur-Einrichtungen standen ganz natürlich neben den massiven Bäumen, welche hauptsächlich die tropischen und warmen Regionen umrandeten. Weil sie scheinbar das Ziel als Belohnung für ihren hart erkämpften Sieg im Tiber System ansahen, plünderten die Vanduul Virgil I mit einer zuvor noch nie gesehenen Grausamkeit. Trotz der fehlenden Befestigungen (einige der Einheiten des Empire hatten sich eingegraben, in der Annahme, dass die Flotte in Tiber den Feind auf Abstand halten würde), pulverisierten die Vanduul den Planeten mit katastrophalen Bombenangriffen, die mehr als Zurschaustellung ihrer Grausamkeit wirkten als zur Erfüllung bestimmter, strategischer Ziele. Hunderttausende Menschen starben bei der Attacke, entweder durch die Bombenangriffe oder weil sie von Harvestern zerrissen wurden, die auf den noch bevölkerten Planeten abgefeuert wurden. Heute wird Virgil selten besucht. Die Atmosphäre ist giftig und genug Asche wurde von den Bombenangriffen aufgewirbelt, um die Welt in den Zustand eines permanenten nuklearen Winters zu versetzen. Veröffentlichte Berichte von UEE-Spionage-Expeditionen beschreiben den Status des Planeten wie folgt: ein abgeerntetes Ödland mit immer wieder eingestreuten Skeletten titanischer Bäume, die einst Ehrfurcht und Bewunderung hervorriefen. Diejenigen, die einen Blick auf diese einzigartige Höllenlandschaft werfen konnten, sind gezwungen, sich zu fragen, ob die Vanduul diese Erinnerungen an die Vergangenheit des Planeten mit Absicht dort ließen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Virgil II & III</h2>
+                        <span>Das Virgil System enthält zwei andere Welten und ein Asteroidenfeld, von denen keines signifikant ausgeschlachtet wurde. Virgil II ist ein unbewohnter Smogplanet mit wenigen lohnenswerten, natürlichen Ressourcen. Wie Virgil I heute, ist die Oberfläche von Virgil II von einer natürlichen Smogschicht blockiert. Militärische Berichte haben bemerkt, dass die Vanduul Virgil II ein großes Interesse entgegenbringen. Der Grund dafür ist jedoch unbekannt. Ein durchschnittlich dichtes Asteroidenfeld trennt den zweiten und dritten Planeten. Ablagerungen von Eisen und Titan wurden identifiziert, aber nie in Mengen, um Bergbauoperationen während der menschlichen Bewohnung zu etablieren. Der letzte Planet des Systems, Virgil III, ist ein Eisgigant. Großteilig unauffällig ist Virgil III – ein aufgewühlter Ball aus Wasser, Ammoniak und Methan. Er wäre als Quelle genutzt worden, wenn das System weiter entwickelt worden wäre.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Das Virgil-System wurde durch das UEE als ein Vanduul-System eingestuft. Reisen in dieses System sind daher ernsthaft riskant.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Während der Rest der Planeten verrückt ist nach diesen Banu oder wie sie sich nennen, fühle ich mich sicherer hier mit meiner eigenen Art, weit weg von all den Alienfaxen, die so ablaufen.“ </span>
+                        <span>–	Gouverneur Jack Koch, diente als Gouverneur unter Meyer von 2440 bis 2446</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;"> „Wir werden nicht vergessen.“</span>
+                        <span>– Tam Thackston (Befehlshaber, UEEN), Squadron 214, Bravo-Flugführer</span>
                     </div>
                 </div>
 

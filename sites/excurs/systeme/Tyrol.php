@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Tyrol</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TYROL</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,90 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tyrol/Tyrol.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Tyrol</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>In diesem System am Rande des Todes umkreisen sieben Planeten einen roten Riesen, der sich in seinem Spätstadium befindet. Auch wenn es schwierig ist, aus astronomischer Sicht eine Zeitschätzung abzugeben, glauben Wissenschaftler jedoch, dass der Stern innerhalb der nächsten paar tausend Jahren jederzeit in einer Supernova aufgehen könnte. Da dieser Risikofaktor so schwer einzukalkulieren ist, hat das UEE Tyrol in der Hoffnung, die Verluste so gering wie möglich halten zu können, zur wissenschaftlichen Forschungszone erklärt.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Das bedeutet, dass dort niemand Grundstücke erwerben kann und jegliche orbitale Bauten von der Regierung genehmigt werden müssen. Gleichwohl: Viele, von Non-Profit-Bildungsinstituten bis zu Herstellern hochwertiger Waffen, haben dennoch in Expeditionen nach Tyrol investiert, um die Entwicklung des Sterns zu studieren und Experimente durchzuführen. Diese Experimente wären zu gefährlich, als dass sie in stärker bevölkerten Systemen durchgeführt werden könnten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Neben diesem wissenschaftlichen Bestreben gibt es jedoch noch einen weiteren Grund, den Weg nach Tyrol auf sich zu nehmen. Durch die beinahe nicht vorhandene Advocacy-Präsenz und den geringen UEE-Navy-Kräften ist das System ein Magnet für alle, die dem wachsamen Auge des Gesetzes entgehen wollen. Tyrol gilt im Bewusstsein der Bevölkerung daher als Synonym für wild, sorglos und verlassen. Die Banditen und Schurken, die sich dazu entschlossen haben, die zwei inoffiziellen Siedlungen dieses Systems zu bevölkern, werden oft als romantisierte Figuren gesehen – als Menschen, welche die ultimative Entscheidung für sich getroffen haben, den Tod nicht zu fürchten und frei zu leben. Die Realität hingegen ist, dass die meisten Bewohner von Tyrol ihre Wahl aus Verzweiflung heraus getroffen haben oder einfach, weil sie nirgendwo anders hingehen konnten.</span>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h1 style="font-family: 'Nasa'">Die inneren Planeten</h1>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Tyrol I – III</h2>
+                        <span>Der erste Planet im Tyrol System ist eine verkohlte Hülle, die sich der rote Riese langsam einverleibt. Im Jahr 2930 wurden als Teil eines Forschungsvorhabens, den sterbenden Stern aus der Nähe erforschen zu können, auf dem größten übrig gebliebenen Mond des Planeten eine Reihe miteinander verbundener Forschungsstationen errichtet. Die Unternehmensgruppe, welche für den Betrieb der Anlage verantwortlich war, konnte diese jedoch nicht einmal für ein Jahrzehnt aufrecht erhalten. Die Finanzierung wurde 2941 eingestellt und die Anlage schnell von kleinen Schmugglerringen übernommen. Die heute als „Front Row“ bekannte Bevölkerung des Mondes hat einen passsenden Sinn für Humor in Bezug auf die Tatsache, dass sie die Ersten sein werden, welche Tyrols Supernova erleben.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Im Gegensatz zu Haven, einer weiteren einzigartigen Siedlung auf Tyrol V, bleiben die Bewohner von Front Row selten lange vor Ort. Sucht man nach illegalen Gütern und möchte auf die Einmischung der Polizei verzichten, sind die Dealer von Front Row die beste Wahl. Es wurde zu einem Ort, an dem man jeden treffen kann, von Drogen-Dealern bis hin zu skrupellosen Auftragskillern. Man sollte bei längeren Aufenthalten jedoch daran denken, dass das gesamte System jederzeit ausgelöscht werden könnte.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Der zweite und dritte Planet sind nicht der Rede wert. Forscher glauben, dass Tyrol II irgendwann einmal eine Supererde war. Heute ist er aber nur noch ein sich nicht drehender und von Flammen überzogener Eisenkern. Tyrol III ist trotz seiner reichhaltigen Mineralien ein ähnlicher Friedhof. Es gibt noch immer Diskussionen darüber, ob es sich dabei um eine von der Evolution des Sterns zerstörte Welt handelt oder ob sie sich überhaupt nie richtig geformt hatte. Mit Ausnahme der wissenschaftlichen Expeditionen zur Erforschung der Oberfläche gibt es keinen wirklichen Grund, auf Tyrol III landen zu wollen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Das mittlere System Tyrol IV & Asteroidenfeld</h2>
+                        <span>In grauer Vorzeit wies Tyrol einen gesunden grünen Gürtel auf, in dem auch das Asteroidenfeld und der vierte Planet des Systems liegen. Das besonders dichte Asteroidenfeld, das mit ein wenig mehr Zeit vielleicht sogar ein Planet hätte werden können, enthält noch immer eine Menge wertvoller Mineralien, nach denen auch heute noch Bergarbeiter suchen – zumindest die, die genug Mittel haben, um ihre eigene Ausrüstung mitzubringen und die keine Angst davor haben, in einem System ohne Recht und Gesetz zu arbeiten. Über Tyrol IV wird spekuliert, dass es einst ein Gasgigant war, dessen Atmosphäre komplett abgebaut wurde. Zu Beginn war er eine Quelle für Edelsteine, welche einst durch den gashaltigen Überdruck geschaffen wurden. Heute sind seine wertvollen Ressourcen nur noch schwer zu finden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Tyrol V (Haven)</h2>
+                        <span>Der wahrscheinlich interessanteste Planet des Systems ist Tyrol V. Haven ist aus einem einfachen Grund so interessant: Es gibt dort Einheimische. Als frühere eisige Kugel wurde die Oberfläche von Haven durch die Entwicklung des Sterns in einen roten Riesen geschmolzen. Übrig blieb ein trostloser Fels, übersät mit Schluchten und gewaltigen unterirdischen Höhlen, die in Jahrtausenden unter dem Eis entstanden sind. Genau hier, versteckt unter der nun erdrückenden Hitze auf der Oberfläche, hat eine besondere Mischung aus Siedlern, Outlaws und Nihilisten ihr Zuhause. In der Populärkultur wird Haven als „letzte Chance“ für die Unverbesserlichen angesehen – eine Heimat für diejenigen, die keinen Weg mehr in das zivilisierte Universum finden können und diejenigen, die das nicht mehr wollen. Die allgegenwärtige Gefahr einer Supernova hängt über der planetaren Kultur, wird aber schlussendlich als eine Tatsache des Lebens behandelt. Es werden keine Ressourcen für Evakuierungstransporte oder Frühwarnsysteme verschwendet. Wenn man das Leben unter den Abtrünnigen auf Haven gewählt hat, hat man auch seinen Frieden mit einer Welt gemacht, auf der das gesamte Leben in einem unerwarteten Augenblick ausgelöscht werden kann. Besucher erhalten den Ratschlag, die Schattenseite von Haven nur mit starken Thermalschilden zu verlassen. Ungeschützte Individuen können die Belastung der Planetenoberfläche nur wenige Augenblicke überleben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Die äußeren Planeten Tyrol VI & VII</h2>
+                        <span>Der sechste Planet im Tyrol System ist ein typischer Jupiter-ähnlicher Gasgigant. Eine herumwabernde Masse aus farblichem Wasserstoff und Helium. Tyrol VI ist dadurch bisher nur geringfügig vom Verfall des Sterns betroffen. Der Planet wird häufig von Leuten für eine Tankfüllung genutzt, die töricht genug sind, das System zu bereisen, obwohl es hier keine richtigen Raffinerien gibt Wissenschaftler haben eine Holografie-Transmitter-Ausrüstung im Inneren eines Asteroiden an einem der Lagrange-Punkte des Planeten installiert, um die wahrscheinlich ziemlich beeindruckende Lichtshow aufzunehmen, die entsteht, wenn die Supernova schlussendlich die Atmosphäre entzündet – auch wenn die Astrophysik-Gemeinschaft immer noch geteilter Meinung darüber ist, ob dies wirklich eintreten wird oder nicht. Sie hoffen, dass es die Comm-Drohne noch durch den Sprungpunkt schafft, bevor das System in Flammen aufgeht. Der letzte Planet im Tyrol System ist ein kleiner Protoplanet, dessen einstiger Zustand heiß diskutiert wird, jedenfalls von denen, die sich dafür interessieren.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <span>Egal ob „Sieben“ – wie er im System selbst bezeichnet wird – technisch gesehen ein Planet ist oder nicht, so erwarten Experten, dass es das einzige orbitale Himmelsobjekt ist, das nicht direkt von der Supernova betroffen sein wird. Mehrere Universitäten haben darüber diskutiert, den Planetoiden in eine dauerhafte, bemannte tiefgefrorene Basis zu verwandeln, von der aus der Vorgang in Sicherheit beobachtet werden kann. Doch bisher hat niemand die notwendige Finanzierung für ein solches Unterfangen auftreiben können.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Schäden am Schiff zu erhalten, wenn man ein System wie Tyrol besucht, das einen Stern besitzt, der bald zur Nova wird, ist sehr wahrscheinlich. Behalten Sie Ihr Schiff daher im Auge und legen Sie ein wenig Geld auf die Seite, um Reparaturen durchführen zu können, wenn der Besuch vorbei ist.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Vor einigen Jahren war ich auf Front Row, um darauf zu warten, dass sich ein paar Unstimmigkeiten abkühlten, als da dieses Schiff bei der Landung fast einen Unfall machte. Ein Kerl taumelte heraus, blutete stark, begann nach Yanda zu rufen, einem Mediziner, der von Zeit zu Zeit vorbeikam. Brüllte stundenlang. Fand nie heraus, dass Yanda am Tag zuvor da gewesen war. Aber was für ein nettes Schiff. Ich fliege es noch heute.“ </span>
+                        <span>– Corinda Fenrick, verurteilter Attentäter, 2928</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">„Dann lassen Sie uns Tyrol als Erinnerung an den Einfluss der Menschheit auf das Universum nutzen. Wie verzweifelt wir versuchen, die Welt um uns herum zu formen, die Natur zu zwingen, sich unserem Willen unterzuordnen, unseren Plänen, und wie klein diese Anstrengung im Vergleich zur zerstörerischen Kraft eines Sterns ist.“ </span>
+                        <span>– Dr. Flower Raith, Menschen gegen das Univerum, Rhetor Unity Presse, 2935</span>
                     </div>
                 </div>
 

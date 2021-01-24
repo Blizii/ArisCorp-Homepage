@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Taranis</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TARANIS</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,78 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Taranis/taranis.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Taranis</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Das steinige Herz des Grenzgebiets! Taranis ist am besten bekannt als eines der Systeme von Kellar´s Run, aber das Asteroiden- und Mondtrümmerfeld des Taranis Systems hat sich als gefährlich für viele Piloten herausgestellt, die nicht die Fähigkeit besitzen, diese Gefahren zu umschiffen.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Taranis wurde im Jahre 2578 vom berühmten UNE-Untersuchungsschiff Mythic Horizon entdeckt. Als Heimat eines Hauptreihensterns vom Typ-A und von vier Planeten tauchte nur ein HochrisikoKandidat für das Terraforming im ersten Untersuchungsbericht auf. Kurz nach der Entdeckung war das System Ort einer Tragödie: Eines der Untersuchungsschiffe der Mythic Horizon ging mit allen an Bord durch einen Meteoriteneinschlag verloren.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Taranis ist kürzlich Gegenstand der Popkultur geworden, da es eine besondere Rolle im Arena Commander von Original Systems hat. Die „Broken Moon of Taranis“-Karte ist eine von zweien, die in der populären, öffentlichen Demo des sehr beliebten Simulators zur Verfügung steht. Das Setting wirft Spieler in einen Kampf gegeneinander inmitten eines Trümmerfeldes nahe Taranis II. Piloten müssen massiven, fliegenden Felsen sowie pulsierenden Terraformern ausweichen, während sie einen ultra-realistischen „Battle Royal“-Kampf austragen. Die Wahl von Taranis im Arena Commander führte zu erhöhtem – und sehr gefährlichem – Tourismus im System, da sich selbsternannte „Arena Nuts“ von überall vor den lunaren Resten fotografieren und als Hologramm verewigen lassen wollen.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Taranis I</h2>
+                        <span>Der erste Planet im Taranis System ist ein typischer, sonnenbeschienener innerer Zwerg, der zu heiß für menschliche Besiedlung ist. Der Planetoid war die Quelle für einen eigenartigen Zwischenfall in der Mitte des 26. Jahrhunderts: Eine Überprüfung der ersten Untersuchungsdaten (Radar, Scanner, Interferometrie und Langreichweiten-Bildgebung) produzierte ein Bild, das wie ein menschliches Gesicht aussah, welches in die nördliche Polarregion eingeprägt zu sein schien. Das sogenannte „Gesicht von Taranis“ war ein kurzer, kultureller Wahn auf der Erde und sorgte letztendlich für eine privatfinanzierte Expedition zu der Welt, nur um zu bestätigen, dass das Bild lediglich eine Bergkette war, die aus einer unglücklichen Position heraus fotografiert worden war. Der Vorfall zog eine Reihe von Verschwörungstheoretikern an, die darauf bestanden, dass die Regierung Beweise für eine dort lebende Alienzivilisation verschwinden lassen wollte.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Taranis II & Asteroidengürtel</h2>
+                        <span>Nun am besten bekannt für den Ort des „Broken Moon“, war Taranis II ein Opfer des übereifrigen Terraforming-Wahns der Messer-Ära. Die kernlose Welt wurde zunächst als schlechte Wahl für Terraforming und Kolonisierung klassifiziert. Aber weil die Regierung viel mehr Wert auf das „wir können“ statt auf das „wir sollten“ legte, wurde Taranis eine der vielen Welten, die durch einen Terraforming-Fehltritt zerstört wurde. In diesem Fall war es die Schuld von Ophion Inc., dem GeoEntwicklungsunternehmen, das mit der Prozessierung der Welt betraut war. Die Firma versuchte eine experimentelle Terraforming-Technik mit dem kernlosen Planeten, bei der Energie aus dem ihn umkreisenden Mond abgezogen wurde. Im Falle von Taranis II sorgten minderwertige Teile, Sklavenarbeit und dubiose Wissenschaftler dafür, dass es Ophion fertig brachte, den Mantel von Taranis kleinem Mond zu zerbrechen und ihn in Millionen gefährlicher Stücke zu spalten. Zusätzlich zu einem tödlichen Trümmerfeld, welches vermutlich noch für Jahrhunderte den Planeten bombardieren wird, entzündete der Prozess die Terraforming-Maschinerie im Orbit. Manche der Stapel brennen bis heute und verwandeln die Oberfläche des Planeten in wertlose Asche. Hinter Taranis II und seinem ehemaligen Mond liegt ein extrem dichter Asteroidengürtel, der durchquert werden muss, um das System zu passieren. Auch wenn er ein Risiko für die Navigation darstellt, ist der erste Taranis-Gürtel nicht besonders mineralienreich und nur sehr wenige Abbaufelder wurden dort platziert.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Die besten der besten Schmuggler verstehen es als guten Ort zum Verstecken und ab und zu planen einige hochkarätige Piraten im Gürtel Überfälle, aber selbst sie werden immer wieder Opfer von Steinschlägen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Taranis III & Asteroidengürtel</h2>
+                        <span>Taranis III ist eine rauchige, stürmische Welt, die sich am Rand der habitablen Zone des Systems befindet. Die ständigen Stürme des Planeten sind die Quelle des Systemnamens – Taranis war der keltische Gott des Donners. Der Planet besitzt keine atembare Atmosphäre, wurde aber trotzdem von Menschen besiedelt. Die Bethor-Forschungsstation, die im Jahre 2536 zum Studieren von Wetterkontrolltechniken gegründet wurde, expandierte ursprünglich über Jahrhunderte und wurde zu einer vollständigen Siedlung für Tevarinflüchtlinge und menschlicher Auswanderer. Die ursprünglichen Besitzer sind jedoch schon lange abgezogen und Bethor ist Gerüchten zufolge nun unter der Kontrolle eines Syndikats.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <span>Der zweite Taranis Gürtel befindet sich hinter Taranis III. Er ähnelt dem inneren Gürtel, ist jedoch weniger dicht und verfügt über eine Reihe sicherer Anflugvektoren – bis zu dem Punkt, an dem der Anflug auf Taranis III weniger gefährlich ist als das Durchqueren des Systems selbst.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Taranis IV</h2>
+                        <span>Taranis IV ist ein mittelgroßer Gasgigant, der aus Wasserstoff und Helium besteht. Er ist ein gelegentlicher Zwischenstop für Schiffe, die ihren eigenen Treibstoff herstellen können und sich außerhalb des Betagürtels des Systems befinden. Solche Zwischenstops sind aber selten und weit verstreut. Es kommt fast nie vor, dass jemand ohne ausreichend Treibstoff überhaupt ins Taranis System fliegt und abgesehen davon ist es auch ziemlich unauffällig. Es wurde keine Orbit-Station etabliert.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Besucher des Taranis Systems sollten extrem vorsichtig sein. Ein Durchqueren des Systems sollte nur von Top-Piloten und von Schiffscrews probiert werden, die Erfahrung mit Pilotieren in dichten Asteroidenfeldern haben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Es ist meine Hoffnung, dass die Opfer unserer Freunde und Kollegen im Streben nach Wissen das System zu einem Leuchtfeuer für die zukünftige Expansion der Menschheit macht.“ </span>
+                        <span>– Capt. Glen Whitacre Grabrede für die verlorene Crew der Mythic Horizon.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span style="font-style: oblique;">„Ophion hat sich den Fortschritten in der Wissenschaft verschrieben und manchmal bedeutet das, Risiken einzugehen. Wir wissen, dass unsere Geoingenieure aus unkonventiellen Backgrounds kommen, aber um wirklich nach Größe zu streben, muss man bereit sein, Risiken einzugehen.“ </span>
+                        <span>– Auszug aus der Ophion Terraforming Präsentation</span>
                     </div>
                 </div>
 

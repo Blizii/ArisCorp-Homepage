@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Tiber</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">TIBER</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +30,79 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tiber/Tiber.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Tiber</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Der Reiseführer für Tiber kann mit einem einfachen Satz zusammengefasst werden: Tu es nicht. Als Schauplatz unzähliger Schlachten zwischen Menschen und Vanduul ist Tiber eine blutende Wunde, die kein Anzeichen von Heilung zeigt. Tiber wurde erstmals durch UNE-Forscher des Projekts Far Star im Jahre 2474 kartographiert. Als Heimat eines Standard K-Typ-Hauptsequenzsterns, der von zwei kleinen Planeten umkreist wird, besaß Tiber keine neuen exotischen Ressourcen oder strategischen Sprung-Verbindungen, sodass das System nur langsam besiedelt wurde. Kleinere Bergbauunternehmen, die sich über die günstigeren Genehmigungen und Gebietsrechte freuten, siedelten sich stattdessen an.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <span>Das System existierte hauptsächlich als Zwischenstopp für Reisende nach Orion bis zum 27. Jahrhundert, als die Klans der Vanduul begannen, Orion mit zunehmender Wildheit und Häufigkeit zu attackieren. Tiber wurde zu einem sekundären Sammelpunkt für Militärkräfte, welche zurückfielen und ihre Schiffe reparierten, bevor sie zurück an die neue Front gingen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Nach der Schlacht von Orion im Jahre 2712 gab das UEE das System auf und verstärkte Tiber als nächste Frontlinie, in Erwartung, dass die Vanduul schnell folgen würden. Sie kamen jedoch nicht. Die Vanduul-Klans blieben in Orion und begannen damit, das System seiner Ressourcen zu berauben. Sie schienen den Sprungpunkt nach Tiber nicht zu kennen oder sie interessierten sich nicht dafür. Das änderte sich im Jahr 2726, als eine Patrouille der UEE-Navy eine einzelne Vanduul Blade im System antraf. Die Blade schaffte es, durch einen Sprungpunkt in ein damals unbekanntes System zu entkommen. Innerhalb desselben Jahres begann ein Klan mit Angriffen auf das System.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Der Krieg erreichte Tiber schlussendlich 2732 in Form eines lang andauernden, militärischen Konfliktes, der als die Belagerung von Tiber bekannt wurde. In den vier Jahre lang dauernden Gefechten versuchte das UEE verzweifelt, sich einzugraben und das System gegen die eindringenden Vanddul zu verteidigen. Das Militär warf alles, was es hatte gegen die Vanduul und verlor mehrfach beinahe das System bis die Vanduul im Jahre 2736 die Linie vollständig durchbrachen.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <span>Die Niederlage kam so schnell und unerwartet, dass das Militär nicht darauf vorbereitet war. Während sich die Navy-Kräfte in ein sicheres UEE-System zurückzogen, waren sie nicht dazu in der Lage, eine Verteidigung in Virgil zu errichten. All diejenigen, die hofften, dass die Vanduul wieder am Sprungpunkt stoppen würden, wie sie es bereits zuvor in Orion getan hatten, wurden schmerzlich enttäuscht. Die Vanduul überrannten Virgil, als sie dem UEE nachjagten und eroberten es binnen eines Jahres ebenfalls.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Grinder</h2>
+                        <span>Bis zum heutigen Tag ist das System von den Narben des Krieges gezeichnet. Zerstörte Stationen, Schiffe und Trümmer übersäen das All und die Planeten. Das Militär des UEE hat das System offiziell als von den Vanduul kontrolliert erklärt, jedoch in den nachfolgenden Jahren nicht weniger als 19 größere Operationen durchgeführt, im Versuch, die Vanduul aus Tiber zu vertreiben. Gewaltige Flottenmanöver, Landungsversuche auf Tiber II und sogar „Clean Slate“-Operationen schlug fehl. Letztere sollten die Fähigkeit des Systems, eine militärische Besatzung zu versorgen, zerstören. Millionen starben bei diesen Versuchen und die ewig wachsenden Trümmerfelder sind mittlerweile legendär. Zahllose Zivilisten, die das Trümmerfeld als potentiellen Profit ansahen, erlitten das selbe Schicksal. Die Kämpfe gehen bis heute unvermindert weiter. Zusätzlich zu den regulären Aufklärungseinsätzen und den gelegentlichen Flotten-Aufklärungseinsätzen wird das System jedes Jahr von tausenden privaten Raumschiffkapitäne beflogen. Ob sie jetzt sich selbst in einem Kampf gegen eine Scythe beweisen wollen oder an den Ressourcen des Systems interessiert sind, ist ihr Schicksal doch immer das gleiche: Mahlgut für den Grinder.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Tiber I</h2>
+                        <span>Tiber I ist ein kleiner, kompakter Planet nahe der Sonne Tibers. Die kohlendioxidhaltige Atmosphäre des Planeten ist atembar, aber die extreme Hitze der nahen Sonne würde das Leben hier zu einem unangenehmen Unterfangen machen, sogar ohne die andauernden Kämpfe. Der Orbit von Tiber I befindet sich außerdem genau innerhalb eines besonders schweren Asteroidengürtels, was die Erkundung noch schwieriger macht. UEE-Deep-Space-Fotografiestationen haben gleichwohl ungewöhnliche Anomalien im Wettersystem von Tiber I beobachtet, von denen Meteorologen glauben, dass sie für bessere Lebensbedingungen alle vier Jahre sorgen könnten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Tomb</h2>
+                        <span>Als trockene Wüstenwelt, bedeckt von fast blutrotem Kupferstaub, repräsentiert Tomb mehr als alles andere den unnachgiebigen Schlund der Vanduul-Kriegsmaschinerie. Der Großteil der Planetenoberfläche ist mit Wracks von Raumschiffen und früheren Kriegsmaschinen übersät. Die Überbleibsel zahlloser zurückgeschlagener Attacken des UEE, private Schiffe auf der Suche nach Profit und zerstörte Vanduul Technologie bedecken den gesamten Planeten.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <span>Tomb ist jedoch kein dauerhafter Friedhof: Die Wracks, die sich hier ansammeln, werden durch gewaltige Vanduul-Harvester verschlungen. Diese mechanischen Monster verschlingen alle Formen von Materie und konvertieren sie in nutzbare Materialien für die Vanduul-Kriegsmaschinerie. Die in Tiber anzutreffenden Harvester haben einen schrecklichen Doppelzweck. Sie scheinen der Ursprung neuerer Harvester zu sein, die auf menschliche Kolonien während Raubzügen losgelassen wurden. Alles, von den Wracks der Raumschiffe bis hin zu den Knochen der gefallenen Soldaten, füttert am Ende den Feind, den sie besiegen wollten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span>Die Welt ist auch Heimat zahlloser Kriegslager der Vanduul, spartanische, temporäre Lager, die von den dauerhaft umherziehenden Klans genutzt werden. Während Menschen die Umwelt von Tomb nicht sehr einladend finden würden, scheinen die Vanduul im Klima des Planeten zu gedeihen und interessieren sich anscheinend nicht für die mit Trümmern gezeichnete Oberfläche. Eines dieser Lager aufzusuchen, wäre reiner Selbstmord für einen Menschen. Freigegebene Berichte von versuchten Landungen der Marines geben jedoch ein solides Wissen über das übliche Layout dieser Lager.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <span>Während Tomb ein attraktives Ziel für hoffnungsvolle Schrottsammler zu sein scheint, sollte man gewarnt sein, dass es keine bekannten Berichte über eine erfolgreiche Landung auf der Planetenoberfläche gibt. Reisende sind gewarnt, jeden Versuch einer Landung zu unterlassen. Das UEE war nie dazu in der Lage, eine Landezone auf Tomb einzurichten und so lange man nicht Teil eines unglücklichen Marine-Trupps ist, hat man wenig Chancen, die Oberfläche überhaupt lebend zu erreichen. Reisewarnung Reisen Sie unter keinen Umständen in das Tiber System. Streitkräfte der Vanduul haben sich hier mit einer dauerhaften Besatzung eingerichtet.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">„Es ist unsere Zeit. Die Linie wurde gezogen und zum ersten Mal wird der Feind unsere Entschlossenheit im Kampf spüren. Wenn sie gegen uns pressen, pressen wir zurück. Sie werden lernen, dass die Menschheit aufgehört hat, davon zu laufen.“ </span>
+                        <span>–	Großadmiral Tesca Halimeade, kommandierender Offizier der UEE Navy Kräfte in Tiber, 2735 (im Kampf getötet)</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">„Ich habe so etwas noch nie gesehen. Diese… Maschinen… wenn man sie so nennen kann, wie sie Schiffe und Körper verschlangen… es war schrecklich. Die Geräusche, die sie machten, das Knirschen des Metalls und das surren der Klingen… man konnte es unter seiner Haut spüren… Ich hoffe, so etwas nie wieder hören zu müssen.“ </span>
+                        <span>– Ein unbekannter Minenarbeiter der für das ignorieren eines militärischen Befehls auf der Flucht von Tiber verhaftet wurde. 2801</span>
                     </div>
                 </div>
 

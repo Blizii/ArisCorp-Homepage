@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Pallas</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
+
 <body>
   <!-- //// HEADER INCLUDE //// -->
     <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
@@ -22,7 +23,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">PALLAS</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,74 +31,128 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Pallas/pallas.jpg" width="110%" height="auto">
+                    <h2 class="short-hr-left">Excurs - System: Pallas</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <span>Das Pallas-System ist am besten bekannt als Ort des ersten Kontakts zwischen den Menschen und den Xi’an. Diese ungewöhnliche erste Begegnung, die dazu führte, dass 276 Menschen von den Xi’an gefangen genommen wurden, ist bekannt, aber ihre Nachwirkungen sind viel weniger bekannt. Die Krise hat auch die Voraussetzungen für den Kalten Krieg geschaffen und das Misstrauen zwischen den Völkern für die kommenden Jahrhunderte gesät.</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <h2 style="font-family: 'Nasa'">Ungehinderte Expansion</h2>
+                        <span>Anfang des 26. Jahrhunderts wurde die Menschheit mit der Aussicht auf Entdeckung und Ausbreitung vereinnahmt. Die Fortschritte in der Scantechnologie machten ihre Komponenten viel zugänglicher, während Pioniere der Technik die Terraforming-Prozesse verfeinerten, was zu einer Zunahme potenzieller Forscher führte, die auf der Suche nach dem nächsten unentdeckten Gebiet waren.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <span>Die rasche Ausbreitung der Menschheit in zahlreiche neue Systeme verursachte ein Problem der Verwaltung. Die Vereinten Nationen der Erde (UNE) haben erkannt, dass sie nicht für die Kontrolle einer Multi-System-Expansion errichtet wurden. Diese Erkenntnis führte schließlich zur Bildung einer neuen Regierung, um die neuen Regionen des Hoheitsgebiet der Menschheit widerzuspiegeln: die United Planets of Earth (UPE).</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <span>Eine Vielzahl von Reformen begleitete diese Namensänderung. Es wurde ein Regierungstribunal, bestehend aus einem Generalsekretär, einen General und einem Anwalt, geschaffen. Es wurden neue Regeln und Vorschriften eingeführt, um die weitere Ausbreitung der Menschheit zu den Sternen zu regeln. Während viele Unternehmen diese neuen Gesetze anerkannten und respektierten, ignorierten andere sie, vor allem wenn lukrative Terraforming-Rechte in der Schwebe hingen. Eine solche Firma, Gaia Planet Services, wurde das berüchtigtste Beispiel für Letzteres. Im Jahre 2530 entdeckte Kathryn Segovia das Pallas-System durch das Baker-System und beschloss, den Navigationspunkt zu versteigern. Sie kümmerte sich nicht um den Ruhm, sondern sehnte sich nach dem Glück. Ihre vorläufigen Scans ergaben, dass das System mineralreiche Standorte und einen potenziell bewohnbaren Planeten besaß, so dass sie Gebote von denjenigen annahm, die am meisten für den Zugang zahlen würden – Bergbau und Terraforming-Konglomerate.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Unternehmensmissbrauch</h2>
+                        <span>Gaia Planet Services gewann die Ausschreibung und fuhr mit einem Terraforming-Team nach Pallas. Die Nachrichten würden später aufdecken, dass die Unternehmensleitung eifrig war, an jeder möglichen Ecke den Etat zu kürzen, um den exorbitanten Preis, der gezahlt wurde, wieder herauszuholen. Dazu gehörte auch, das System nicht offiziell bei der UPE zu registrieren oder die entsprechenden Terraforming-Genehmigungen zu beantragen. Stattdessen beschlossen sie, ihren Betrieb wieder aufzunehmen und später die bürokratischen Hürden anzugehen. Wie Firmenchef Joseph Jules Jr. in einem Memo schrieb:”Wir zahlen lieber die Geldstrafe, als Zeit zu verschwenden.” Vorarbeiter Charles Baxter führte ein Team in das System und brachte es direkt nach Pallas III, wo es begann, die besten Standorte für Terraforming-Equipment zu vermessen. Es dauerte nicht lange, bis seltsame Schiffe über den Horizont flogen und die Vermessungsteams umstellten. Alle 276 Menschen wurden schnell gefangen genommen und unter Bewachung gestellt. Das war die erste Begegnung der Menschheit mit den Xi’an.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <span>Obwohl eine Sprachbarriere die beiden Spezies trennte, stellte die Xi’an schnell fest, dass Baxter die Operation beaufsichtigte. Die Xi’an überraschten ihre Gefangenen mit der Freilassung Baxters als Zeichen des guten Willens. Er floh zum Baker-System und setzte sich sofort mit seinen Vorgesetzten von Gaia Planet Services in Verbindung anstatt mit den Behörden.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <span>Angeblich argumentierte CEO Joseph Jules Jr., dass sie versuchen sollten, einen Deal mit den Xi’an selbst abzuschließen. Er suchte verzweifelt nach einem Weg, dieses Debakel in etwas Positives für das Unternehmen zu verwandeln. Eine Handvoll unterwürfiger Führungskräfte stimmten ihm zu, aber Baxter und andere drängten ihn zurück. Der Plan war ein Hirngespinst, es sei denn, das Unternehmen hätte Xeno-Sprachmitarbeiter, die diese unbekannte Sprache entziffern konnten. Widerwillig setzten sich die Führungskräfte des Unternehmens mit der UPE in Verbindung und enthüllten die schreckliche Situation, in der sie die Menschheit platziert hatten.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Strategischer Vorteil</h2>
+                        <span>Der beste Xenolinguist der UPE brauchte 15 Tage, um eine rudimentäre Form der Kommunikation mit den Xi’an zu entwerfen, woraufhin offizielle Diskussionen über die Freilassung der übrigen Arbeiter begannen. Viele innerhalb der Regierung meckerten über die schreckliche Verhandlungsposition, in der Gaia Planet Services sie zurückgelassen hatte, während andere am furchtbaren ersten Eindruck, den die Menschheit den Xi’an gegeben hatte, zauderten. Die folgenden Wochen waren für die UPE ein diplomatischer Drahtseil-Akt. Die Xi’an hatten zwei Hauptstreitpunkte, die vor der Freilassung der Geiseln geklärt werden musste. Der erste Punkt wurde schnell vereinbart; die UPE würde das Pallas-System sofort verlassen.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <span>Es war die zweite Auflage des Xi’an, die für große Kontroverse sorgte. Sie beharrten darauf, dass die UPE das Ausmaß ihres Imperiums und die Lage aller derzeit bekannten Systeme enthüllen solle. UPE-Unterhändler drängten darauf, nicht bis ins letzte Details zu gehen, aber die Xi’an beharrten darauf.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <span>Als zu Hause politischer Druck aufgebaut wurde, um die Gefangenen zu ihren Familien zurückzubringen, lernte die UPE mehr über diese seltsamen neuen Aliens. Als sich herausstellte, dass sie Hunderte von normalen Erdjahren lebten, machten sich die Unterhändler Gedanken darüber, wie lange die Xi’an bereit waren, die Verhandlungen fortzusetzen. Viele kamen zu dem Schluss, dass ihnen nichts anderes übrig blieb, als den Bedingungen des Xi’an zuzustimmen. Nach 57 Tagen wurde eine Übereinkunft getroffen, die Tortur beendet, und alle Geiseln wurden schließlich unverletzt freigelassen. Was aber die Menschheit im Gegenzug aufgab, würde das Verhältnis zwischen den beiden Spezies definieren. Die Diskrepanz zwischen dem, was die Xi’an über unsere Systeme wussten, und dem, was wir über ihre Systeme wussten, war eine Hauptursache für die Paranoia der Menschheit nach dem Pallas- Vorfall. Die ergriffenen Maßnahmen hatten auf beiden Seiten Misstrauen ausgelöst und die beiden Völker rückten langsam vom Verhandlungstisch ab, unsicher, wann und wo ihre nächste Begegnung stattfinden würde.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <span>Obwohl die Menschheit den Xi’an Namen für das System, Hui sen Th.us’āng gelernt hatte, wurde es während der Verhandlungen wegen der Schwierigkeit, die viele hatten, es auszusprechen, nicht allgemein verwendet. Der eskalierende Kalte Krieg trieb die UEE dazu, ihr einen anderen Namen zu geben. Schließlich gab ihm das UEE-Militär den Namen Pallas, um mit anderen Perry-Line-Systemen übereinzustimmen, die nach Kriegsgöttern benannt wurden. Seitdem ist der Name geblieben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <span>Obwohl die Xi’an schließlich das Pallas-System während des Höhepunkts der Spannungen mit dem Messer-Regime aufgaben, sorgte der Perry-Line- Pakt dafür, dass das Pallas-System nach dem Sturz der Messers in Xi’an-Hände bleiben würde. Wie es ihre Gewohnheit ist, jedem System einen bestimmten Zweck zuzuweisen, benutzen die Xi’an jetzt Pallas als wissenschaftliches System, um Forschung zu betreiben, von der vieles für die UEE ein Rätsel bleibt, da der menschliche Zugang zum System hochgradig reguliert ist.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Pallas I</h2>
+                        <span>Am nächsten bei Pallas’ gelb-weißem G1-Hauptsequenzstern sitzt ein Eisenplanet. Die Xi’an haben Anteile von Pallas I abgebaut, aber es bleiben riesige Abbaugebiete übrig. Da der Rest des Systems für einige wissenschaftliche Arbeiten bestimmt ist, glaubt man, dass dies auch für Pallas I gilt. Soweit wir wissen, findet auf dem Planeten kein kommerzieller Bergbau statt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Pallas II</h2>
+                        <span>Dieser Smogplanet scheint von den Xi’an unberührt zu sein. Allerdings kann die UEE nicht sicher sein, dass unter der dicken Atmosphäre des Planeten keine Forschungsprojekte stattfinden.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Pallas III</h2>
+                        <span>Der berüchtigte Moment des ersten Kontakts zwischen der Menschheit und den Xi’an fand auf dieser irdischen Welt statt. Die Xi’an nutzten ihn bereits damals als Testfeld für verschiedene Geohacking- und Terraforming-Technologien. Diese wissenschaftlichen Bemühungen wurden aufgegeben, als die Xi’an während des Kalten Krieges aus dem System flohen, um nach der Entspannung wieder aufgenommen zu werden. Die Einzelheiten dieser Experimente sind unklar. Offensichtlich sind mehrere Teile des Planeten mit Rauch gefüllt, vermutlich wegen eines massiven unterirdischen Feuers. Ob dieses wütende Feuer Teil eines Xi’an-Experiments ist oder lediglich eine Nebenwirkung, ist unbekannt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Asteroiden Gürtel</h2>
+                        <span>Als Kathryn Segovia dieses System entdeckte, glaubte sie, dass Bergbauunternehmen für den Zugang zu diesem mineralreichen Asteroidengürtel töten würden. Überraschenderweise erachten es die Xi’an für illegal, Bergbau zu betreiben, so dass es relativ unberührt bleibt. Einige sind immer noch gereizt von den riesigen Ressourcen und bauen es unter großem persönlichen Risiko ab.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Pallas IV</h2>
+                        <span>Pallas IV ist ein bemerkenswerter Gasriese, nicht für bestimmte astronomische Eigenschaften, sondern weil die Xi’an in ihrer Atmosphäre eine unter Druck stehende Forschungsstation errichtet haben. Menschliche Wissenschaftler wissen sehr wenig über die Station, aber es ist offensichtlich Technologie, welche über die der UEE weit hinausgeht.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Pallas V</h2>
+                        <span>Ohne Atmosphäre und ohne nennenswerte Ressourcen umkreist dieser kleine Zwergplanet mit seinem einsamen Wesen die Außenbereiche des Systems.</span>
+
+                        <br>
+                        <br>
+
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
+                            <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
+
+                            <span>Da Pallas von den Xi’an als wissenschaftliches Forschungssystem bezeichnet wird, müssen die Besucher darauf achten, Bereiche zu meiden, die als tabu gelten. Xi’an-Behörden werden nicht zögern, Ihr Schiff zu stoppen oder sogar zu zerstören, wenn es sich in einen verbotenen Teil des Systems wagt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Ein Flüstern im Wind</h2>
+
+                        <span style="font-style: oblique;">“Ehrlich gesagt, es war der unglaublichste und peinlichste Moment meines Lebens. Als ich sah, wie diese seltsamen Schiffe in der Nähe herabstürzten, war ich so beeindruckt. Ich hatte noch nie etwas Ähnliches gesehen. Dann erinnerte ich mich daran, was wir dort taten und erkannte, dass wir in großen Schwierigkeiten stecken.” </span>
+                        <span>– Charles Baxter, Zeugnisabschrift vor dem UPE-Tribunal, 2530</span>
+
+                        <br>
+                        <br>
+
+                        <span style="font-style: oblique;">“Für mich ist Pallas das perfekte Beispiel dafür, wie die Xi’ n mit der Menschheit umgehen. Wir dürfen das System besuchen, aber sie wollen nicht, dass wir zu viel herumstöbern. So wie der Nachbar, der die Tür aufmacht, wenn du anklopfst, dich aber nie einlädt.” </span>
+                        <span>– Harry Tenny, ein Leitfaden für Beschwerdeführer zum Vers, 2939</span>
                     </div>
                 </div>
 

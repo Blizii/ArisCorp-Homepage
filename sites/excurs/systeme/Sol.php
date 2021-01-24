@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - System : Kiel</title>
+  <title>ARISCORP - Verse-Excurs - System : Sol</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">KIEL</span></h1>
+                    <h1 class="animation-element slide-down">SYSTEM: <span class="coloredaris">SOL</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,80 +30,161 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Kiel.jpg" width="110%" height="auto">
-                    <h2 class="short-hr-left">Excurs - System: Kiel</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Sol/Sol.jpg" width="110%" height="auto" alt="Sol - NYC">
+                    <h2 class="short-hr-left">Excurs - System: Sol</h2>
 
                     <div>
 
-                        <span>Das Kiel System stellte während des Kalten Krieges einen großen, militärischen Dreh- und Angelpunkt dar, aber seit sich die Beziehungen zu den Xi’An verbessert haben, versuchte das System intensiv, sich neu zu erfinden. Die erst kürzlich durch den Senat erfolgte, offizielle Anerkennung des dritten Planeten des Systems, Severus, gilt für viele als Beweis, dass sich die harte Arbeit langsam auszahlt.</span>
+                        <h2 style="font-family: 'Nasa'">DAS ZENTRALGESTIRN DES IMPERIUMS</h2>
+                        <span>Der Geburtsort der Menschheit und der Sitz des Imperiums. Der Imperator, Senat und viele andere große UEE-Institutionen sind auf der Erde (Sol III) beheimatet. Neben vielen historischen Meilensteinen kann das System auch den ersten terraformierten Planeten für sich beanspruchen, Mars (Sol IV).</span>
 
                         <br>
                         <br>
 
-                        <span>Das System wurde von einem kleinen Treibstoffsammel-Schiff der Handelsmarine entdeckt, das im Hadrian System operierte. Der Kapitän des Schiffs, Adhama Schnauss, legte großen Wert darauf, bei jedem Treibstoffsammelvorgang eine andere Route zu wählen, damit die Crew auf Trab blieb. Eines Tages, im Jahr 2514, bemerkte Schnauss eine seltsame Anomalie auf den Scannern, woraufhin er den Kurs ändern ließ, um diese näher untersuchen zu können. Sie stießen auf einen großen Jump Point, der zu einem neuen System mit einem weißen F-Typ-Hauptreihenstern, umringt von sechs Planeten und einem Asteroidengürtel, führte. Schnauss benannte das System nach seinem langjährigen Freund Kiel, der sich hartnäckig weigerte, seinen Heimatplaneten Mars zu verlassen. Schnauss hoffte, dass ihn diese Geste dazu motivieren würde, schließlich doch noch eine Reise zu den Sterne zu unternehmen, um das System zu besuchen, welches nun seinen Namen trug. Militärische Pathfinder untersuchten das System, um festzustellen, dass keiner der Planeten von Natur aus bewohnbar war und nur der dritte Planet, Severus, als terraformbar eingestuft werden konnte. Während des Terraforming Prozesses wurden weitere Jump Points in zwei neue Systeme (Baker und Horus) entdeckt, wodurch ein gewaltiges, öffentliches und privates Interesse an dem System entfacht wurde. Trotz fehlender, offizieller Besiedlung war es bereits gut an die östlichen Erweiterungen des Empires angeschlossen. Es gab einen mineralienreichen Asteroidengürtel, Gasgiganten für Betankungsvorgänge und bald auch eine terraformte Welt, die als Nervenzentrum des Systems dienten sollte. Doch all das änderte sich 2542, als Marie Sante im Horus System einen Jump Point in den Xi’An Raum aufspürte. Durch die direkte Verbindung zur Perry Line lag Kiel nun nur noch ein System vom Xi’An Territorium entfernt, weshalb die UPE es rasch umstrukturierten. Zum Entsetzen der Firmen, welche bereits auf Mitarbeitersuche gegangen waren, nachdem der Terraforming Prozess abgeschlossen war, legte die Regierung Pläne vor, Severus zu einem gewaltigen Militärzentrum umzufunktionieren und das System eben nicht für die wirtschaftliche Entwicklung zu öffnen – eine Entscheidung, die Kiel für Jahrzehnte prägen sollte.</span>
+                        <h2 style="font-family: 'Nasa'">Sol I: Merkur</h2>
+                        <span>Aufgrund der Exzentrizität des kleinen Planeten erfährt er die größten Temperaturunterschiede aller Planeten in diesem System. Der Merkur ist ein Eisenplanet, den weder Monde, noch Raumstationen umkreisen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Die Militärmaschinerie</h2>
-                        <span>Sobald Severus bewohnbar war, strömte das Militär en masse in das System. Ivar Messer war kurz zuvor, zum Teil durch die Schürung von Angst vor den Xi’An, an die Macht gekommen und die nun in das Kiel System fließenden Regierungsgelder wurden als beeindruckende Machtdemonstration gegen “unsere neuen Alienfeinde” betrachtet. Über die Jahrzehnte rwies sich die starke militärische Präsens in dem System auch als Vorteil für die innerstaatliche Befriedung. Seine Nähe zu Terra wurde von der wachsenden Zahl Anti-Messer Aktivisten mit Sorge beobachtet, da sie es als potentiellen Sammelpunkt für eine Invasion sahen. Es gab sogar Gerüchte, dass der terranische Senator Assan Kieren, der im Jahr 2538 auf mysteriöse Weise verschwunden war, nachdem er einen Gesetzesentwurf vorgelegt hatte, der Terra Unabhängigkeit von der UEE gewähren sollte, entführt und in eine militärische Einrichtung auf Kiel II gebracht wurde.</span>
+                        <h2 style="font-family: 'Nasa'">Sol II: Venus</h2>
+                        <span>Die Atmosphäre des zweiten Planeten besteht nahezu vollständig aus Kohlendioxid, was den Planeten zu dem heißesten Planeten des Systems macht. Auch dieser Planet ist unbewohnbar und besitzt keine Monde oder Raumstationen, die ihn umkreisen.</span>
 
                         <br>
                         <br>
 
-                        <span>Kiels militärische Fußspuren wurden Anfang des 29. Jahrhunderts stark reduziert, als sich die Spannungen mit den Xi’An abbauten und die Perry Line aufgelöst worden war. Allerdings erwies es sich als sehr schwierig, Firmen im privaten Sektor anzulocken, um das abziehende Militär zu ersetzen. Aufgrund des hohen Ressourcenabbaus durch das Militär, einer veralteten & reparaturbedürftigen Infrastruktur sowie der fehlenden Bevölkerung machte es für viele Unternehmen keinen ökonomischen Sinn, in das Kiel System zu expandieren. Diese Tatsache änderte sich unter der Führung von Joona Tzur, nachdem er 2903 zum Gouverneur von Severus gewählt worden war. Tzur war einer der wenigen hundert Leuten, dessen Wurzeln mehr als zwei Generationen im Kiel System zurückreichten, beginnend mit seiner Urgroßmutter, die sich nach dem Austritt aus der Armee dazu entschieden hatte, in dem System zu bleiben. Er kannte Severus’ Stärken besser als jeder andere und warb gezielt solche Branchen an, welche die militärische Infrastruktur und verlassenen Basen in Kapital umwandeln konnten. Die Strategie funktionierte und zahlreiche Giganten der Raumfahrtindustrie bauten ihre Fabriken in dem System auf. Zusätzlich wusste Tzur, dass er mehr als nur Unternehmen benötigte, um seine Heimatwelt weiterzuentwickeln. Aus diesem Grund investierte er mit der Aussage, dass eine glückliche Bevölkerung eine wachsende sei, großzügig in öffentliche Freizeitangebote und Grünflächen. Einen seiner bemerkenswertesten Siege fuhr Tzur ein, als er die intergalaktische Luft- und Raumfahrtmesse davon überzeugte, das Event auf Severus auszutragen.</span>
+                        <h2 style="font-family: 'Nasa'">Sol III: Erde</h2>
+                        <span>Die Erde befindet sich in der habitablen Zone und gehört zu den Felsplaneten. Sie ist die Heimatwelt der Menschheit und zugleich Namensgeber des „United Empire of Earth͞. Sie ist das Zentrum der politischen Maschinerie und Mittelpunkt des Imperiums hinsichtlich Wirtschaft und Kultur. Jahrhunderte der Besiedelung führten zur Ausbeutung der natürlichen Ressourcen und somit schlussendlich für die Milliarden hier lebenden Menschen zu einer starken Abhängigkeit von Importen. Die Erde ist von Weltraumhäfen übersät. Die Bedeutendsten von ihnen liegen in New York, Moskau und Shanghai. Darüber hinaus befinden sich etliche Werften im Orbit.</span>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h1 style="font-family: 'Nasa'">Landezonen</h1>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">New York</h2>
+                        <span>Architektur der „Alten Welt͞, welche sich direkt neben dem modernen ästhetischen Design entlang der verwinkelten Straßen der historischen Altstadt einfügt. New York ist nicht nur das politische Zentrum des Imperiums, die Stadt bildet gewissermaßen ein Leuchtfeuer aus Kultur, Technologie und Handel.</span>
 
                         <br>
                         <br>
 
-                        <span>Tzurs Hauptverkaufsargument waren die zahlreichen stillgelegten Raumschiffhallen, welche für die riesige Veranstaltung genutzt werden konnten. Nach einer schnellen Reihe von Verbesserungen an den Anlagen fand die IAE (Intergalactic Aerospace Expo) im Jahr 2916 zum ersten Mal auf Severus statt und hat sich seither zur Hauptantriebsfeder der Wirtschaft in dem System entwickelt; mit zusätzlichen Hotels, Restaurants und Freizeitattraktionen. Heute finden neben der IAE im Laufe des Jahres auch viele andere Konferenzen in diesen Anlagen statt, wodurch sich der Tourismus zu einem der größten Wachstumssektoren des Planeten entwickelt hat. Die wirtschaftliche Kehrtwende und Umfirmierung von Kiel wurde von vielen als Erfolg betrachtet, einschließlich des Senats, der Severus im Jahr 2937 offiziell anerkannte. Die Bevölkerung des Systems wuchs seit spätestens diesem Tag kontinuierlich. Mit jeder Menge Jobs und einer bemerkenswert niedrigen Verkehrsbelastung im Gegensatz zu anderen Systemen wie Terra wurde Kiel kürzlich von der Redaktion der New United zu einem der “Top 10 der lebenswertesten Systeme” gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Moskau</h2>
+                        <span>Als Impulsgeber des Sprichworts „Dort findest du alles, was du suchst͞ ist Moskau eines der größten Handelszentren der Erde. Ein niemals endender Strom von Gütern, welcher durch die Häfen der Stadt fließt, verleiht ihr eine unaufhörliche Kraft und das Gefühl, dass diese Stadt immer in Bewegung ist. Moskau beherbergt derzeit auch den Sitz der Ratsversammlung der Gouverneure.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel I</h2>
-                        <span>Dieser kleine Mesoplanet ist aufgrund seiner Rotationsgebundenheit auf einer Seite von Sonnennarben gezeichnet.</span>
+                        <h2 style="font-family: 'Nasa'">Shanghai</h2>
+                        <span>Als Heimat des größten Raumhafens im Staat Asiatica begann die Stadt sich neu zu strukturieren, um die Natur wieder als einen Bestandteil zwischen den Superstrukturen und Wolkenkratzern zurückzuholen. Ihr Anfang mündete in der Bewegung, die Gartenanlagen und Parks, welche durch die Überbevölkerung während des 22. Jahrhunderts verschwanden, wieder neu aufzubauen. Monde Sol III wird von einem großen natürlichen Trabanten umkreist, dem Mond. Luna ist stark mit den Gezeiten der Erde verbunden und war der erste Himmelskörper, der jemals von der Menschheit betreten wurde.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel II</h2>
-                        <span>Doch während die Dekaden vorbei zogen, schien das Interesse am Versprechen einer synthetischen Welt bei der Öffentlichkeit abzuflauen. Trotz Millionen investierter Stunden und Millairden Credits schien der Planet seiner Fertigstellung nicht näher zu kommen. Von Korruptionsskandalen und Kostenüberschreitungen in den Dreck gezogen wurde das Projekt von einigen FortschrittsTraditionalisten als „finanzieller Vampir“ bezeichnet, das Geld und Ressourcen von anderen wichtigen Projekten absaugte. Bald symbolisierte die Synthworld nicht länger die Zukunft. Heute gibt es in Chronos nur noch sehr wenig Verkehr. Frachter laden noch immer Vorräte an der Archangel- Station ab und einige reisen an den vorgegebenen Routen durch das System, um in das Branaugh System zu springen. Daneben gibt es nur noch wenig weitere Gründe, sich lange im Chronos System aufzuhalten.</span>
+                        <h2 style="font-family: 'Nasa'">Sol IV: Mars</h2>
+                        <span>Der Mars befindet sich wie die Erde ebenfalls in der habitablen Zone, ist wohlhabend und sehr bevölkerungsreich. Er war der erste erfolgreich terraformte Planet, dessen Prozess sich zeitweise trübte, als bei der Terraforming Katastrophe im Jahre 2125 insgesamt 4.876 Menschen ihr Leben ließen und als die „Mars Tragödie͞ in die Geschichte einging. In seinem Orbit befinden sich zwei Monde: Phobos und Deimos.</span>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h1 style="font-family: 'Nasa'">Landezonen</h1>
+
+                        <br>
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Port Renatus</h2>
+                        <span>Port Renatus wurde als Hafen um die erste Siedlung des Mars herum gebaut und ist die älteste Stadt außerhalb der Erde. Sie wird auch als lebendes Museum beschrieben, da sie durch ihre Modularität Elemente der menschlichen Evolution, welche überall in der Stadt vorzufinden sind, widerspiegelt.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel III (Severus)</h2>
-                        <span>Severus ist ebenfalls ein felsiger Planet, der ziemlich schnell nach der Entdeckung des Systems terraformt wurde. Benannt nach einem berühmten Marineadmiral, der sich während des zweiten Tevarin Krieges ausgezeichnet hat, diente er als militärischer Hauptknotenpunkt während des kalten Krieges mit den Xi’An. Nachdem die Beziehungen aufgetaut waren, versuchten die Bewohner des Planeten verzweifelt, eine neue Identität für ihn zu finden. Die Dinge änderten sich, als RSI zustimmte, eine große Fabrik zu eröffnen, in der ihre verbesserte Thrusterserie hergestellt werden sollte. RSI schwemmte damit einen neuen Schwung Menschen und Credits in das System, wodurch andere Unternehmen ermutigt wurden, RSIs Beispiel zu folgen. Bald sprachen alle darüber, dass es der Planet mit einer Menge Arbeit und erschwinglichen Lebenshaltungskosten glänzte. Es kamen scharenweise Arbeiter und Severus’ Bevölkerung stieg über Jahrzehnte kontinuierlich an. Es dauerte nicht lange, bis der Rat des Gouverneurs einen repräsentativen Status beantragte und auch erhielt – Tzurs Tochter Janna Thurville wurde zur ersten Senatorin von Severus gewählt.</span>
+                        <h2 style="font-family: 'Nasa'">Monde</h2>
+                        <span>Phobos, der erste Mond befindet sich lediglich 6.000 Kilometer vom Mars entfernt und umkreist ihn rechtsläufig mit einer solch hohen Geschwindigkeit, dass er für jeden Marsianer zweimal am Tag, jeweils im Westen auf- und im Osten untergeht. Deimos, der zweite Mond, mit einem Radius von 6,2 Kilometern Größe und in Form eines Klumpens, stellt mehr einen Asteroiden, denn einen Mond dar.</span>
 
                         <br>
                         <br>
 
-                        <span>Der Zustrom von Menschen und Geschäften ermöglichte es der Regierung, Teile des Planeten für die zivile Nutzung neu zu entwerfen. Das Hauptaugenmerk lag dabei auf der Hauptstadt Eri City. Eine Reihe alter, grauer Militärkomplexe wurden abgerissen und durch wunderschöne öffentliche Parks ersetzt. Obwohl dem Planeten nach wie vor eine eigene kulturelle Identität fehlt, besitzt er doch eine überraschend starke Szene für die gehobene Küche. Bei der Revitalisierung und der landwirtschaftlichen Nutzung des Bodens konnten große Fortschritte erzielt und aufgrund der relativ niedrigen Wohnkosten sind viele Bewohner mehr als gewillt, ihr Geld für Gourmet Gerichte auszugeben.</span>
+                        <h2 style="font-family: 'Nasa'">Sol V: Jupiter</h2>
+                        <span>Der Gasriese ist der größte Planet in diesem Sonnensystem und wird von einem kaum wahrnehmbaren Ring aus größtenteils partikelgroßen Staubkörnern, sowie den vier Galiläischen Monden umgeben.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel IV</h2>
-                        <span>Ein pittoresker Gaszweg mit einer auffälligen dunkelblauen Färbung. Aufgrund seines rasanten Eigendrehmoments dauert eine komplette Rotation lediglich 16 Standard Erdstunden.</span>
+                        <h2 style="font-family: 'Nasa'">Monde</h2>
+                        <span>Der erste Mond Io durchlebt eine durch Gezeiten unterworfene Erhitzung geologisch extrem hohe Aktivität, die ihn gleichzeitig zum trockensten und vulkanisch aktivsten Himmelskörper im Sol System macht. Seine Eisschicht macht Europa zu einem der am meisten Licht reflektierenden Monde im Sol System. Ganymed ist der größte Mond im Sol System und der einzige, welcher eine Magnetosphäre aufweist. Er ist größter als der Merkur und nur geringfügig kleiner als der Mars. In seinem Orbit befindet sich außerdem eine militärische Raumstation. Den Gezeiten unterworfen weist Kallistos Oberfläche die älteste und dichteste Kraterlandschaft im Sol System auf.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel V</h2>
-                        <span>Dieser gewaltige Gasgigant hat einen Radius von über 57.000 Kilometern und eine beeindruckende Menge planetarer Ringe, die diesen Wert bei weitem übersteigen.</span>
+                        <h2 style="font-family: 'Nasa'">Sol VI: Saturn</h2>
+                        <span>Der Saturn ist ein Gasriese und sehr bekannt für seine vielen großen Ringe. Ihn umkreisen fünf Monde, namentlich Titan, Rhea, Tethys, Dione und Iapetus.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kiel VI</h2>
-                        <span>Dieser Protoplant braucht 44.512 Standard Erdtage (rund 122 Standardjahre) für eine Runde um die Sonne des Systems. Aktuell wird ein Festival für sein nächstes Perihel [= der sonnennächste Punkt einer Umlaufbahn um die Sonne] geplant.</span>
+                        <h2 style="font-family: 'Nasa'">Monde</h2>
+                        <span>Saturns größter natürlicher Trabant ist schon seit langer Zeit für viele Wissenschaftler von großem Interesse. Denn mit seinen Flüssen und Seen aus Ethan und Methan ist Titan der einzige Mond im Sol-System, der auch eine dichte Atmosphäre aufweist. Wegen seiner Zusammensetzung, wird Rhea, der aus Fels und Eis besteht, für gewöhnlich als „verdreckter Schneeball͞ bezeichnet. Tethys besteht vorwiegend hingegen aus Wassereis, das bei einem Himmelskörper dieser Größe und dem geringen Druck eher selten in Erscheinung tritt. Seltsamerweise hat dieser ebenso den Gezeiten unterworfene Mond eine hohe Anzahl an Einschlagskratern, welche auf der nachziehenden Hemisphäre auftreten. Führende Wissenschaftler spekulieren, dass dieses schwere Bombardement kurz nach der Drehung von 180 Grad auf Dione stattgefunden haben muss. Iapetus, der den Gezeiten durch Saturn unterworfen ist, weist trotzdem eine seltsame „zwei-tönige͞ Färbung auf. Eine Seite, welche konstant dem Saturn zugewandt und somit ständig im Schatten gehüllt ist, während die andere Seite ständig beleuchtet wird.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Sol VII: Uranus</h2>
+                        <span>Dieser Eisriese hat ein ungewöhnlich schiefes Magnetfeld, das aufgrund seiner dramatischen Neigung zu seiner eigenen Achse verursacht wird. So hat Uranus seinen Nord- und Südpol dort, wo die meisten Planeten ihren Äquator haben. Die Ringe des Uranus sind im Gegensatz zu den Ringen des Saturn, kaum sichtbar und bestehen vorwiegend aus Staubpartikeln. Zudem umgeben ihn die fünf Hauptmonde Miranda, Ariel, Umbriel, Titania und Oberon.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Monde</h2>
+                        <span>Miranda ist eines der kleinsten Objekte im Sol-System und bekannt für sein hydrostatisches Gleichgewicht. Seine extrem abwechslungsreiche Topographie schließt auch die 20 Kilometer hohe „Verona Rupes͞ mit ein, die größte Klippe des Sonnensystems. Die Oberfläche ist kreuz und quer durch ein ausgeprägtes Netz von Abhängen, Schluchten und Bergkämmen durchzogen. Forscher spekulieren, dass einige dieser Schluchten durch flüssiges Ammoniak, Methan oder Kohlenmonoxid entstanden. Dieser Mond hat seinen Ursprung im lateinischen Wort ͞Umbra͟, das Schatten bedeutet. Es ist ein angemessener Verweis, in Anbetracht dessen, dass Umbriel den dunkelsten aller Monde von Uranus darstellt. Titania ist der größte Mond des Uranus. Enorme Schluchten und Abhänge durchziehen seine Oberfläche. Wissenschaftler glauben, dass sie während der Entstehungsgeschichte des Mondes durch eine Ausdehnung von innen heraus entstanden sind. Oberon ist Uranus zweitgrößter Mond, der nach dem Feenkönig aus einem berühmten Theaterstück des 16. Jahrhunderts benannt wurde. Seine Oberfläche ist von Einschlagskratern bedeckt, die aufgrund der Weltraumwitterung in roten Farben erstrahlen.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Sol VIII: Neptun</h2>
+                        <span>Neptun ist ein Eisriese, welcher durch seine Differenzialdrehung die stärksten Winde aller Gasriesen im Sonnensystem aufweist. Seine Ringe sind wie bei Uranus und Jupiter ebenfalls nur sehr schwer auszumachen, da sie größtenteils aus Staubpartikeln bestehen. Seine 14 äußerst kleinen Monde finden ebenfalls keine weitere nähere Erwähnung.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Sol IX: Pluto</h2>
+                        <span>Dieser Zwergplanet war das erste im Kuipergürtel entdeckte Objekt, welches primär aus Eis und Gestein besteht. Monde Der Gravitationseinfluss von Charon auf Pluto ist derart hoch, dass beide seit ihrer Entdeckung 1978 mehrfach als binäre Zwergplaneten sowohl klassifiziert als auch wieder deklassifiziert wurden. Asteroidengürtel im Sol System Über die Hälfte der gesamten Masse des Gürtels konzentriert sich auf vier Asteroiden. Der Kuipergürtel besteht hauptsächlich aus kleinen Körpern, vermutlich Resten von der Entstehung der Sonne.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Raumstationen im Sol-System</h2>
+                        <span>Die Raumstation befindet sich im regulären Orbit von Ganymed, einem der Jupitermonde. Obwohl die Marine Streitkräfte nicht mehr auf der IMS Bolliver stationiert sind, sondern mittlerweile auf dem Mars untergebracht wurden, ist der Zutritt nach wie vor strengstens verboten. Die Raumstation befindet sich hinter dem Kuipergürtel in unmittelbarer Nähe zum Sprungpunkt nach Croshaw. Sie ist ein bedeutender Versandknotenpunkt, der die meiste Fracht für die Erde zu erst hier verarbeitet und dabei hilft, den Stau auf die Hauptwelt des Imperiums zu lindern. Diese orbitale Flottenbasis agiert außerem als Hauptoperationszentrum der Sol-Haupt-Streitkräfte und befindet sich in unmittelbarer Nähe zum Davien-Sprungpunkt.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Das Zentrum des Imperiums</h2>
+                        <span>Die Erde ist die Wiege der Menschheit und es ist kein Geheimnis, dass sie den Ton angibt. Alle Wege führen zur Erde und das System ist darauf ausgelegt, „Erdgeborene͞ mehr als alle anderen zu unterstützen. Die Steuerpolitik der Erde zielt darauf ab, Unternehmen, welche dort ihren Sitz haben, zu bevorteilen. Andersherum wirken äußerst unverhältnismäßige Benachteiligungen auf andere Welten, wie etwa Terra, wodurch die Kluft zwischen den Repräsentanten des UEE-Senats und der Erdbevölkerung kontinuierlich weiter auseinander klafft. Gleichzeitig ist die Erde die wichtigste Säule und der Namensgeber des „United Empire of Earth͞ und gleichzeitig der Sitz der Macht. Von dort werden aufsteigende Systeme wie Terra, oder weit entfernte Koloniewelten, die sich nur marginal auf die Wirtschaft auswirken, gelenkt. Es ist der Sitz des Imperators und des UEE-Senats. Die Erde setzt für alle Dinge, die im Reich geschehen, die Standards – von der Einschränkung ökonomischer Modelle, über das Setzen gesellschaftlicher Trends bis hin zur Organisation militärischer Feldzüge. Obwohl strategisch günstiger gelegene Sternensysteme wie etwa Terra damit begonnen haben, mehr Einfluss für sich zu beanspruchen, ist die Erde nach wie vor das anerkannte Zentrum des Universums. Konträr dazu, beansprucht die Erde alles für sich allein. Tausende Jahre der menschlichen Zivilisation führten auf der Erde zum Raubbau der natürlichen planetaren Ressourcen, sodass heute Billionen Tonnen Lebensmittel, Rohmetalle oder Industriegüter in das System importiert werden müssen. Wenn es nicht den sogenannten „Ausgleichszoll͞ geben würde, welcher die Preise wettbewerbsfähig hält, wäre das die perfekte Situation für jeden Transport-Magnaten gewesen. Denn so kann bei einer Fahrt zur Erde definitiv nicht mehr als 5 Prozent Geǁinn erzielt ǁerden… und das ďeǀor die exorďitanten AndoĐk-, Betankungs- und Anmeldegebühren für Raumschiffe abgezogen werden. Die Erde ist definitiv auch am sichersten. Das UEE-Militär, die Advocacy und verschiedene Polizeikräfte patrouillieren ohne Unterlass in dem System und sind äußerst unnachgiebig, wenn es darum geht, Übeltäter zu bestrafen. Es gibt keinen schnelleren Weg, durch ein Verbrechen ein extrem hohes Kopfgeld auf sich aussetzen zu lassen und sei es auch nur eine noch so kleine Regelübertretung, als das im direkten Hoheitsgebiet der Erde zu tun. Die Militärwerften im Orbit der Erde sind Heimat von nicht weniger als fünf Bengal-Trägerschiffen und mindestens einer davon ist stets vor Ort im Trockendock. Der Planet selbst ist pockennarbig von Raumhäfen übersät, eine natürliche Entwicklung von annähernd eintausend Jahren menschlicher Raumfahrtgeschichte. Drei von ihnen besetzen den Thron als bedeutendste Import/Export-Zentren der Welt: New York in Nordamerika, Moskau in Europa und Shanghai in Asien.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">New York</h2>
+                        <span>New York ist das kulturelle Zentrum des UEE, ein intergalaktischer Trendsetter und berühmt für die Kombination zweier architektonischer Stile, dem aus vergangenen Zeiten, als auch dem von ultramodernen Arkologien. Den meisten Besuchern werden direkt die historischen Wahrzeichen auffallen, welche durch eine dicke kuppelförmige Schicht aus „Viscrete͞ [Anm. d. Red.: Viscrete = Kunstwort aus Visibility und Concrete, zu deutsch: Sichtbarkeit und Beton] geschützt werden, wodurch Einrichtungen wie das „Empire State Building͞ und der „Central Park͞ inmitten der modernen Stadtlandschaft aus massiven Supertürmen koexistieren können. Massengüter in New York abzusetzen, ist ungefähr so erfolgreich, wie Blut aus einem Stein gewinnen zu wollen. Nirgends wird durch UEE-Gesetze mehr protektioniert, als in dieser Stadt und jeder, vor allem aber den verzweifeltsten Kaufleuten sei angeraten: es ist die Mühe nicht wert. Ja, selbst Schwarzmarktgüter sind sehr risikoreich, denn zweifellos ist New York der von Polizeikräften meist gesicherte Ort im bekannten Universum. Allerdings glauben die New Yorker, selbst jene, die niemals den Planeten verlassen haben, sie seien die kosmopolitischsten Menschen der gesamten Galaxie. New York stellt demnach den Marktplatz schlechthin für kulturellen Plunder aus entfernten Sternensystemen dar. Trendige New Yorker Galerien stellen mit Freude alles aus, was sie in die Hände bekommen, vom Hadesianischen Eisschuh bis zu beschädigten Xi’An Triebwerksspulen. Es istein anschauliches Beispiel dafür, wie der Schrott des einen zum Schatz des anderen Menschen werden kann. New York ist außerdem die Heimat des renommierten Roberts Space Industries FirmenzentralenKomplexes, welcher Ausstellungsräumlichkeiten und ein Museum bietet. Viele Besucher erweisen, sobald sie den Raumhafen erreichen, ihren Respekt, indem sie die Beteiligung RSIs, der Menschheit die Sterne näher zu bringen, feiern. Die möglicherweise größte Bedeutung für New York ist aber, dass es in Bezug auf den Handel den wichtigsten Verkehrsknotenpunkt im gesamten Universum darstellt. Während die Erde in der heutigen Zeit nur noch wenige wertvolle Rohstoffe fördert, verläuft nahezu alles auf seinem Weg in das gesamte UEE durch diesen einen wichtigen Hafen. Wenn du also auf Streifzug nach einem seltenen Upgrade oder nach extrem seltenen Artikeln bist, der Einkaufsbezirk, welcher den New Yorker Raumhafen umgibt, ist genau der richtige Ort, um danach zu suchen.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Moskau</h2>
+                        <span>Moskau ist eine eher nüchterne Stadt mit einer stärkeren Arbeitsatmosphäre als New York. Moskau ist das wichtigste Verteilungszentrum für Industriegüter, insbesondere Sprungantriebe und Triebwerke, welche in den Fabrikkomplexen produziert werden, die sich bis zum Ural hin erstrecken. Die Güter werden über ein Netz aus Hochgeschwindigkeitszügen bis in die Stadt transportiert, um von dort aus ihren weiten Weg zu den Sternen anzutreten. Raumfahrer, die weniger Glück hatten, finden in den Moskauer Werften, welche für den Großteil der Erdausfuhren verantwortlich sind, immer harte Arbeit. Ungeachtet dessen ist Moskau keine Industriestadt und hat nur einen geringen Bedarf an Rohstoffen, die allerdings aus anderen Quellen bezogen werden. Die Stadt neigt eher zur Opulenz und Luxusgüter können dort so gut abgesetzt werden wie nirgends sonst auf der Erde. Unternehmern sei angeraten, Moskau mit High-End Elektronik, Kunstwerken, hochwertigen Lebensmitteln und einer Vielzahl an nicht-anstößigen Schwarzmarktwaren zu beliefern, anstelle zu versuchen, mit Waffen oder Metallen, Geld zu verdienen.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Shanghai</h2>
+                        <span>Der größte Raumhafen in Asien, Shanghai, ist eher ein Bindeglied mit seiner umgebenden Umwelt geblieben als die gewaltigen Stadtlandschaften von Moskau und New York. Obwohl sie nach wie vor eine pulsierende Metropole ist, hat man dort die größte Chance ein wenig Blattwerk oder natürliches Wasser zu entdecken. Shanghai rühmt sich zudem mit Schienen und Transittrassen, die sich bis zur Ostchinesischen See erstrecken, einer Hafenregion, welche durch ihr Wasserpier imstande ist, einige größere Raumschiffstypen abfertigen zu können. Die „Aegis China Factory͞ produziert Idris-Klasse-Fregatten und führen dort direkt die Werftprobefahrten durch, bevor sie in den Weltall starten. Shanghai hat stets einen hohen Bedarf an Rohstoffen, vor allem an seltenen intergalaktischen Sorten. Desto seltener ein Material auf der Erde gefunden werden kann, umso wertvoller werden diese auf dem Shanghaier Rohstoffmarkt zu verkaufen sein – denkt an „Vanduul Kan Erze͞, „Thermacrete͞ oder „Isometal͞. In Shanghai existiert zudem ein reger Schwarzmarkt, der im Gegensatz zu anderen großen Häfen der Erde, seines gleichen sucht: Wenn du zum Beispiel auf der Suche nach illegalen Cyborg- Upgrades bist, dann versuche es als erstes in Shanghai.</span>
                     </div>
                 </div>
-
-
-
-
                 </div>
                 <button type="button" onclick="window.location.href='https://www.ariscorp.de/Verse-Excurs.php';" class="button secondary" style="background-color: transparent; float: left;" data-dismiss="modal" id="gameplay-close-button" onClick="">
                   <svg class="img-gameplays" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 978 832">
