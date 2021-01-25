@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Ayr_ka.webp" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Ayrka.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Ayr´ka System</h2>
 
                     <div>

@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Sol/Sol.jpg" width="110%" height="auto" alt="Sol - NYC">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Sol.webp" width="110%" height="auto" alt="Sol - NYC">
                     <h2 class="short-hr-left">Excurs - System: Sol</h2>
 
                     <div>

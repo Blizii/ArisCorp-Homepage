@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Rhilah/Rihlah.png" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Rihlah.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Rihlah</h2>
 
                     <div>

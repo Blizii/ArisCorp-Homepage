@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Pyro/Pyro.png" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Pyro.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Pyro</h2>
 
                     <div>

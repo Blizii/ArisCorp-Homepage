@@ -31,7 +31,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Orion/Orion.png" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Orion.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Orion</h2>
 
                     <div>

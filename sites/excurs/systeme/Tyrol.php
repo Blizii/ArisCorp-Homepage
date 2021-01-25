@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tyrol/Tyrol.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Tyrol.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Tyrol</h2>
 
                     <div>

@@ -31,7 +31,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Pallas/pallas.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Pallas.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Pallas</h2>
 
                     <div>

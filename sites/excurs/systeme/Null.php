@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/verse-excurs/Systeme/Null/Null.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Null.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Nul</h2>
 
                     <div>
@@ -79,7 +79,7 @@
                         <br>
                         <br>
 
-                        <span><img src="https://www.ariscorp.de/assets/img/verse-excurs/Systeme/Tsb.png" alt="">
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
                             <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
 
                             <span>Auch wenn ein gewisses Level der Kriminalität in allen unbeanspruchten Systemen vorhanden ist, weisen Kriminalstatistiken der Advocacy darauf hin, dass Nul unter einem erhöhten Level von Angriffen auf die Zivilbevölkerung leidet, darunter Entführungen und Mord.</span>
