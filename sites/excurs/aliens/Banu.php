@@ -36,7 +36,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/Banu-wide.png" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Banu-wide.png" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Alienrasse: Banu</h2>
 
                     <div>
@@ -61,7 +61,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuSocial.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuSocial.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -102,7 +102,7 @@
 
                         <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: 'Banu-reg', sans-serif; display: inline;">SPRACHE</h2>
 
-                        <!-- <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuLanguage2.png" alt="" width="10%" height="auto" style="display: inline;"> -->
+                        <!-- <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuLanguage2.png" alt="" width="10%" height="auto" style="display: inline;"> -->
 
                         <br>
 
@@ -139,7 +139,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/Sloma.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Sloma.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -170,7 +170,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuMarktplatz.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuMarktplatz.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
