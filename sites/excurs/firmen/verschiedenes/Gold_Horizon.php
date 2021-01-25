@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/GoldHorizon.png" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/GoldHorizon.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Verschiedenes: Gold Horizon</h2>
 
                     <div>

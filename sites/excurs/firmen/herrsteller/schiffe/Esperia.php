@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Esperia.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Esperia.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Esperia</h2>
 
                     <span>Es gibt das alte Sprichwort, dass “Nachahmung die ehrlichste Form der Schmeichelei” ist. Dies war noch nie so wahr wie im Falle von Esperia. Die Firma produziert voll funktionierende Nachbauten von sowohl historischen als auch Alienschiffen und seit kurzem auch historische Alienschiffe. Esperias Fähigkeit, nahtlos moderne Funktionen und Luxus mit klassischen, lange verlorenen Schiffsdesigns zu verschmelzen, macht sie einzigartig auf dem Raumfahrt-Markt.</span>

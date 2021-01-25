@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Casse.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/CasseAerospace.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Casse Aerospace</h2>
 
                     <span>Während Casse Aerospace den Namen einer Engineering-Legende trägt, ist das Unternehmen selbst für alle außer den engagiertesten Schiffsliebhabern aus dem Gedächtnis verschwunden. Oder zumindest war das über ein Jahrhundert der Fall, bis Anvil Aerospace einen von Casses Entwürfen wiederbelebte und sich neben für den Mann selbst und die von ihm gebauten Schiffe interessierte. Ein Edleson Design Institute Hall of Fame Preisträger in 2902, Leonard Casse, hat sich einen Platz in den Annalen der Geschichte als einer der erstklassigen Raumfahrzeug-Visionäre der Messer-Ära verdient. Während die allgemeine Bevölkerung seine Kreation des Hurricane-Jägers als den nachhaltigsten Teil seines Vermächtnisses ansehen, wird sein Effekt auf die Industrie insgesamt nicht auf dieses eine Design beschränkt. </span>

@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/MISC.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/MISC.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: M.I.S.C. - Musashi Industrial and Starflight Concern</h2>
 
                     <span>Der Musashi Industrial & Starflight Konzern (MISC) wurde im Jahre 2805 durch eine geordnete Fusion zwischen der insolventen Hato Electronics Corporation und der Musashi Lifestyle Design Einheit, einem Spin-Off der Acorn Ltd., gegründet. Die Fusion machte sich die Nutzung von Hatos umfangreichem Netzwerk von großen Produktionsanlagen und Musashis gutem Ruf für Designs zu Nutze. MISC ist beheimatet auf Saisei im Centauri-System. Dort befinden sich auch die Büros, sowie die zentralen Verkaufseinrichtungen, welche für jedermann geöffnet sind. MISC ist auch für ihre besonders ergonomischen Fabriken bekannt, wo Roboter jedes Stück unter höchster Präzision fertigen. Weitere ähnlich modular aufgebaute Fabriken gibt es auch in anderen Welten. Den größten Anteil an der Firmengeschichte hat die Fertigung von schweren Industriegütern.</span>

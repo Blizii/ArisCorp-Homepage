@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/BiotiCorp.png" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/BiotiCorp.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Verschiedenes: BiotiCorp</h2>
 
                     <div>

@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/waffen/KlausWerner.png" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/waffen/KlausWerner.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Waffenherrsteller: Klaus & Werner</h2>
 
                     <div>

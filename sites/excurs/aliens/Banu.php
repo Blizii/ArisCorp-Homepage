@@ -3,6 +3,12 @@
 <!-- /// HEAD INCLUDE /// -->
   <title>ARISCORP - Verse-Excurs : Alienrasse: Banu</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
+  <style>
+  @font-face {
+      font-family: 'Banu-reg';
+      src: url('https://alpha.ariscorp.de/new/assets/fonts/Banu-Regular.otf');
+  }
+  </style>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
   <!-- //// HEADER INCLUDE //// -->
@@ -30,7 +36,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/verse-excurs/Aliens/Banu-wide.png" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/Banu-wide.png" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Alienrasse: Banu</h2>
 
                     <div>
@@ -55,7 +61,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/verse-excurs/Aliens/BanuSocial.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuSocial.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -94,9 +100,9 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: Banutest, sans-serif; display: inline;">SPRACHE</h2>
+                        <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: 'Banu-reg', sans-serif; display: inline;">SPRACHE</h2>
 
-                        <!-- <img src="https://www.ariscorp.de/assets/img/verse-excurs/Aliens/BanuLanguage2.png" alt="" width="10%" height="auto" style="display: inline;"> -->
+                        <!-- <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuLanguage2.png" alt="" width="10%" height="auto" style="display: inline;"> -->
 
                         <br>
 
@@ -133,7 +139,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/verse-excurs/Aliens/Sloma.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/Sloma.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -164,7 +170,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/verse-excurs/Aliens/BanuMarktplatz.jpg" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/Aliens/BanuMarktplatz.jpg" alt="" width="100%" height="auto">
 
                         <br>
                         <br>

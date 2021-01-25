@@ -5,38 +5,9 @@
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
-    <!-- //// HEADER //// -->
-    <header id="main-header">
-        <nav class="navbar navbar-dark">
-            <div class="container">
-                <!-- Site Logo -->
-                <a id="logo" class="navbar-brand" href="../../../../../index.html"><img class="img-fluid" src="../../../../../images/Robert Space Industries/aris-logo.webp" alt="ArisCorp Logo"></a>
-                <!-- Dropdown Button -->
-                <button id="hamburger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                </button>
-                <!-- Navigation Links -->
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="../../../../../index.html#about">Über Uns</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="../../../../../index.html#tabs">Gründer & Die Flotte & Aufgabenfelder</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="../../../../../index.html#recruitment">Bewerben</a>
-                        </li>
-                        <li class="navbar-item">
-                            <a class="nav-link" href="../../Verse-Excurs.html">Verse Excurs</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header><!-- Header End -->
+  <!-- //// HEADER INCLUDE //// -->
+    <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
+  <!-- //// END HEADER INCLUDE //// -->
 
     <!-- /// HERO SECTION /// -->
     <div id="hero-section" class="medium-margin">
@@ -59,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/RSI.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/RSI.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: R.S.I - Roberts Space Industries</h2>
 
                     <span>Im Pantheon der beständigen Unternehmen könnte man kaum eines finden, welches mit der Entwicklung der Menschheit so eng verwoben ist wie Roberts Space Industries. Ob man durch’s All reist oder gewohnte Straßen entlang geht, RSI‘s Beiträge zu unserer Gesellschaft sind überall. Aber nicht viele kennen den Ursprung dieser Institution der Innovation.</span>

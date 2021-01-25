@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/komponenten/Willsop_Systems.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/komponenten/WillsopSystems.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Komponentenhersteller: Willsop Systems</h2>
 
                     <div>

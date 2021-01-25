@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Goss/goss.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Goss.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Goss</h2>
 
                     <div>

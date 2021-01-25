@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Tumbril.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/TumbrilLandSystems.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Tumbril Land Systems</h2>
 
                     <span>Als die Raumfahrt immer häufiger wurde, wurden Bodenfahrzeuge als streng utilitaristisch angesehen. Für viele Menschen, Landfahrzeuge brachten Sie, wo Sie hingingen, aber es waren Raumfahrzeuge, die Sie an Orte brachten, die Sie nie gewesen waren. Das bedeutete, dass die meisten Kinder im 25. Jahrhundert nicht davon träumten, einen Rennschlitten oder Einen All-Terrain-Rover zu besitzen; sie träumten von ihrem ersten Raumschiff.</span>

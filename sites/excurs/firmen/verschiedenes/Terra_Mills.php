@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/TerraMills.png" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/verschiedenes/TerraMills.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Verschiedenes: Terra Mills</h2>
 
                     <div>

@@ -10,7 +10,7 @@
           src: url('https://alpha.ariscorp.de/new/assets/fonts/nasalization-rg.ttf');
       }
       @font-face {
-          font-family: 'Banutest';
+          font-family: 'Banu';
           src: url('https://alpha.ariscorp.de/new/assets/fonts/Banu-Regular.otf');
       }
   </style>

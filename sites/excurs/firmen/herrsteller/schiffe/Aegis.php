@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/aegis.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/AegisDynamics.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Aegis Dynamics</h2>
 
                     <div>

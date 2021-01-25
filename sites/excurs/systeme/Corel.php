@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Chronos/chronos.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Corel.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Corel</h2>
 
                     <div>

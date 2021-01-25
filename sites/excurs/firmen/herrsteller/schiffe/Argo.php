@@ -31,7 +31,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Argo.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/ArgoAstronautics.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Argo Astronautics</h2>
 
                     <div>

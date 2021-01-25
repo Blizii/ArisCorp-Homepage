@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/CrusaderIndustries.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/CrusaderIndustries.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Crusader Industries</h2>
 
                     <Span>Crusader Industries ist ein Titan der Raumfahrtindustrie und ist ein Titan des Genesis-Passagier-Starliners, einer umfangreichen Flotte von Frachttransportschiffen und modernster Shuttles. ein Unternehmen, das so mächtig und prominent war, dass es einen Gasriesen im Stanton-System kaufte, um seinen derzeitigen Hauptsitz zu beherbergen. Trotz seines außergewöhnlichen Erfolgs war Gründer August Dunlow immer stolz auf das Engagement des Unternehmens für gemeinnützige Arbeit und bis heute ist Crusader Industries einer der großzügigsten Unternehmensspender für gemeinnützige Organisationen in der gesammtent.</Span>

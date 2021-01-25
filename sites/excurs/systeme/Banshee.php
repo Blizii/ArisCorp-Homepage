@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/banshee.jpg">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Banshee.webp">
                     <h2 class="short-hr-left">Excurs - System: Banshee</h2>
 
                     <div>

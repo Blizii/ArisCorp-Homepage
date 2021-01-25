@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Kruger.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/KrugerIntergalactic.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Kruger Intergalactic<h2>
 
                     <span>Ein bescheidener, aber entschlossener Anfang „Perfektion in jedem Teil“. Diese Worte hingen an der Wand einer notdürftigen Werkstatt in einem angemieteten Hangar im Magnus System. Sie sind zum treibenden Prinzip der Firma geworden, in die sich Kruger Intergalactic später entwickelt hat. </span>

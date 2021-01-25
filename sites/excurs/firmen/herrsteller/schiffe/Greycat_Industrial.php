@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Greycat.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/GreycatIndustrial.jpg" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Greycat Industrial</h2>
 
                     <Span>Beim betretren fast aller Industriestandorte des Universums werden sie sehr wahrscheinlich etwas finden, das von Greycat hergestellt wurde. Ob es sich um ein Pyro Multi-Tool handelt, das Metalle sicher und effiziens schneidet, oder robuste Schutzkleidung, die einen Bergarbeiter vor dem Absturz von Trümmern schützt, das umfangreiche Angebot an Industrie- und Abschirmungsausrüstung des Unternehmens macht es zu einer der am meisten beachteten industriemarken. Greycat ist seit Jahrhunderten ein Grundprodukt des UEE, dank seiner rationalen, aber erfinderischen Designs, seiner hohen Sicherheitsstandards und seiner diversifizierten Produktpalette.</Span>

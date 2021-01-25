@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/CNOU.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/CNOU.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Consolidated Outland</h2>
 
                     <span>Geschichte Consolidated Outland und ihre beliebten Mustang-Raumschiffe sind die geistlichen Kinder des sogenannten „Rebell-Billionärs“ Silas Koerner. Bereits geboren als Milliardär, war Silas der alleinige Erbe des in den frühen Tagen der Besiedlung des Bremen-Systems angehäuften Familienvermögens. Einer seiner direkten Vorfahren war verantwortlich für einen Großteil der Besiedelung der gemäßigten Zonen und kassierte das große Geld, als das neugeformte United Empire of Earth sich dazu entschied, den Planeten zur Versorgung der Kriegsbemühungen des Tevarinkrieges zu nutzen. </span>

@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Centauri/centauri.jpg" height="14%" width="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Centauri.webp" height="14%" width="auto">
                     <h2 class="short-hr-left">Excurs - System: Centauri</h2>
 
                     <div>

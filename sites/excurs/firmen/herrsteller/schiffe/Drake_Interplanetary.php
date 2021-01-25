@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/Drake.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/schiffe/DrakeInterplanetary.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Schiffhersteller: Drake Interplanetary</h2>
 
                     <span>Jeder Bürger kennt Drake Interplanetary. Die kitschigen Werbetafeln auf denen sich Frauen über das neueste Modell eines Raumjägers beugen, die Schlagzeilen mit ihren Verbindungen zu Verbrechern und das ganz und gar nicht aerodynamische Design der Raumschiffe. Man kann die Fußabdrücke dieses Unternehmens im ganzen Weltraum finden.</span>

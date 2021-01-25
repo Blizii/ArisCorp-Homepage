@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/verse-excurs/Systeme/Ferron/Ferron.jpg" width="110%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/systeme/Ferron.webp" width="110%" height="auto">
                     <h2 class="short-hr-left">Excurs - System: Ferron</h2>
 
                     <div>
@@ -104,7 +104,7 @@
                         <br>
                         <br>
 
-                        <span><img src="https://www.ariscorp.de/assets/img/verse-excurs/Systeme/Tsb.png" alt="">
+                        <span><img src="https://www.ariscorp.de/assets/img/excurs/Systeme/Tsb.png" alt="">
                             <h2 style="font-family: 'Nasa'">Reisewarnung</h2>
 
                             <span>Der Mangel an Trinkwasser auf Asura hat zu grausamen Machtkämpfen zwischen den Lagern rund um Tram geführt. Aus diesem Grund wird allen Besuchern dringend empfohlen, innerhalb des Zentrums von Tram zu bleiben und Reisen zu den Außenbezirken der Stadt ohne lokale Führer zu vermeiden.</span>

@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/shops/DumpersDepot.png" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/firmen/shops/DumpersDepot.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Shops: Dumpers Depot</h2>
 
                     <div>
