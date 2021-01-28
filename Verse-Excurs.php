@@ -503,24 +503,6 @@
                             </div>
 
 
-                            <style>
-                                .quellenimg.a {
-                                    background: transparent;
-                                    border: transparent;
-                                    color: none;
-	                                text-decoration: none;
-                                }
-                                .quellenimg {
-                                    display: flex;
-                                    justify-content: space-around;
-                                }
-                                .decklinkimg {
-                                    height:200px;
-                                    width:auto;
-                                    float:left;
-                                    margin: 10px;
-                                }
-                            </style>
                     </div>
 
                     <div id="time" class="tabcontent">
@@ -2681,35 +2663,6 @@ $(".timeline2934").click(function() {
         background-color: transparent;
         border-color: transparent;
       }
-</style>
-<style>
-.tabinator input {
-  display: none;
-}gin-left: -1px;
-}
-.tabinator label:before {
-  display:block;
-}
-.tabinator label:hover {
-  cursor: pointer;
-}
-.tabinator input:checked + label {
-  position: relative;
-}
-.tabinator input:checked + label:after {
-  display: block;
-  content: '';
-  position: absolute;
-}
-#content1, #content2, #content3, #content4 {
-  display: none;
-}
-#tab1:checked ~ #content1,
-#tab2:checked ~ #content2,
-#tab3:checked ~ #content3,
-#tab4:checked ~ #content4 {
-  display: block;
-}
 </style>
 </body>
 </html>

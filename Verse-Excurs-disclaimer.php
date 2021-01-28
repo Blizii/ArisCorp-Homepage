@@ -47,7 +47,7 @@
     <div class="container">
 
         <!-- /// EXCURS SECTION /// -->
-        <div id="EXCURS" class='large-margin'>
+        <div id="EXCURS" class='large-margin' style="font-family: 'Nasa";>
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
@@ -73,7 +73,7 @@
                         <br>
                         <br>
 
-                        <span>Eine vorrab Version findest du</span> <a style="color: #E48632;" href="https://alpha.ariscorp.de/sites/Verse-Excurs.html">HIER</a>
+                        <span>Eine vorrab Version findest du</span> <a style="color: #E48632;" href="https://www.ariscorp.de/Verse-Excurs.php">HIER</a>
 
                     </div>
                 </div>
