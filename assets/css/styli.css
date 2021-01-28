@@ -954,6 +954,46 @@ button {
     display: inline-block;
     text-decoration: none;
 }
+div.captionitem {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.captiontext {
+    display: block;
+    color: white;
+}
+.quellenimg.a {
+    background: transparent;
+    border: transparent;
+    color: none;
+    text-decoration: none;
+}
+.quellenimg {
+    display: flex;
+    justify-content: space-around;
+}
+.decklinkimg {
+    height:200px;
+    width:auto;
+    float:left;
+    margin: 10px;
+}
+figure {
+    width:25%;
+    float:left;
+    margin:0px;
+    text-align:center;
+    justify-content: space-around;
+}
+.decklinkimg1 {
+    height:325px;
+}
+.captiontext1hover:hover {
+    text-decoration: underline;
+}
 /* --------------------------- /////////// XII. RESPONSIVE STYLES /////////// --------------------------- */
 @media (max-width : 991px) {
     .nav-item > a::first-letter {
@@ -1146,6 +1186,26 @@ button {
     transition: 0.01s;
     font-size: 17px;
   }
+
+  .tab4 {
+    overflow: hidden;
+    border: 1px solid transparent;
+    background-color: transparent;
+    text-decoration-line: underline;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab4 button {
+    background-color: transparent;
+    color: #808080;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.01s;
+    font-size: 17px;
+  }
   
   /* Change background color of buttons on hover */
   .tablink2 {
@@ -1153,6 +1213,9 @@ button {
   }
 
   .tablink3 {
+    background-color: transparent;
+  }
+  .tablink4 {
     background-color: transparent;
   }
   

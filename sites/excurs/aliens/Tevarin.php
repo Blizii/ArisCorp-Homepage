@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tevarin.jpg" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tevarin.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Alienrasse: Tevarin</h2>
 
                     <div>
@@ -45,7 +45,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tevarin-wide.png" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tevarin-wide.webp" width="100%" height="auto">
 
                         <br>
                         <br>

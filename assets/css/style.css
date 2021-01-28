@@ -1045,6 +1045,15 @@ button {
         float: none;
     }
 }
+div.captionitem {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+.captiontext {
+    display: block;
+    color: white;
+}
 /* --------------------------- /////////// XI. TABS /////////// --------------------------- */
 /* Style the tab */
 .tab {
