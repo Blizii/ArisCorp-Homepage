@@ -193,35 +193,35 @@
                           <div data-panes>
                             <div>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Aegis.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Aegis_Dynamics-trans.png" alt="Aegis Dynamics" width="16%" height="auto" style="border: transparent;"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Aegis.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Aegis_Dynamics-trans.png" alt="Aegis Dynamics" width="16%" height="auto" style="border: transparent;"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Anvil.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Anvil_Aerospace.png" alt="Anvil Aerospace" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Anvil.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Anvil_Aerospace.png" alt="Anvil Aerospace" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/AopoA.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/AopoA-white.png" alt="AopoA" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/AopoA.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/AopoA-white.png" alt="AopoA" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Argo.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Argo_Astronautics.png" alt="Argo_Astronautics" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Argo.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Argo_Astronautics.png" alt="Argo_Astronautics" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Banu.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Banu.png" alt="Banu" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Banu.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Banu.png" alt="Banu" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Consolidated_Outland.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Consolidated_Outland.png" alt="Consolidated_Outland" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Consolidated_Outland.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Consolidated_Outland.png" alt="Consolidated_Outland" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Crusader.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Crusader_Industries.webp" alt="Crusader_Industries" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Crusader.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Crusader_Industries.webp" alt="Crusader_Industries" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Drake.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Drake_Interplanetery.png" alt="Drake_Interplanetery" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Drake.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Drake_Interplanetery.png" alt="Drake_Interplanetery" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Esperia.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Esperia-trans.png" alt="Esperia" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Esperia.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Esperia-trans.png" alt="Esperia" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Greycat.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Greycat_Industrial.png" alt="Greycat_Industrial" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Greycat.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Greycat_Industrial.png" alt="Greycat_Industrial" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Kruger.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Kruger_Intergalactic.png" alt="Kruger_Intergalactic" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Kruger.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Kruger_Intergalactic.png" alt="Kruger_Intergalactic" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/MISC.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/MISC-Musashi_industrial_and_Starflight_concern.png" alt="MISC-Musashi_industrial_and_Starflight_concern" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/MISC.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/MISC-Musashi_industrial_and_Starflight_concern.png" alt="MISC-Musashi_industrial_and_Starflight_concern" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Origin.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Origin_Jumpworks.png" alt="Origin_Jumpworks" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Origin.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Origin_Jumpworks.png" alt="Origin_Jumpworks" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/RSI.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/RobertsSpaceIndustries.png" alt="RSI" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/RSI.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/RobertsSpaceIndustries.png" alt="RSI" width="16%" height="auto"></a>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Tumbril.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Tumbril-white.webp" alt="Tumbril" width="16%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Tumbril.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Tumbril-white.webp" alt="Tumbril" width="16%" height="auto"></a>
 
                             <br>
                             <br>
@@ -231,7 +231,7 @@
 
                             <br>
 
-                            <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Casse_Aerospace.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Casse_Aerospace.png" alt="Casse_Aerospace" width="25%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Casse_Aerospace.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/schiffe/Casse_Aerospace.png" alt="Casse_Aerospace" width="25%" height="auto"></a>
 
                             </div>
                             <div><a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/AMD.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/AMD.png" alt="AMD" width="19%" height="auto"></a>
@@ -251,7 +251,7 @@
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/Willsop.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/willstop.png" alt="Willsop" width="19%" height="auto"></a></div>
                             <div><a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Apocalypse_Arms.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Apocalypse_Arms.png" alt="Apocalypse_Arms" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Basilisk.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Basilisk.png" alt="Basilisk" width="15%" height="auto"></a>
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Basilisk.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Basilisk.png" alt="Basilisk" width="15%" height="auto"></a>
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Behring.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Behring_Applied_Technology.png" alt="Behring_Applied_Technology" width="15%" height="auto"></a>
 
@@ -263,7 +263,7 @@
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Klaus_Und_Werner.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Klaus_Und_Werner.png" alt="Klaus_Und_Werner" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/Shipfmanufactures/Kruger_Intergalactic.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Kruger_Intergalactic.png" alt="Kruger_Intergalactic" width="15%" height="auto"></a>
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Kruger_Intergalactic.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Kruger_Intergalactic.png" alt="Kruger_Intergalactic" width="15%" height="auto"></a>
 
                                 </div>
                             <div>PERSONEN-AUSRÜSTUNG</div>
