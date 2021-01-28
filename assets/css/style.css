@@ -1054,6 +1054,22 @@ div.captionitem {
     display: block;
     color: white;
 }
+.quellenimg.a {
+    background: transparent;
+    border: transparent;
+    color: none;
+    text-decoration: none;
+}
+.quellenimg {
+    display: flex;
+    justify-content: space-around;
+}
+.decklinkimg {
+    height:200px;
+    width:auto;
+    float:left;
+    margin: 10px;
+}
 /* --------------------------- /////////// XI. TABS /////////// --------------------------- */
 /* Style the tab */
 .tab {

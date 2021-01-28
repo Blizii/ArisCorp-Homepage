@@ -89,7 +89,7 @@
             <div class="row medium-margin tab-manifesto">
 
                 <div class="tab">
-                    <button class="tablinks" id="defaultOpen" onclick="openExcurs(event, 'welcome')"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.png" alt="" width="100%" height="auto"></button> <br> <br> <br> <br>
+                    <button class="tablinks" id="defaultOpen" onclick="openExcurs(event, 'welcome')"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.webp" alt="" width="100%" height="auto"></button> <br> <br> <br> <br>
                     <button class="tablinks" onclick="openExcurs(event, 'time')"><h1 style="float: right" class="animation-element slide-down"><span class="coloredwhite" style="font-size: unset;">G</span>ESCHICHTE</h1></button>
                     <button class="tablinks" id="uee-reg-tab" onclick="openExcurs(event, 'uee-reg')"><h1 style="float: right"><h1 style="float: right" class="animation-element slide-down"><span class="coloredwhite" style="font-size: unset;">U</span>EE-REGIERUNG</h1></button>
                     <button class="tablinks" onclick="openExcurs(event, 'uee-leben')"><h1 style="float: right" class="animation-element slide-down"><span class="coloredwhite" style="font-size: unset;">L</span>EBEN IM UEE</h1></button>
@@ -428,7 +428,7 @@
                   </div>
                   -->
 
-                <div id="welcome" class="tabcontent">
+                <div id="welcome" class="tabcontent" style="font-family: 'Nasa';">
 
                             <h2 style="font-family: 'Nasa'">Herzlich willkommen beim Verse Exkurs der ARIS Corporation!</h2> <br>
                             <span>Die ArisCorp hat es sich neben ihrem Finanziellem Erfolg ebenfalls zur Aufgabe gemacht, das wissen der Menschheit zu erweitern und das unbekannte zu ergründen. Auch das Vermitteln  bestehendem Wissens ohne Komplikationen und Übersichtseinbusen ist für uns von Immenser Bedeutung.</span>
@@ -485,20 +485,20 @@
 
                             <div class="quellenimg">
                                 <a target="_blank" href="https://robertsspaceindustries.com/starmap">
-                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Ark.png" alt="ARK STARMAP" class="decklinkimg">
+                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Ark.webp" alt="ARK STARMAP" class="decklinkimg">
                                 </a>
 
                                 <a target="_blank" href="https://robertsspaceindustries.com/galactapedia">
-                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/galaktipedia.png" alt="Glactapedia" class="decklinkimg">
+                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/galaktipedia.webp" alt="Glactapedia" class="decklinkimg">
                                 </a>
 
                                 <a target="_blank" href="https://robertsspaceindustries.com/comm-link">
-                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Comlink.png" alt="Comlink" class="decklinkimg">
+                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Comlink.webp" alt="Comlink" class="decklinkimg">
 
                                 </a>
 
                                 <a target="_blank" href="https://robertsspaceindustries.com/roadmap/release-view">
-                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Roadmap.png" alt="Roadmap" class="decklinkimg">
+                                    <img src="https://www.ariscorp.de/assets/img/excurs/util/Roadmap.webp" alt="Roadmap" class="decklinkimg">
                                 </a>
                             </div>
 
@@ -1073,7 +1073,7 @@
 
 
 
-                    <div id="uee-reg" class="tabcontent">
+                    <div id="uee-reg" class="tabcontent" style="font-family: 'Nasa';">
 
                         <h1 class="short-hr-left" style="font-family: 'Nasa'; float: left;">Excurs - UEE & Regierung</h1>
 
@@ -1122,7 +1122,7 @@
                         <br>
 
                         <div style="text-align: center;">
-                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEEtrans.png" alt="UEE-Transparent" width="30%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEEtrans.webp" alt="UEE-Transparent" width="30%" height="auto">
 
                         <h2 style="font-family: 'Nasa'">Das United Empire of Earth (UEE)</h2>
                         <span>Die Regierung des UEE ist auf verschiedene Abteilungen aufgeteilt.</span>
@@ -1169,9 +1169,11 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Advocacy</h2>  <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Advocacy.png" alt="UEE-Advocacy" style="float: right;" width="32%" height="auto">
+                        <h2 style="font-family: 'Nasa'">Advocacy</h2>  <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Advocacy.webp" alt="UEE-Advocacy" style="float: right;" width="15%" height="auto">
                         <span>Als der Imperator fiel, wurde die Advocacy zu ihrem ursprünglichem Zweck wiederhergestellt. Während die meisten Planeten sich seitdem selbst überwachen, verfolgt die Advocacy Verbrechen, die planeten- und  systemübergreifend verfolg werden. Dazu zählen auch so genante Extraktionen, also Verfolgen in Banu- oder Xi'an-Gebiet. Advocacy Agents werden in der Regel von Kriminellen gefürchtet. Sie sind gut ausgebildet, zu gleichen Teilen Fliegerass und gründlicher Ermittler.Die meisten Advocacy-Agenten arbeiten allein, aber es können auch ganze Teams für hochkarätige Ziele oder komplizierte Situationen eingesetztbwerden. </span>
 
+                        <br>
+                        <br>
                         <br>
                         <br>
 
@@ -1204,7 +1206,7 @@
 
                         <h2 style="font-family: 'Nasa'">Der UEE-Senat</h2>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Senat.png" alt="UEE-Senat">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Senat.webp" alt="UEE-Senat">
 
                         <br>
 
@@ -1279,7 +1281,7 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Das Militär des UEE</h2>
-                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/NAVYFLEET.png" alt="UEE Fleet" width="80%" height="auto"> <br>
+                        <img src="https://www.ariscorp.de/assets/img/excurs/uee/NAVYFLEET.webp" alt="UEE Fleet" width="80%" height="auto"> <br>
 
                         <span>Während es in vielen UEE- Systemen, insbesondere in den bevölkerungsreicheeren, eine umfassende Sicherheit gibt, haben die anhaltenden Gefahrendes Weltraums dazu beigetragen, eine Kultur des fortwährenden Militärdienstes zu schaffen. Einige sehen den Militärdienst als Pflichtübung, andere einfach als einen schnelleren - wenn auch potenziell gefährlichen - Weg, die Staatsbürgerschaf zu erlangen, und wieder andere sehen das Militär als Vollstrecker einer Regierung, die versucht , die Versucht, sich hinter einer freundlichen Fassade zu verstecken. Mit anderen Worten, die Reaktion der öffentlichkeit auf das Militär ist unterschiedlich. Aufgrund der grossen Präsenz des Militärdienstes, hat ein grosser Teil der Bevölkerung entweder beim Militär gedient oder kennt jemanden, der es getan hat.</span>
 
@@ -1291,21 +1293,21 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; float: left;">Navy</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Navy.png" alt="UEE-Navy" style="float: right;" width="32%" height="auto">
+                        <h2 style="font-family: 'Nasa'; float: left;">Navy</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Navy.webp" alt="UEE-Navy" style="float: right;" width="32%" height="auto">
                         <br> <br> <span>Die Navyist der grösste Teilbereich und das öffentliche Gesicht des UEE-Militärs. Die Navy ist verantwortlich für den Transport militärischer Ressourcen, die Sicherung der Grenzen und die Durchführung von Militärangriffen in der gesamten UEE. Die Navy ist in fast jedem System des Empires im Einsatz. In den frühen Tagen der Expansion der Menschheit in den Weltraum diente die Navy in erster Linie als Polizei und patrouilierte die Systeme. Nach der Entdeckung der Banu erkannte die Regierung, dass die Navy als militärische Präsenz neu ausgerichtet werden musste. Die Flotte begann zu wachsen, da sie die offensichtlichste visuelle Darstellung der militärischen Stärke der Menschheit war. Motiviert von Geschichten und Videos mutiger Piloten, meldeten sich zahlreiche Rekruten an.  Während der Messer-Ära wuchs die Navy zusammen mit dem Rest des UEE-Militärs weiter an. Strukturell ist die UEE Navy in Squadrons aufgeteilt, denen ein Bengal Träger und eine bestimmte Anzahl Unterstützungsschiffe zugeordnet sind. Ein Admiral ist für den Träger und die Staffel verantwortlich. Die Rekruten trainieren im Schatten der riesigen Werften an den Akademien und in Bootcamps auf MacArthur im Kilian-System.</span>
 
                         <br>
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; float: left;">Army</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Army.png" alt="UEE-Army" style="float: right;" width="32%" height="auto">
+                        <h2 style="font-family: 'Nasa'; float: left;">Army</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Army.webp" alt="UEE-Army" style="float: right;" width="32%" height="auto">
                         <br> <br> <span>Die Army ist eine sehr gut ausgerüstete Bodentruppe, die bei landgestüzten militärischen Operationen eingesetzt wird und ein wachsames Auge auf Arten von sich noch entwickelnden Planeten hat. Obwohl sie nicht die Grösse der Navy hat, ist die UEE-Army der älteste Zweig des Militärs, der im Jahr 2380 als Teil der Gründung der United Nations of Earth ins Leben gerufen wurde. Die Hauptaufgabe der Army ist es Kriege zu gewinnen, indem sie eine schnelle und nachhaltige Landdominanz über die gesamte Bandbreite militärischer Operationen gewährleistet". Während die Öffentlichkeit in den vergangenen Jahrhunderten vor allem in mächtige Kriegsraumschiffe und ihre Piloten verliebt war, rückte die UEE-Army während des ersten Tevarin-Krieges ins öffentliche Bewusstsein - etwa durch die Schlacht auf Idris IV, die dank der brillianten Taktik eines jungen Offiziers namens Ivar Messer zum grössten Wendepunkt des Krieges wurde.</span>
 
                         <br>
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; float: left;">Marines</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Marine.png" alt="UEE-Marines" style="float: right;" width="32%" height="auto">
+                        <h2 style="font-family: 'Nasa'; float: left;">Marines</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Marine.webp" alt="UEE-Marines" style="float: right;" width="32%" height="auto">
                         <br> <br> <span>Sie sind Speerspitze und Schocktruppe gleichermassen. Die Marines wurden bis zum Ende des ersten Tevarin-Krieges unter dem Dach der Befehlstruktur der Army geführt. Erst danach wurde eine eigene Division daraus gebildet. Die UPE war der Meinung, dass sie eine konsolidierte Spezialeinheit brauchte, die das beste aus der Navy und der Army vereinigte. Ihr Fokus und ihre primäre Aufgabe wurde die Invasion auf Planeten. Einheiten der Marines sind dabei reine Kriegswaffen. Sie kümmern sich nicht um Diplomatie oder ähnliches. Wenn der Imperator sie nicht braucht, trainieren die Marines auf ihrer Basis auf Corin im Kilian-System. Kandidaten der Marines werden aus dem allgemeinen Pool der Rekruten der Army und der Navy ausgewählt. Die Auswahlkriterien sind unbekannt.</span>
                         
                         <div class="img-gameplays-line">
@@ -1314,7 +1316,7 @@
                     </div>
 
 
-                    <div id="uee-leben" class="tabcontent">
+                    <div id="uee-leben" class="tabcontent" style="font-family: 'Nasa';">
 
                         <h1 class="short-hr-left" style="font-family: 'Nasa'; float: left;">Excurs - Leben im UEE</h1>
 
@@ -1348,7 +1350,7 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; float: left;">Währung des UEE - United Earth Credits (UEC)</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEC_Banking.png" alt="UEE-Navy" style="float: right;" width="32%" height="auto">
+                        <h2 style="font-family: 'Nasa'; float: left;">Währung des UEE - United Earth Credits (UEC)</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEC_Banking.webp" alt="UEE-Navy" style="float: right;" width="32%" height="auto">
                         <br> <br> <span>Kurz nach der Gründung der United Planets of Earth, der UPE im Jahr 2523 nahm die Expansion der Menschheit in die Galaxie exponentiell zu. Auch die Terraforming-Technologie setzte sich durch. Diese schnelle Expansion und die Kolonisierung waren es, die die erste wirkliche Herausforderung für die neu gegründete UPE darstellten. Denn folglich wurden verschiedene miteinander konkurrierende Währungen auf verschiedenen Planeten eingeführt und forderten die Cash Transaction Records, die damals offizielle Währung der UPE heraus.</span>
 
                         <br>
@@ -1893,28 +1895,28 @@
                     <a href="https://www.ariscorp.de/sites/excurs/aliens/Banu.php" class="linkc captiontext1hover al">
                         <figure class="captionitem1" height="auto">
                             <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Banu.webp" class="decklinkimg1"/>
-                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: BanuFont; font-size: 350%; margin-left: 5%; display: inline; color: white;">BANU</h2></figcaption>
+                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: BanuFont; font-size: 300%; margin-left: 5%; display: inline; color: white;">BANU</h2></figcaption>
                         </figure>
                     </a>
 
                     <a href="https://www.ariscorp.de/sites/excurs/aliens/Tevarin.php" class="linkc al">
                         <figure class="captionitem1" height="auto">
                             <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tevarin.webp" class="decklinkimg1"/>
-                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: TevarinFont; font-size: 350%; margin-left: 5%; display: inline; color: white;">TEVARIN</h2></figcaption>
+                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: TevarinFont; font-size: 200%; margin-left: 5%; display: inline; color: white;">TEVARIN</h2></figcaption>
                         </figure>
                     </a>
 
                     <a href="https://www.ariscorp.de/sites/excurs/aliens/Vanduul.php" class="linkc al">
                         <figure class="captionitem1" height="auto">
                             <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Vanduul.webp" class="decklinkimg1"/>
-                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: VanduulFont; font-size: 350%; margin-left: 5%; display: inline; color: white;">VANDUUL</h2></figcaption>
+                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: VanduulFont; font-size: 300%; margin-left: 5%; display: inline; color: white;">VANDUUL</h2></figcaption>
                         </figure>
                     </a>
 
                     <a href="https://www.ariscorp.de/sites/excurs/aliens/Xi-An.php" class="linkc al">
                         <figure class="captionitem1" height="auto">
                             <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Xi-An.webp" class="decklinkimg1"/>
-                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: XiAnFont; font-size: 350%; margin-left: 5%; display: inline; color: white;">XI'AN</h2></figcaption>
+                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: XiAnFont; font-size: 300%; margin-left: 5%; display: inline; color: white;">XI'AN</h2></figcaption>
                         </figure>
                     </a>
                     
@@ -1926,8 +1928,8 @@
 
                         <a href="https://www.ariscorp.de/sites/excurs/aliens/Biestarium.php" class="linkc">
                         <figure class="captionitem1" height="auto" style="float: none;">
-                            <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tiere.webp" width="400%" height="auto"/>
-                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: XiAnFont; font-size: 350%; margin-left: 5%; display: inline; color: white;">BIESTARIUM</h2></figcaption>
+                            <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Tiere.png" width="400%" height="auto"/>
+                            <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: 'Nasa'; font-size: 350%; margin-left: 5%; display: inline; color: white;">BIESTARIUM</h2></figcaption>
                         </figure>
                     </a>
 

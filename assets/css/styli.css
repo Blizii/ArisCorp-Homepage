@@ -994,6 +994,22 @@ figure {
 .captiontext1hover:hover {
     text-decoration: underline;
 }
+.quellenimg.a {
+    background: transparent;
+    border: transparent;
+    color: none;
+    text-decoration: none;
+}
+.quellenimg {
+    display: flex;
+    justify-content: space-around;
+}
+.decklinkimg {
+    height:200px;
+    width:auto;
+    float:left;
+    margin: 10px;
+}
 /* --------------------------- /////////// XII. RESPONSIVE STYLES /////////// --------------------------- */
 @media (max-width : 991px) {
     .nav-item > a::first-letter {

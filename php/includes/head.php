@@ -48,6 +48,6 @@
     <!-- Main Stylesheet -->
     <link href="https://alpha.ariscorp.de/new/assets/css/style.css" rel="stylesheet">
     <!-- Font Stylesheet -->
-    <?php include('https://www.alpha.ariscorp.de/new/php/includes/fonts.php') ?>
+    <?php include('https://www.ariscorp.de/php/includes/fonts.php') ?>
 
 </head>
