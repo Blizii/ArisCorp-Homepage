@@ -6,7 +6,7 @@
   <style>
   @font-face {
       font-family: 'Banu-reg';
-      src: url('https://alpha.ariscorp.de/new/assets/fonts/Banu-Regular.otf');
+      src: url('https://www.ariscorp.de/assets/fonts/Banu-Regular.otf');
   }
   </style>
 <!-- /// END HEAD INCLUDE /// -->
@@ -98,7 +98,6 @@
 
                         <br>
                         <br>
-                        <br>
 
                         <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: 'Banu-reg', sans-serif; display: inline;">SPRACHE</h2>
 
@@ -130,10 +129,6 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Kultur</h2>
-
-                        <br>
-                        <br>
-
                         <span>Sloma</span>
 
                         <br>
@@ -163,7 +158,6 @@
 
                         <br>
                         <br>
-                        <br>
 
                         <h2 style="font-family: 'Nasa'">DER BESUCHERFÜHRER DES BANU-PROTEKTORATS</h2>
 
@@ -182,10 +176,6 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">WARUM BESUCHEN SIE DIE BANU?</h2>
-
-                        <br>
-                        <br>
-
                         <span>Die Banu sind nicht nur die erste fremde Art, mit der die Menschheit in Kontakt gekommen ist, sondern sie waren immer ein friedlicher und respektvoller Nachbar, der durch wirtschaftlichen Handel und kulturellen Austausch eine enge Beziehung zur EE und ihren Bürgern gefördert hat. Darüber hinaus sind sie ein reiches und dynamisches Volk, das es verdient, dass man sich dafür interessiert.</span>
 
                         <br>
@@ -202,10 +192,6 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">WO SOLL ICH HIN?</h2>
-
-                        <br>
-                        <br>
-
                         <span>Reisen durch das Banu Protektorat bietet eine Vielzahl von exotischen Ansichten und Sounds. Von den Yulin-Flottillen bis zu den heiligen Sälen von Trise finden Sie Abenteuer und Geheimnis an jeder Ecke. Also, wo fangen wir an? Wir haben eine praktische Anleitung zu einigen der Systeme zusammengestellt, um die Planung Ihrer Reise weiter zu erleichtern.</span>
 
                         <br>
@@ -230,10 +216,6 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">AUF DEM MARKT</h2>
-
-                        <br>
-                        <br>
-
                         <span>Wenn Sie jedes Banu-Zentrum besuchen, von den kleinsten Enklaven bis zu den wohlhabenden Städten, werden Sie eines bemerken: Sie sind immer um einen zentralen Markt herum aufgebaut.</span>
 
                         <br>
@@ -272,10 +254,6 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">SICHERHEIT UND GEFAHRENABWEHR</h2>
-
-                        <br>
-                        <br>
-
                         <span>Hier sind einige Tipps und Tricks, die Sie bei Ihrem Besuch beachten sollten:</span>
 
                         <LI>Viele Menschen finden, dass das Mitbringen von Ohrstöpseln oder anderen Gehörschutzen nützlich sein kann, da das Gehör der Banu nicht so empfindlich ist und die Lärmpegel ziemlich hoch werden können.</LI>

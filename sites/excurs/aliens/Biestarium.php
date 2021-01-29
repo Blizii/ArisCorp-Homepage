@@ -81,7 +81,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/FloPet.webp" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/FloPets.webp" alt="" width="100%" height="auto">
                     
                         <br>
                         <br>
@@ -119,7 +119,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Ma'Tok.Tai.webp" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/MaTokTai.webp" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -152,7 +152,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/MikroTechBär.webp" alt="" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/MicroTechBär.webp" alt="" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -202,7 +202,7 @@
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Space-Wale</h2>
-                        <span>Weltraumwale, oder "Space Whale", sollen die Gaswolken von Crusader (Stanton II) und andere Gasriesen bevölkern. Für Kurze abstecher bewegen sie sich auch etwas aus den Atmospähren heraus. Sie zu jagen oder zu fangen ist unter strafe verboten.</span>
+                        <span>Weltraumwahle, oder "Space Whahle", sollen die Gaswolken von Crusader (Stanton II) und andere Gasriesen bevölkern. Für Kurze abstecher bewegen sie sich auch etwas aus den Atmospähren heraus. Sie zu jagen oder zu fangen ist unter strafe verboten.</span>
 
                         <br>
                         <br>
