@@ -41,22 +41,22 @@
 
                     <div>
 
-                        <span>Die Banu waren die ersten interstellaren Freunde der Menscheit. Als die Banu un die Menschen zusammenkamen und das erste interstellare Friedens- und Handelsabkommen unterzeichneten, begannen sie zu handeln und halfen sich gegenseitig dabei, ins Universum zu expandieren. Die Banu-Gesellschaft kombiniert die Menschlichen konzepte von Familie und Unternehmen zu einer sozialen Einheit, die als Souli bekannt ist - einen Zusammenleben, das sich um ein Unternehmen dreht. Dieses Souli - System passt zu der Tatsache, dass die Banu die perfekten Haendler des Universums sind, da sind jeder auf einen einzigen Dienst oder eine bestimmte Ware spezialisiert hat und sich mit anderen Souli zusammenschliessen muss, um alle notwendigen Güter zu beschaffen.</span>
+                        <span id="ExcursText" class="nasa">Die Banu waren die ersten interstellaren Freunde der Menscheit. Als die Banu un die Menschen zusammenkamen und das erste interstellare Friedens- und Handelsabkommen unterzeichneten, begannen sie zu handeln und halfen sich gegenseitig dabei, ins Universum zu expandieren. Die Banu-Gesellschaft kombiniert die Menschlichen konzepte von Familie und Unternehmen zu einer sozialen Einheit, die als Souli bekannt ist - einen Zusammenleben, das sich um ein Unternehmen dreht. Dieses Souli - System passt zu der Tatsache, dass die Banu die perfekten Haendler des Universums sind, da sind jeder auf einen einzigen Dienst oder eine bestimmte Ware spezialisiert hat und sich mit anderen Souli zusammenschliessen muss, um alle notwendigen Güter zu beschaffen.</span>
 
                         <br>
                         <br>
 
-                        <span>Die Banu waren die ersten interstellaren Freunde der Menscheit. Als die Banu un die Menschen zusammenkamen und das erste interstellare Friedens- und Handelsabkommen unterzeichneten, begannen sie zu handeln und halfen sich gegenseitig dabei, ins Universum zu expandieren. Die Banu-Gesellschaft kombiniert die Menschlichen konzepte von Familie und Unternehmen zu einer sozialen Einheit, die als Souli bekannt ist - einen Zusammenleben, das sich um ein Unternehmen dreht. Dieses Souli - System passt zu der Tatsache, dass die Banu die perfekten Haendler des Universums sind, da sind jeder auf einen einzigen Dienst oder eine bestimmte Ware spezialisiert hat und sich mit anderen Souli zusammenschliessen muss, um alle notwendigen Güter zu beschaffen.</span>
+                        <span id="ExcursText" class="nasa">Die Banu waren die ersten interstellaren Freunde der Menscheit. Als die Banu un die Menschen zusammenkamen und das erste interstellare Friedens- und Handelsabkommen unterzeichneten, begannen sie zu handeln und halfen sich gegenseitig dabei, ins Universum zu expandieren. Die Banu-Gesellschaft kombiniert die Menschlichen konzepte von Familie und Unternehmen zu einer sozialen Einheit, die als Souli bekannt ist - einen Zusammenleben, das sich um ein Unternehmen dreht. Dieses Souli - System passt zu der Tatsache, dass die Banu die perfekten Haendler des Universums sind, da sind jeder auf einen einzigen Dienst oder eine bestimmte Ware spezialisiert hat und sich mit anderen Souli zusammenschliessen muss, um alle notwendigen Güter zu beschaffen.</span>
 
                         <br>
                         <br>
 
-                        <span>Die Banu sind im Allgemeinen ziemlich desorganisiert, jeder ihrer Planeten ist eine unabhaengige Welt mit einem eigenen spezifischen Regierungstyp, was die allgemeine Interaktion mit den Banu etwas schwierig macht, Menschen und Banu aber wahrscheinlich auch davor bewahrt hat, sich waehrend der Messer-Zeit zu bekaempfen. Es gibt gelegentlich Grenzstreitigkeiten mit den Banu, vor allem, wenn Kriminelle über die Grenze fliehen. </span>
+                        <span id="ExcursText" class="nasa">Die Banu sind im Allgemeinen ziemlich desorganisiert, jeder ihrer Planeten ist eine unabhaengige Welt mit einem eigenen spezifischen Regierungstyp, was die allgemeine Interaktion mit den Banu etwas schwierig macht, Menschen und Banu aber wahrscheinlich auch davor bewahrt hat, sich waehrend der Messer-Zeit zu bekaempfen. Es gibt gelegentlich Grenzstreitigkeiten mit den Banu, vor allem, wenn Kriminelle über die Grenze fliehen. </span>
 
                         <br>
                         <br>
 
-                        <span>Das Hauptgeschaeft der Banu ist der Handel. Daher gibt es einen riesigen und freien Handelsmarkt zwischen beiden Kulturen, der sich im Laufe der Jahrhunderte praechtig entwickelt hat. Bei den Banu kann man alles finden, wenn man die credits dafür hat. Die UEE hat versucht, den Warenfluss in und aus dem Banu Protektorat ein wenig zu reduzieren - allerdings mit nur wenig erfolg. Dafür gibt es zwei Hauptgründe. Zum einen ist dies ihre Organisation. Das Banu Protektorat ist eine Sammlung unabhaengiger Planeten, so dass es schwierig ist, mit ihnen über umfassende Handelsprotokolle zu verhandeln. Tatsaechlich gab es in den vergangenen zehn Jahren dazu mehrere Vorschlaege, die noch auf die Ueberprüfung bei der naestenVersammlung des UEE-Senats warten. Zweitens: ihre Lage. Waehrend es auf der einen Seite der UEE einen Cluster von Banu-Systemen gibt, haben sie auch isolierte Systeme beansprucht, die im ganzen bekannten Raum verstreut sind. Eines liegt etwa der Xi'An, eines sogar im Vanduul-Raum. Die UEE ist sich immer noch nicht sicher, wie sie dorthin gekommen sind. Ob es noch mehr Systeme gibt, die von den Banu beansprucht wurden, ist derzeit nicht bekannt.</span>
+                        <span id="ExcursText" class="nasa">Das Hauptgeschaeft der Banu ist der Handel. Daher gibt es einen riesigen und freien Handelsmarkt zwischen beiden Kulturen, der sich im Laufe der Jahrhunderte praechtig entwickelt hat. Bei den Banu kann man alles finden, wenn man die credits dafür hat. Die UEE hat versucht, den Warenfluss in und aus dem Banu Protektorat ein wenig zu reduzieren - allerdings mit nur wenig erfolg. Dafür gibt es zwei Hauptgründe. Zum einen ist dies ihre Organisation. Das Banu Protektorat ist eine Sammlung unabhaengiger Planeten, so dass es schwierig ist, mit ihnen über umfassende Handelsprotokolle zu verhandeln. Tatsaechlich gab es in den vergangenen zehn Jahren dazu mehrere Vorschlaege, die noch auf die Ueberprüfung bei der naestenVersammlung des UEE-Senats warten. Zweitens: ihre Lage. Waehrend es auf der einen Seite der UEE einen Cluster von Banu-Systemen gibt, haben sie auch isolierte Systeme beansprucht, die im ganzen bekannten Raum verstreut sind. Eines liegt etwa der Xi'An, eines sogar im Vanduul-Raum. Die UEE ist sich immer noch nicht sicher, wie sie dorthin gekommen sind. Ob es noch mehr Systeme gibt, die von den Banu beansprucht wurden, ist derzeit nicht bekannt.</span>
 
                         <br>
                         <br>
@@ -66,100 +66,99 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Geschichte</h2>
-                        <span>Entdeckt wurden die Banu von einem NavJumper namens Vernon Tar, der auf Endeckungsreise war und fast einen Kriegausloeste, weil er auf den Banu-Piloten schoss. Dieser Banu war, wie sich spaeter herausstellte, auf der Flucht vor dem gesetz wegen Unterschlagung von Geldern. Als Banu und Menschen kurze zeit spaeter zusammenkamen schlossen sie ein Interstellares Friedens- und Handelsabkommen ab. Mit der Unterzeichnung begannen der Handel mit Technologien und die gegenseitige Unterstützung bei der Expansion ins Universum. Sobald sie sich ausgebreitet hatten, bildeten die Banu ihr Protektorat, um ihre Systeme zu überwachen und ihre interessen zu wahren.</span>
+                        <h2 id="ExcursText" class="nasa">Geschichte</h2>
+                        <span id="ExcursText" class="nasa">Entdeckt wurden die Banu von einem NavJumper namens Vernon Tar, der auf Endeckungsreise war und fast einen Kriegausloeste, weil er auf den Banu-Piloten schoss. Dieser Banu war, wie sich spaeter herausstellte, auf der Flucht vor dem gesetz wegen Unterschlagung von Geldern. Als Banu und Menschen kurze zeit spaeter zusammenkamen schlossen sie ein Interstellares Friedens- und Handelsabkommen ab. Mit der Unterzeichnung begannen der Handel mit Technologien und die gegenseitige Unterstützung bei der Expansion ins Universum. Sobald sie sich ausgebreitet hatten, bildeten die Banu ihr Protektorat, um ihre Systeme zu überwachen und ihre interessen zu wahren.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Heimatwelt</h2>
-                        <span>Bacchus. Zumindest glaubt die UEE das, denn dies ist die Welt, in der die Banu zu grossen Zusammenkünften zusammenkommen, was aber nicht oft der Fall ist. Ihre übrigen Planeten sind vielfaeltig und farbenfroh. Jeder Planet hat seinen eigenen spezifischen Stil, seine Kultur sowie seine eigenen Traditionen.</span>
+                        <h2 id="ExcursText" class="nasa">Heimatwelt</h2>
+                        <span id="ExcursText" class="nasa">Bacchus. Zumindest glaubt die UEE das, denn dies ist die Welt, in der die Banu zu grossen Zusammenkünften zusammenkommen, was aber nicht oft der Fall ist. Ihre übrigen Planeten sind vielfaeltig und farbenfroh. Jeder Planet hat seinen eigenen spezifischen Stil, seine Kultur sowie seine eigenen Traditionen.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Politisches System</h2>
-                        <span>Eine Republik der Planetenstaaten, jeder laeuft unter seinen eigenen politischen System. Die Führer oder ausgewaehlten Vertreter der einzelnen Planeten versammeln sich zu einem Quorum, um Rets- und Handelsfragen zu diskutieren, die die gesammte Art betreffen. Ansonsten  bleibt jeder für sich allein.</span>
+                        <h2 id="ExcursText" class="nasa">Politisches System</h2>
+                        <span id="ExcursText" class="nasa">Eine Republik der Planetenstaaten, jeder laeuft unter seinen eigenen politischen System. Die Führer oder ausgewaehlten Vertreter der einzelnen Planeten versammeln sich zu einem Quorum, um Rets- und Handelsfragen zu diskutieren, die die gesammte Art betreffen. Ansonsten  bleibt jeder für sich allein.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Diplomatie</h2>
+                        <h2 id="ExcursText" class="nasa">Diplomatie</h2>
 
-                        <span>Menschen:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
-
-                        <br>
-
-                        <span>Xi'An:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
+                        <span id="ExcursText" class="nasa">Menschen:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
 
                         <br>
 
-                        <span>Vanduul:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prekaer, aber freundlich</span>
+                        <span id="ExcursText" class="nasa">Xi'An:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
+
+                        <br>
+
+                        <span id="ExcursText" class="nasa">Vanduul:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prekaer, aber freundlich</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: 'Banu-reg', sans-serif; display: inline;">SPRACHE</h2>
+                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'Banu-reg', sans-serif; display: inline; font-size: 300%;">echufu banu</h2> <h2 id="ExcursText" style="font-family: 'Nasa'; display: inline; font-size: 60%;">*Ich rede/spreche Banu</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://www.ariscorp.de/assets/dl/excurs/aliens/Rust-Society-Banu-Guide.pdf">JETZT BANU LERNEN: HIER KLICKEN!</a></h2> 
+                            <button id="translate" onclick="changeFont();" style="color: #00ffe8;"><span style="color: white;">Ü</span>BERSETZEN</button>
 
                         <!-- <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuLanguage2.webp" alt="" width="10%" height="auto" style="display: inline;"> -->
 
                         <br>
 
-                        <span>Banu-Sprache bezieht sich auf eine Familie von Sprachen, die von der Banu stammen und von ihr gesprochen werden. Obwohl alle Banu das gleiche Schriftsystem haben, sprechen sie viele Dialekte, von denen einige nicht gegenseitig verständlich sind. Xenolinguisten glauben, dass dies teilweise auf ihr Fehlen sowohl einer zentralen Heimatwelt als auch einer zentralisierten Regierung zurückzuführen ist. Die Banu haben keinen offiziellen Namen für ihre Sprachen; Stattdessen würde einer, der Banu spricht, sagen, dass sie " Banu-sprechen" (yufu zuBanu, oder yufu zo uBanu).</span>
+                        <span id="ExcursText" class="nasa">Banu-Sprache bezieht sich auf eine Familie von Sprachen, die von der Banu stammen und von ihr gesprochen werden. Obwohl alle Banu das gleiche Schriftsystem haben, sprechen sie viele Dialekte, von denen einige nicht gegenseitig verständlich sind. Xenolinguisten glauben, dass dies teilweise auf ihr Fehlen sowohl einer zentralen Heimatwelt als auch einer zentralisierten Regierung zurückzuführen ist. Die Banu haben keinen offiziellen Namen für ihre Sprachen; Stattdessen würde einer, der Banu spricht, sagen, dass sie " Banu-sprechen" (yufu zuBanu, oder yufu zo uBanu).</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Religion</h2>
-                        <span>Die Banu foenen mehreren Religionen. Es ist dabei keine Ueberraschung, dass beiden Gottheiten mit der groessten Anhaengerschaft Cassa, die Schutzpatronin des Glücks, und Taernin, der Schutzpatron aller Reisenden Ist. Das spiritülle Zentrum des Protektorats befindet sich im Trise-System. Waehrend die versammlungen auf Bacchus die die rechtlichen und politischen Aspekte behandelt, ist "Der Rat" für die sozialen und moralischen Vorgaben  verantwortlich, die die Banu-Gesellschaft definieren und leiten. Die Berufung in den Rat erfordert objektivitaet im Umgang mit der eigenen Rasse. Dass der Rat vom Rest der Gesellschaft getrennt sein muss, ist somit Gesetz. Es gibt jedoch keine grossen Banu-Pilgerfahrten. Banu-Moenche produzieren aufwendige Kunstwerke auf Kupferbasis, die einen gewissen Wert haben, wenn man auf Kitsch steht. Ihre Heiler stellen eine Vielzahl an Medikamenten her, die sich nachweislich Positiv auch auf menschliche Krankheiten auswirken. </span>
+                        <h2 id="ExcursText" class="nasa" >Religion</h2>
+                        <span id="ExcursText" class="nasa">Die Banu foenen mehreren Religionen. Es ist dabei keine Ueberraschung, dass beiden Gottheiten mit der groessten Anhaengerschaft Cassa, die Schutzpatronin des Glücks, und Taernin, der Schutzpatron aller Reisenden Ist. Das spiritülle Zentrum des Protektorats befindet sich im Trise-System. Waehrend die versammlungen auf Bacchus die die rechtlichen und politischen Aspekte behandelt, ist "Der Rat" für die sozialen und moralischen Vorgaben  verantwortlich, die die Banu-Gesellschaft definieren und leiten. Die Berufung in den Rat erfordert objektivitaet im Umgang mit der eigenen Rasse. Dass der Rat vom Rest der Gesellschaft getrennt sein muss, ist somit Gesetz. Es gibt jedoch keine grossen Banu-Pilgerfahrten. Banu-Moenche produzieren aufwendige Kunstwerke auf Kupferbasis, die einen gewissen Wert haben, wenn man auf Kitsch steht. Ihre Heiler stellen eine Vielzahl an Medikamenten her, die sich nachweislich Positiv auch auf menschliche Krankheiten auswirken. </span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Militär</h2>
-                        <span>Die Banu koennen bei Bedarf eine gewalltige Kampfflotte zusammenstellen, aber haben kein stehendes Militaer. Stattdessen haelt die Banu-Miliz den Frieden im Alltag ihnihren Systemen. Diese Miliz arbeitet nach einem Turnus und rekrutiert Freiwillige von den verschiedenen bewohnten Planeten innerhalb eines Systems. Ihren Ansatz zur Strafverfolgung "schnell und locker" zu nennen, ist dabei noch eine Untertreibung.</span>
+                        <h2 id="ExcursText" class="nasa" >Militär</h2>
+                        <span id="ExcursText" class="nasa">Die Banu koennen bei Bedarf eine gewalltige Kampfflotte zusammenstellen, aber haben kein stehendes Militaer. Stattdessen haelt die Banu-Miliz den Frieden im Alltag ihnihren Systemen. Diese Miliz arbeitet nach einem Turnus und rekrutiert Freiwillige von den verschiedenen bewohnten Planeten innerhalb eines Systems. Ihren Ansatz zur Strafverfolgung "schnell und locker" zu nennen, ist dabei noch eine Untertreibung.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kriminalität</h2>
-                        <span>Es genügt zu sagen, dass es im Protektorat der Banu eine Menge Verbrechen gibt. Der bedaürliche Mangel an Kommunikation zwischen den verschiedenen Banu Welten, bedeutet eben auch, dass Kriminelle einfach von Welt zu Welt fliegen koennen, wenn ihnen das Pflaster auf ihrer gegenwaertigen Welt zu gefaehrlich wird. Da es der UEE - selbst der Advocacy - verboten ist, Kriminelle Ueber die Grenzen hinweg zu verfolgen, ist das Banu-Protektorat ein beliebter Zufluchtsort für UEE-Kriminelle. Wenn dann versucht wird, Flüchtige über offizielle Kanaele zurückzuholen, werden nur sehr wenige der Banu-Planeten Flüchtlinge ausliefern. Das hat einige Beamte innerhalb der Advocacy nicht davon abgehalten, Agenten undercover zu schicken, Flüchtlinge zu verfolgen und zu entfüren, zwecks rückfürung.</span>
+                        <h2 id="ExcursText" class="nasa" >Kriminalität</h2>
+                        <span id="ExcursText" class="nasa">Es genügt zu sagen, dass es im Protektorat der Banu eine Menge Verbrechen gibt. Der bedaürliche Mangel an Kommunikation zwischen den verschiedenen Banu Welten, bedeutet eben auch, dass Kriminelle einfach von Welt zu Welt fliegen koennen, wenn ihnen das Pflaster auf ihrer gegenwaertigen Welt zu gefaehrlich wird. Da es der UEE - selbst der Advocacy - verboten ist, Kriminelle Ueber die Grenzen hinweg zu verfolgen, ist das Banu-Protektorat ein beliebter Zufluchtsort für UEE-Kriminelle. Wenn dann versucht wird, Flüchtige über offizielle Kanaele zurückzuholen, werden nur sehr wenige der Banu-Planeten Flüchtlinge ausliefern. Das hat einige Beamte innerhalb der Advocacy nicht davon abgehalten, Agenten undercover zu schicken, Flüchtlinge zu verfolgen und zu entfüren, zwecks rückfürung.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kultur</h2>
-                        <span>Sloma</span>
+                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Sloma.webp" alt="" style="float: right;">
+
+                        <h2 id="ExcursText" class="nasa" >Kultur</h2>
+
+                        <br>
+
+                        <h3 id="ExcursText" class="nasa" >Sloma</h3>
+
+
+                        <span id="ExcursText" class="nasa">Sloma ist ein Getränk, dasvon den Banu oft konsumiert wird, bevor sie den Verhandlungsprozess für neue Geschäftsabschlüsse oder während verschiedener gesellschaftlicher Zusammenkünfte beginnen. Sloma besteht aus einer Basisflüssigkeit, die dann durch die Zugabe von unterschiedlichen Zutaten verändert wird, die von allen, die an der gegebenen sozialen Situation beteiligt sind, auf den Tisch gebracht werden. Nachdem das Gebräu für ein paar Augenblicke gebraut wird, wird das resultierende Getränk Sloma genannt.</span>
 
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/aliens/Sloma.webp" alt="" width="100%" height="auto">
+                        <span id="ExcursText" class="nasa">Seit sie anfänglich angetroffen wurden, haben Banu in der Regel Verhandlungen aufgenommen, seien es politische, geschäftliche oder andere, mit der Schaffung und dem Konsum von Sloma. Das erste Banu-Human Interstellar Peace and Trade Accord wurde über Sloma aus Zutaten, die unter anderem von General Neal Socolovich und einem Protektorat Essosouli beigesteuert wurden, ausgehasht. Da Banu keine historischen Aufzeichnungen führt, gibt es keine endgültigen Beweise, die auf den Ursprung der Praxis hinweisen. Die Essosouli, die beim ersten Friedens- und Handelsabkommen anwesend waren, antworteten auf die Frage nach Sloma einfach, dass es so sei, wie die Dinge gemacht wurden. Menschliche und Xi'an Xenoanthropologen glauben, dass die Praxis wahrscheinlich begann, bevor eine der beiden Zivilisationen auf die Banu traf.</span>
 
                         <br>
                         <br>
 
-                        <span>Sloma ist ein Getränk, dasvon den Banu oft konsumiert wird, bevor sie den Verhandlungsprozess für neue Geschäftsabschlüsse oder während verschiedener gesellschaftlicher Zusammenkünfte beginnen. Sloma besteht aus einer Basisflüssigkeit, die dann durch die Zugabe von unterschiedlichen Zutaten verändert wird, die von allen, die an der gegebenen sozialen Situation beteiligt sind, auf den Tisch gebracht werden. Nachdem das Gebräu für ein paar Augenblicke gebraut wird, wird das resultierende Getränk Sloma genannt.</span>
+                        <span id="ExcursText" class="nasa">Vor Beginn der Verhandlungen wird entweder eine Banu, die Gastgeber ist, oder eine Banu, die sich zuvor bereit erklärt hat, das Slomaddon, ein gewöhnlich kunstvoll verziertes Schiff, in dem Sloma vorbereitet wird, zur Verfügung stellen. Es wird teilweise mit einer von einer Vielzahl von Trägerflüssigkeiten gefüllt werden. Sobald das Slomaddon geöffnet wurde, wird jeder Teilnehmer des Deals oder Meetings etwas hinzufügen. Gewürz ist eines der beliebtesten Zusatzstoffe, da es leicht ist, leicht zu tragen ist und den Geschmack des Sloma erheblich verändern kann. Alles, was sicher zu essen oder zu trinken ist, ist jedoch akzeptabel. Dies kann einzigartige Aromen schaffen. Banu kann sicher Lebensmittel konsumieren, die für Menschen gefährlich sind, Xi'an, und Tevarin, so ist es eine gute Idee zu verlangen, dass jeder Zutaten mitbringen, die ihre verschiedenen ernährungsbedingten Einschränkungen respektieren. Nachdem der Sloma für ein paar Minuten mazeriert hat, wird der Gastgeber Tassen zur Verfügung stellen, in die sie das resultierende Getränk servieren. Von allen wird erwartet, dass sie daran teilnehmen.</Span>
 
                         <br>
                         <br>
 
-                        <span>Seit sie anfänglich angetroffen wurden, haben Banu in der Regel Verhandlungen aufgenommen, seien es politische, geschäftliche oder andere, mit der Schaffung und dem Konsum von Sloma. Das erste Banu-Human Interstellar Peace and Trade Accord wurde über Sloma aus Zutaten, die unter anderem von General Neal Socolovich und einem Protektorat Essosouli beigesteuert wurden, ausgehasht. Da Banu keine historischen Aufzeichnungen führt, gibt es keine endgültigen Beweise, die auf den Ursprung der Praxis hinweisen. Die Essosouli, die beim ersten Friedens- und Handelsabkommen anwesend waren, antworteten auf die Frage nach Sloma einfach, dass es so sei, wie die Dinge gemacht wurden. Menschliche und Xi'an Xenoanthropologen glauben, dass die Praxis wahrscheinlich begann, bevor eine der beiden Zivilisationen auf die Banu traf.</span>
+                        <span id="ExcursText" class="nasa">Methoden, mit denen Banu sloma erstellen und konsumieren kann variieren: einige können es heiß servieren, einige können es kalt servieren, einige können Sie bitten, einen Träger Flüssigkeit und Gefäß zu bringen, einige können darauf bestehen, direkt aus dem Slomaddon zu trinken, einige können Flüssigkeit überhaupt nicht verwenden und stattdessen anbieten, Um Nahrung zu teilen. Wie bei der Originalversion wird von den Teilnehmern immer noch erwartet, dass sie etwas zum Gericht hinzufügen. Essen ist zwar technisch nicht Sloma, erfüllt aber den gleichen Zweck.</span>
 
                         <br>
                         <br>
 
-                        <Span>Vor Beginn der Verhandlungen wird entweder eine Banu, die Gastgeber ist, oder eine Banu, die sich zuvor bereit erklärt hat, das Slomaddon, ein gewöhnlich kunstvoll verziertes Schiff, in dem Sloma vorbereitet wird, zur Verfügung stellen. Es wird teilweise mit einer von einer Vielzahl von Trägerflüssigkeiten gefüllt werden. Sobald das Slomaddon geöffnet wurde, wird jeder Teilnehmer des Deals oder Meetings etwas hinzufügen. Gewürz ist eines der beliebtesten Zusatzstoffe, da es leicht ist, leicht zu tragen ist und den Geschmack des Sloma erheblich verändern kann. Alles, was sicher zu essen oder zu trinken ist, ist jedoch akzeptabel. Dies kann einzigartige Aromen schaffen. Banu kann sicher Lebensmittel konsumieren, die für Menschen gefährlich sind, Xi'an, und Tevarin, so ist es eine gute Idee zu verlangen, dass jeder Zutaten mitbringen, die ihre verschiedenen ernährungsbedingten Einschränkungen respektieren. Nachdem der Sloma für ein paar Minuten mazeriert hat, wird der Gastgeber Tassen zur Verfügung stellen, in die sie das resultierende Getränk servieren. Von allen wird erwartet, dass sie daran teilnehmen.</Span>
-
-                        <br>
-                        <br>
-
-                        <span>Methoden, mit denen Banu sloma erstellen und konsumieren kann variieren: einige können es heiß servieren, einige können es kalt servieren, einige können Sie bitten, einen Träger Flüssigkeit und Gefäß zu bringen, einige können darauf bestehen, direkt aus dem Slomaddon zu trinken, einige können Flüssigkeit überhaupt nicht verwenden und stattdessen anbieten, Um Nahrung zu teilen. Wie bei der Originalversion wird von den Teilnehmern immer noch erwartet, dass sie etwas zum Gericht hinzufügen. Essen ist zwar technisch nicht Sloma, erfüllt aber den gleichen Zweck.</span>
-
-                        <br>
-                        <br>
-
-                        <h2 style="font-family: 'Nasa'">DER BESUCHERFÜHRER DES BANU-PROTEKTORATS</h2>
+                        <h2 id="ExcursText" class="nasa" >DER BESUCHERFÜHRER DES BANU-PROTEKTORATS</h2>
 
                         <br>
                         <br>
@@ -169,98 +168,98 @@
                         <br>
                         <br>
 
-                        <span style="font-style: oblique;">Willkommen, Bürger, in dieser 65. Ausgabe des offiziellen Reiseführers "DER BESUCHERFÜHRER DES BANU-PROTEKTORATS". Es gibt neue lustige und informative Ergänzungen des Leitfadens, wie etwa Tipps zum Verhandeln und persönliche Sicherheit. Genießen Sie Ihren Aufenthalt im Protektorat und danke, dass Sie uns ausgewählt haben, um Ihre Reise zu planen. Ehrlich gesagt,</span>
-                        <span>- Das diplomatische Korps der UEE</span>
+                        <span id="ExcursText" class="nasa" style="font-style: oblique;">Willkommen, Bürger, in dieser 65. Ausgabe des offiziellen Reiseführers "DER BESUCHERFÜHRER DES BANU-PROTEKTORATS". Es gibt neue lustige und informative Ergänzungen des Leitfadens, wie etwa Tipps zum Verhandeln und persönliche Sicherheit. Genießen Sie Ihren Aufenthalt im Protektorat und danke, dass Sie uns ausgewählt haben, um Ihre Reise zu planen. Ehrlich gesagt,</span>
+                        <span id="ExcursText" class="nasa">- Das diplomatische Korps der UEE</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">WARUM BESUCHEN SIE DIE BANU?</h2>
-                        <span>Die Banu sind nicht nur die erste fremde Art, mit der die Menschheit in Kontakt gekommen ist, sondern sie waren immer ein friedlicher und respektvoller Nachbar, der durch wirtschaftlichen Handel und kulturellen Austausch eine enge Beziehung zur EE und ihren Bürgern gefördert hat. Darüber hinaus sind sie ein reiches und dynamisches Volk, das es verdient, dass man sich dafür interessiert.</span>
+                        <h2 id="ExcursText" class="nasa" >WARUM BESUCHEN SIE DIE BANU?</h2>
+                        <span id="ExcursText" class="nasa">Die Banu sind nicht nur die erste fremde Art, mit der die Menschheit in Kontakt gekommen ist, sondern sie waren immer ein friedlicher und respektvoller Nachbar, der durch wirtschaftlichen Handel und kulturellen Austausch eine enge Beziehung zur EE und ihren Bürgern gefördert hat. Darüber hinaus sind sie ein reiches und dynamisches Volk, das es verdient, dass man sich dafür interessiert.</span>
 
                         <br>
                         <br>
 
-                        <span>Die Banu sind für ihre flestiete Natur bekannt und stolz auf ihr Handwerk und ihren ausgeprägten Geschäftssinn. Anstelle von Familieneinheiten oder traditionellen Gesellschaften, die normalerweise beim Menschen zu finden sind, haben die Banu eher eine gesellschaftliche Struktur, die beides in einer Einheit vereint - den Souli. Oft mit "Gilde" übersetzt, ist der Souli das Fundament des Lebens im Protektorat, wo die Banu arbeiten und zusammenleben. Jeder Souli spezialisiert sich auf eine bestimmte Industrie und kann stark variieren; von einem Souli für die Herstellung von Schiffen, zu einem Handels-Souli, und sogar einen Souli, der die Jungen Banu züchtet. Für alles gibt es einen Souli. Diese regimenierte Arbeitsteilung kommt direkt zum Ausdruck in der Expertise der Kompetenzen, die auf den Welten, Märkten und Handelsschiffen der Banu vorhanden sind, was den Besuch unvergesslich macht.</span>
+                        <span id="ExcursText" class="nasa">Die Banu sind für ihre flestiete Natur bekannt und stolz auf ihr Handwerk und ihren ausgeprägten Geschäftssinn. Anstelle von Familieneinheiten oder traditionellen Gesellschaften, die normalerweise beim Menschen zu finden sind, haben die Banu eher eine gesellschaftliche Struktur, die beides in einer Einheit vereint - den Souli. Oft mit "Gilde" übersetzt, ist der Souli das Fundament des Lebens im Protektorat, wo die Banu arbeiten und zusammenleben. Jeder Souli spezialisiert sich auf eine bestimmte Industrie und kann stark variieren; von einem Souli für die Herstellung von Schiffen, zu einem Handels-Souli, und sogar einen Souli, der die Jungen Banu züchtet. Für alles gibt es einen Souli. Diese regimenierte Arbeitsteilung kommt direkt zum Ausdruck in der Expertise der Kompetenzen, die auf den Welten, Märkten und Handelsschiffen der Banu vorhanden sind, was den Besuch unvergesslich macht.</span>
 
                         <br>
                         <br>
 
-                        <span>Die Banu sind für ihre flestiete Natur bekannt und stolz auf ihr Handwerk und ihren ausgeprägten Geschäftssinn. Anstelle von Familieneinheiten oder traditionellen Gesellschaften, die normalerweise beim Menschen zu finden sind, haben die Banu eher eine gesellschaftliche Struktur, die beides in einer Einheit vereint - den Souli. Oft mit "Gilde" übersetzt, ist der Souli das Fundament des Lebens im Protektorat, wo die Banu arbeiten und zusammenleben. Jeder Souli spezialisiert sich auf eine bestimmte Industrie und kann stark variieren; von einem Souli für die Herstellung von Schiffen, zu einem Handels-Souli, und sogar einen Souli, der die Jungen Banu züchtet. Für alles gibt es einen Souli. Diese regimenierte Arbeitsteilung kommt direkt zum Ausdruck in der Expertise der Kompetenzen, die auf den Welten, Märkten und Handelsschiffen der Banu vorhanden sind, was den Besuch unvergesslich macht.</span>
+                        <span id="ExcursText" class="nasa">Die Banu sind für ihre flestiete Natur bekannt und stolz auf ihr Handwerk und ihren ausgeprägten Geschäftssinn. Anstelle von Familieneinheiten oder traditionellen Gesellschaften, die normalerweise beim Menschen zu finden sind, haben die Banu eher eine gesellschaftliche Struktur, die beides in einer Einheit vereint - den Souli. Oft mit "Gilde" übersetzt, ist der Souli das Fundament des Lebens im Protektorat, wo die Banu arbeiten und zusammenleben. Jeder Souli spezialisiert sich auf eine bestimmte Industrie und kann stark variieren; von einem Souli für die Herstellung von Schiffen, zu einem Handels-Souli, und sogar einen Souli, der die Jungen Banu züchtet. Für alles gibt es einen Souli. Diese regimenierte Arbeitsteilung kommt direkt zum Ausdruck in der Expertise der Kompetenzen, die auf den Welten, Märkten und Handelsschiffen der Banu vorhanden sind, was den Besuch unvergesslich macht.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">WO SOLL ICH HIN?</h2>
-                        <span>Reisen durch das Banu Protektorat bietet eine Vielzahl von exotischen Ansichten und Sounds. Von den Yulin-Flottillen bis zu den heiligen Sälen von Trise finden Sie Abenteuer und Geheimnis an jeder Ecke. Also, wo fangen wir an? Wir haben eine praktische Anleitung zu einigen der Systeme zusammengestellt, um die Planung Ihrer Reise weiter zu erleichtern.</span>
+                        <h2 id="ExcursText" class="nasa" >WO SOLL ICH HIN?</h2>
+                        <span id="ExcursText" class="nasa">Reisen durch das Banu Protektorat bietet eine Vielzahl von exotischen Ansichten und Sounds. Von den Yulin-Flottillen bis zu den heiligen Sälen von Trise finden Sie Abenteuer und Geheimnis an jeder Ecke. Also, wo fangen wir an? Wir haben eine praktische Anleitung zu einigen der Systeme zusammengestellt, um die Planung Ihrer Reise weiter zu erleichtern.</span>
 
                         <br>
                         <br>
 
-                        <span>Bacchus II</span>
-                        <span>Gehen Sie zwischen den Tausenden von Inselgruppen und Inseln dieser weiten ozeanischen Welt, um zu erfahren, was viele als die Quintessenz der Banu-Welt ansehen.</span>
+                        <span id="ExcursText" class="nasa">Bacchus II</span>
+                        <span id="ExcursText" class="nasa">Gehen Sie zwischen den Tausenden von Inselgruppen und Inseln dieser weiten ozeanischen Welt, um zu erfahren, was viele als die Quintessenz der Banu-Welt ansehen.</span>
 
                         <br>
                         <br>
 
-                        <span>Geddon I</span>
-                        <span>Ein bisschen Gefahr? Besuchen Sie die Arcologien unter der schönen Verwüstung dieser geologisch aktiven vulkanischen Welt, um zu sehen, wie die Bergbau-Soulis die planetarischen Ressourcen für den Warenhandel ernten.</span>
+                        <span id="ExcursText" class="nasa">Geddon I</span>
+                        <span id="ExcursText" class="nasa">Ein bisschen Gefahr? Besuchen Sie die Arcologien unter der schönen Verwüstung dieser geologisch aktiven vulkanischen Welt, um zu sehen, wie die Bergbau-Soulis die planetarischen Ressourcen für den Warenhandel ernten.</span>
 
                         <br>
                         <br>
 
-                        <span>Gliese IV</span>
-                        <span>Haben Sie sich je gefragt, wie ein unbewohntes Planeten aussieht? Durchqueren Sie die unbewohnten Wilden von Gliese IV, perfekt bewohnbar für Menschen und Banu, aber völlig unbewohnt.</span>
+                        <span id="ExcursText" class="nasa">Gliese IV</span>
+                        <span id="ExcursText" class="nasa">Haben Sie sich je gefragt, wie ein unbewohntes Planeten aussieht? Durchqueren Sie die unbewohnten Wilden von Gliese IV, perfekt bewohnbar für Menschen und Banu, aber völlig unbewohnt.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">AUF DEM MARKT</h2>
-                        <span>Wenn Sie jedes Banu-Zentrum besuchen, von den kleinsten Enklaven bis zu den wohlhabenden Städten, werden Sie eines bemerken: Sie sind immer um einen zentralen Markt herum aufgebaut.</span>
+                        <h2 id="ExcursText" class="nasa" >AUF DEM MARKT</h2>
+                        <span id="ExcursText" class="nasa">Wenn Sie jedes Banu-Zentrum besuchen, von den kleinsten Enklaven bis zu den wohlhabenden Städten, werden Sie eines bemerken: Sie sind immer um einen zentralen Markt herum aufgebaut.</span>
 
                         <br>
                         <br>
 
-                        <span>Menschliche Anthropologen theoretisieren, dass die ersten Banu-Gesellschaften sich um Kreuzungen entwickeln mussten, indem sie sich an den Zusammenfluss der Reisenden hielten, die es ihnen ermöglichten, ihre Exposition gegenüber Waren zu maximieren, die auf ihrem Planeten zirkulieren. Die beliebtesten Kreuzungen zogen mehr und mehr banu, bis dauerhafte Einrichtungen begannen, um sie herum Gestalt anzunehmen.</span>
+                        <span id="ExcursText" class="nasa">Menschliche Anthropologen theoretisieren, dass die ersten Banu-Gesellschaften sich um Kreuzungen entwickeln mussten, indem sie sich an den Zusammenfluss der Reisenden hielten, die es ihnen ermöglichten, ihre Exposition gegenüber Waren zu maximieren, die auf ihrem Planeten zirkulieren. Die beliebtesten Kreuzungen zogen mehr und mehr banu, bis dauerhafte Einrichtungen begannen, um sie herum Gestalt anzunehmen.</span>
 
                         <br>
                         <br>
 
-                        <span>Interessanterweise handelt es sich dabei nur um Theorien, nicht um die der Banu. Die umfassendsten Historiker der Banu-Kultur sind eigentlich Menschen, und das geht nur auf unsere ersten Interaktionen mit ihnen zurück. Der Glaube der Banu, dass man immer in der Gegenwart leben muss, hat eine kulturelle Mentalität geschaffen, die die Tatsachen der Vergangenheit nicht berücksichtigt. Dafür, während das technische Wissen erhalten bleibt (bis es eine bessere Gestaltung gefunden hat), sind alle anderen Fakten (historische Figuren, Schlüsselereignisse, sogar ihre eigene Heimatwelt) für die Altersstufen verloren gegangen. Während also die Menschen den bemerkenswerten Taten und Handlungen großen Wert beimessen, ist es für die Banu die Anhäufung materieller Güter, die wirklich ein erfülltes Leben darstellt. Nichts ist klarer als in ihren Märkten.</span>
+                        <span id="ExcursText" class="nasa">Interessanterweise handelt es sich dabei nur um Theorien, nicht um die der Banu. Die umfassendsten Historiker der Banu-Kultur sind eigentlich Menschen, und das geht nur auf unsere ersten Interaktionen mit ihnen zurück. Der Glaube der Banu, dass man immer in der Gegenwart leben muss, hat eine kulturelle Mentalität geschaffen, die die Tatsachen der Vergangenheit nicht berücksichtigt. Dafür, während das technische Wissen erhalten bleibt (bis es eine bessere Gestaltung gefunden hat), sind alle anderen Fakten (historische Figuren, Schlüsselereignisse, sogar ihre eigene Heimatwelt) für die Altersstufen verloren gegangen. Während also die Menschen den bemerkenswerten Taten und Handlungen großen Wert beimessen, ist es für die Banu die Anhäufung materieller Güter, die wirklich ein erfülltes Leben darstellt. Nichts ist klarer als in ihren Märkten.</span>
 
                         <br>
                         <br>
 
-                        <span>Von den Ständen, die bis zum Rand mit bunten Objekten gefüllt sind, bis zu den unbefleckten Ausstellungsräumen an Bord eines Händlers, gibt es ein paar Dinge, die man beim Handel mit den Banu beachten sollte:</span>
+                        <span id="ExcursText" class="nasa">Von den Ständen, die bis zum Rand mit bunten Objekten gefüllt sind, bis zu den unbefleckten Ausstellungsräumen an Bord eines Händlers, gibt es ein paar Dinge, die man beim Handel mit den Banu beachten sollte:</span>
 
                         <br>
                         <br>
 
-                        <li>Verhandeln ist eine Notwendigkeit. Es gilt als sehr seltsam, ein ursprüngliches Angebot anzunehmen.</li>
+                        <li id="ExcursText" class="nasa">Verhandeln ist eine Notwendigkeit. Es gilt als sehr seltsam, ein ursprüngliches Angebot anzunehmen.</li>
 
-                        <Li>Auch wenn sich ein Objekt oder ein Schiff im Freien ähneln mag, lohnt es sich, genauer hinzuschauen, da die Herstellung von Banu von Souli zu Souli sehr unterschiedlich sein kann. Es kann sich lohnen einzukaufen, bis Sie eine finden, die Ihren Preis- und Qualitätsstandards entspricht.</Li>
+                        <Li id="ExcursText" class="nasa">Auch wenn sich ein Objekt oder ein Schiff im Freien ähneln mag, lohnt es sich, genauer hinzuschauen, da die Herstellung von Banu von Souli zu Souli sehr unterschiedlich sein kann. Es kann sich lohnen einzukaufen, bis Sie eine finden, die Ihren Preis- und Qualitätsstandards entspricht.</Li>
 
-                        <Li>Da sich der Handel zwischen unseren beiden Arten entwickelt, stellen viele Banu Produkte her, die speziell dem Geschmack des Menschen entsprechen. Zum Beispiel gibt es jetzt viele Souli, die Versionen von Schiffen bauen, die für Menschen fliegen können, wie das Merchantman-Schiff und der Defender.</Li>
+                        <Li id="ExcursText" class="nasa">Da sich der Handel zwischen unseren beiden Arten entwickelt, stellen viele Banu Produkte her, die speziell dem Geschmack des Menschen entsprechen. Zum Beispiel gibt es jetzt viele Souli, die Versionen von Schiffen bauen, die für Menschen fliegen können, wie das Merchantman-Schiff und der Defender.</Li>
 
-                        <Li>Es ist für die Banu traditionell, Gastfreundschaft während der Verhandlungen zu bieten, und Sie werden oft Händler um einen Slomaddon versammelt, eine große getränkte Brauvase, von denen jeder eine Zutat zu dem Getränk, den Sloma gebracht hat. Wenn Ihnen eine Tasse angeboten wird, seien Sie höflich und nehmen Sie einen Schluck, aber achten Sie darauf, verantwortungsvoll zu trinken, der Sloma kann manchmal ziemlich stark sein.</Li>
+                        <Li id="ExcursText" class="nasa">Es ist für die Banu traditionell, Gastfreundschaft während der Verhandlungen zu bieten, und Sie werden oft Händler um einen Slomaddon versammelt, eine große getränkte Brauvase, von denen jeder eine Zutat zu dem Getränk, den Sloma gebracht hat. Wenn Ihnen eine Tasse angeboten wird, seien Sie höflich und nehmen Sie einen Schluck, aber achten Sie darauf, verantwortungsvoll zu trinken, der Sloma kann manchmal ziemlich stark sein.</Li>
 
-                        <Li>Die meisten Banu halten eine Transaktion für endgültig, sobald sie abgeschlossen ist. Stellen Sie sicher, dass Sie alles genau inspizieren und die Bedingungen Ihrer Vereinbarung überprüfen, bevor Sie gehen.</Li>
+                        <Li id="ExcursText" class="nasa">Die meisten Banu halten eine Transaktion für endgültig, sobald sie abgeschlossen ist. Stellen Sie sicher, dass Sie alles genau inspizieren und die Bedingungen Ihrer Vereinbarung überprüfen, bevor Sie gehen.</Li>
 
-                        <Li>Ein guter Tipp, um einen serten Händler zu finden, ist zu schauen, wo andere Banu einkaufen. Wenn ein Souli nicht viele Kunden hat, kann es einen Grund dafür geben.</Li>
+                        <Li id="ExcursText" class="nasa">Ein guter Tipp, um einen serten Händler zu finden, ist zu schauen, wo andere Banu einkaufen. Wenn ein Souli nicht viele Kunden hat, kann es einen Grund dafür geben.</Li>
 
-                        <Li>Wenn Sie etwas sehen, das Ihnen gefällt, kaufen Sie es! Die Banu-Händler sind oft auf der Durchreise und können nicht da sein, wenn Sie das nächste Mal wieder kommen.</Li>
+                        <Li id="ExcursText" class="nasa">Wenn Sie etwas sehen, das Ihnen gefällt, kaufen Sie es! Die Banu-Händler sind oft auf der Durchreise und können nicht da sein, wenn Sie das nächste Mal wieder kommen.</Li>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">SICHERHEIT UND GEFAHRENABWEHR</h2>
-                        <span>Hier sind einige Tipps und Tricks, die Sie bei Ihrem Besuch beachten sollten:</span>
+                        <h2 id="ExcursText" class="nasa" >SICHERHEIT UND GEFAHRENABWEHR</h2>
+                        <span id="ExcursText" class="nasa">Hier sind einige Tipps und Tricks, die Sie bei Ihrem Besuch beachten sollten:</span>
 
-                        <LI>Viele Menschen finden, dass das Mitbringen von Ohrstöpseln oder anderen Gehörschutzen nützlich sein kann, da das Gehör der Banu nicht so empfindlich ist und die Lärmpegel ziemlich hoch werden können.</LI>
-                        <LI>Obwohl viele Banu werden mit Ihnen ehrlich zu behandeln, sie haben, was man als eine laxe Sicht der Kriminalität beschreiben kann und erwarten, dass die Besucher kümmern sich um sie, so bleiben Sie immer aufgeschlossen. Einige Reisende finden, dass die Einstellung von lokalen Banu Söldnern oder Defenders Escorts ist eine gute Investition.</LI>
-                        <LI>Wenn Sie Opfer eines Verbrechens werden, werden wir erwarten, dass Sie einen Security-Souli einziehen, um den Fall für Sie zu untersuchen. Im Falle eines Diebstahls sind viele bereit, einen Prozentsatz der zurückgewonnenen Vermögensgegenstände als Honorar zu nehmen.</LI>
-                        <LI>Eine der größten Gefahren, denen Menschen im Banu-Protektorat begegnen können, ist die Sklaverei. Wir raten den Menschen dringend, die "Dienermärkte" von Kins II aus diesem Grund zu meiden. Bitte beachten Sie jedoch, dass, wenn Sie von Banu Sklavenhaltern gefangen genommen werden, Sie sehr wahrscheinlich die Möglichkeit haben, Ihre eigene Freiheit zu kaufen. Es gibt nur wenige Firmen, die den Reisenden eine Sklavereiversicherung für Notfälle anbieten.</LI>
-                        <LI>Bitte beachten Sie, dass, obwohl viele Besucher das populäre Buch "Eine Menschliche Perspektive" gelesen haben, wir die Menschen daran erinnern möchten, dass es sich um ein fiktives Werk handelt und dass man sich nicht auf dieses Buch als genaue Informationsquelle über die Banu verlassen sollte.</LI>
+                        <LI id="ExcursText" class="nasa">Viele Menschen finden, dass das Mitbringen von Ohrstöpseln oder anderen Gehörschutzen nützlich sein kann, da das Gehör der Banu nicht so empfindlich ist und die Lärmpegel ziemlich hoch werden können.</LI>
+                        <LI id="ExcursText" class="nasa">Obwohl viele Banu werden mit Ihnen ehrlich zu behandeln, sie haben, was man als eine laxe Sicht der Kriminalität beschreiben kann und erwarten, dass die Besucher kümmern sich um sie, so bleiben Sie immer aufgeschlossen. Einige Reisende finden, dass die Einstellung von lokalen Banu Söldnern oder Defenders Escorts ist eine gute Investition.</LI>
+                        <LI id="ExcursText" class="nasa">Wenn Sie Opfer eines Verbrechens werden, werden wir erwarten, dass Sie einen Security-Souli einziehen, um den Fall für Sie zu untersuchen. Im Falle eines Diebstahls sind viele bereit, einen Prozentsatz der zurückgewonnenen Vermögensgegenstände als Honorar zu nehmen.</LI>
+                        <LI id="ExcursText" class="nasa">Eine der größten Gefahren, denen Menschen im Banu-Protektorat begegnen können, ist die Sklaverei. Wir raten den Menschen dringend, die "Dienermärkte" von Kins II aus diesem Grund zu meiden. Bitte beachten Sie jedoch, dass, wenn Sie von Banu Sklavenhaltern gefangen genommen werden, Sie sehr wahrscheinlich die Möglichkeit haben, Ihre eigene Freiheit zu kaufen. Es gibt nur wenige Firmen, die den Reisenden eine Sklavereiversicherung für Notfälle anbieten.</LI>
+                        <LI id="ExcursText" class="nasa">Bitte beachten Sie, dass, obwohl viele Besucher das populäre Buch "Eine Menschliche Perspektive" gelesen haben, wir die Menschen daran erinnern möchten, dass es sich um ein fiktives Werk handelt und dass man sich nicht auf dieses Buch als genaue Informationsquelle über die Banu verlassen sollte.</LI>
 
 
                     </div>
@@ -293,5 +292,14 @@
     <script src="https://www.ariscorp.de/assets/js/jquery-modal-video.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/validator.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/strider.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $(".nasa").toggleClass("banu");
+            });
+        });
+    </script>
 </body>
 </html>

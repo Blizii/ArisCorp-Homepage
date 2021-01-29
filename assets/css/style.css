@@ -1308,7 +1308,22 @@ div.captionitem {
     border-radius: 6px;
   }
 */
-
+.nasa {
+    font-family: 'Nasa';
+}
+.banu {
+    font-family: 'Banu-reg';
+}
+.xian {
+    font-family: 'XiAn-reg';
+}
+#translate {
+    background: transparent;
+    border: transparent;
+}
+#translate:hover {
+    text-decoration: underline;
+}
 .tab-aris {
     color: #00FFE8;
 }

@@ -4,6 +4,12 @@
   <title>ARISCORP - Verse-Excurs : Alienrasse: Xi'An</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
+<style>
+    @font-face {
+        font-family: 'XiAn-reg';
+        src: url('https://www.ariscorp.de/assets/fonts/xiinthlea-Regular.otf');
+    }
+</style>
 <body>
   <!-- //// HEADER INCLUDE //// -->
     <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
@@ -101,7 +107,8 @@
 
 
 
-                        <h2 style="font-family: 'Nasa'; display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 style="font-family: Xi-An; display: inline;">SPRACHE</h2>
+                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'XiAn-reg', sans-serif; display: inline; font-size: 300%;">no’a uo’a Jh’an</h2> <h2 id="ExcursText" style="font-family: 'Nasa'; display: inline; font-size: 60%;">*Ich rede/spreche Xi'An</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://robertsspaceindustries.com/spectrum/community/SC/forum/88012/thread/xi-an-language-learning-resources">JETZT XI'AN LERNEN: HIER KLICKEN!</a></h2> 
+                            <button id="translate" onclick="changeFont();" style="color: #00ffe8;"><span style="color: white;">Ü</span>BERSETZEN</button>
 
                         <!-- <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuLanguage2.webp" alt="" width="10%" height="auto" style="display: inline;"> -->
 
@@ -177,5 +184,12 @@
     <script src="https://www.ariscorp.de/assets/js/jquery-modal-video.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/validator.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/strider.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                $(".nasa").toggleClass("xian");
+            });
+        });
+    </script>
 </body>
 </html>
