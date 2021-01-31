@@ -248,7 +248,10 @@
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/Tarsus.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/Tarsus.png" alt="Tarsus" width="11%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/Willsop.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/willstop.png" alt="Willsop" width="19%" height="auto"></a></div>
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/Willsop.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/willstop.png" alt="Willsop" width="19%" height="auto"></a>
+                            
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/komponenten/Yorm.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/komponenten/Yorm.png" alt="Yorm" width="19%" height="auto"></a></div>
+                            
                             <div><a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Apocalypse_Arms.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Apocalypse_Arms.png" alt="Apocalypse_Arms" width="15%" height="auto"></a>
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Basilisk.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Basilisk.png" alt="Basilisk" width="15%" height="auto"></a>
@@ -256,6 +259,8 @@
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Behring.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Behring_Applied_Technology.png" alt="Behring_Applied_Technology" width="15%" height="auto"></a>
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Flashfire_Weapons_Mounts.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Flashfire_Weapons_Mounts.png" alt="Behring_Applied_Technology" width="15%" height="auto"></a>
+
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Hedeby_Gunworks.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Hedeby_Gunworks.png" alt="Hedeby_Gunworks" width="15%" height="auto"></a>
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Hurston_Dynamics.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Hurston_Dynamics.png" alt="Hurston_Dynamics" width="15%" height="auto"></a>
 
@@ -265,17 +270,21 @@
 
                                 <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/schiffe/Kruger_Intergalactic.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Kruger_Intergalactic.png" alt="Kruger_Intergalactic" width="15%" height="auto"></a>
 
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/MaxOx.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/MaxOx.png" alt="MaxOx" width="15%" height="auto"></a>
+
+                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/waffen/Talon_WS.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/waffen/Talon_WS.png" alt="Kruger_Intergalactic" width="15%" height="auto"></a>
+
                                 </div>
-                            <div>PERSONEN-AUSRÜSTUNG</div>
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Caldera.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Caldera.png" alt="Caldera" width="15%" height="auto"></a>
+                            <div><a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Caldera.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Caldera.png" alt="Caldera" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Clark_Defense_Systems.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Clark_Defense_Systems.png" alt="Clark_Defense_Systems" width="15%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Clark_Defense_Systems.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Clark_Defense_Systems.png" alt="Clark_Defense_Systems" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Doomsday.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Doomsday.png" alt="Doomsday" width="15%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Doomsday.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Doomsday.png" alt="Doomsday" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Ultiflex.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Ultiflex.png" alt="Ultiflex" width="15%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Ultiflex.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Ultiflex.png" alt="Ultiflex" width="15%" height="auto"></a>
 
-                                <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Virgil.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Virgil.png" alt="Virgil" width="15%" height="auto"></a>
+                            <a href="https://www.ariscorp.de/sites/excurs/firmen/herrsteller/personen-ausruestung/Virgil.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/herrsteller/personen-ausruestung/Virgil.png" alt="Virgil" width="15%" height="auto"></a></div>
+                                
                           </div>
                         </div>
                         <div><div class="img-gameplays-line">
@@ -302,11 +311,13 @@
 
                         <div><div class="img-gameplays-line">
                             <hr class="animation-element extend">
-                        </div><a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Casaba_Outlet.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Casaba_Outlet-white.png" alt="Self-Casaba_Outlet" width="30%" height="auto"></a>
+                        </div><a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Casaba_Outlet.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Casaba_Outlet-white.png" alt="Self-Casaba_Outlet" width="25%" height="auto"></a>
 
-                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Cubby_Blast.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Cubby_Blast.png" alt="Cubby_Blast" width="30%" height="auto"></a>
+                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Centermass.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Centermass.png" alt="Centermass" width="25%" height="auto"></a>
 
-                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Dumpers_Depot.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Dumpers_Depot.png" alt="Cubby_Blast" width="30%" height="auto"></a></div>
+                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Cubby_Blast.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Cubby_Blast.png" alt="Cubby_Blast" width="25%" height="auto"></a>
+
+                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Dumpers_Depot.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Dumpers_Depot.png" alt="Cubby_Blast" width="25%" height="auto"></a></div>
 
                         <div><div class="img-gameplays-line">
                             <hr class="animation-element extend">
@@ -321,6 +332,8 @@
                         </div><a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/Bioticorp.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/Bioticorp.png" alt="Bioticorp" width="19%" height="auto"></a>
 
                         <a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/InterDimension_Software.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/InterDimension_Software.png" alt="InterDimension_Software" width="25%" height="auto"></a>
+
+                        <a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/Rayari_inc.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/Rayari_inc.png" alt="Rayari_inc" width="25%" height="auto"></a>
 
                         <br>
 
