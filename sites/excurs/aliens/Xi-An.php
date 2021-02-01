@@ -107,7 +107,7 @@
 
 
 
-                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'XiAn-reg', sans-serif; display: inline; font-size: 300%;">no’a uo’a Jh’an</h2> <h2 id="ExcursText"; display: inline; font-size: 60%;">*Ich rede/spreche Xi'An</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://robertsspaceindustries.com/spectrum/community/SC/forum/88012/thread/xi-an-language-learning-resources">JETZT XI'AN LERNEN: HIER KLICKEN!</a></h2> 
+                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'XiAn-reg', sans-serif; display: inline; font-size: 300%;">no’a uo’a jh’an</h2> <h2 id="ExcursText"; display: inline; font-size: 60%;">*Ich rede/spreche Xi'An</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://robertsspaceindustries.com/spectrum/community/SC/forum/88012/thread/xi-an-language-learning-resources">JETZT XI'AN LERNEN: HIER KLICKEN!</a></h2> 
                             <button id="translate" onclick="changeFont();" style="color: #00ffe8;"><span style="color: white;">Ü</span>BERSETZEN</button>
 
                         <!-- <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuLanguage2.webp" alt="" width="10%" height="auto" style="display: inline;"> -->
@@ -140,7 +140,7 @@
                         <br>
 
                         <h2 class="nasa">Sozialverhalten</h2>
-                        <span>Die Xi'An sind extrem geduldig und daher Meister der Diplomatie. Das ist nicht verwunderlich: Sie leben Jahrhunderte lang. Aus diesem Grund wird auch die Verbreitung der Art sorgfältig überwacht und von der Regierung gesteürt. Während ihr ruhiges verhalten oft als Unnahbarkeit oder Apathie interpretiert wird, folgt aus ihrer Lebensdauer, dass sie stehts in Jahrzehnten denken und nicht in einzelnen Jahren. </span>
+                        <span class="nasa">Die Xi'An sind extrem geduldig und daher Meister der Diplomatie. Das ist nicht verwunderlich: Sie leben Jahrhunderte lang. Aus diesem Grund wird auch die Verbreitung der Art sorgfältig überwacht und von der Regierung gesteürt. Während ihr ruhiges verhalten oft als Unnahbarkeit oder Apathie interpretiert wird, folgt aus ihrer Lebensdauer, dass sie stehts in Jahrzehnten denken und nicht in einzelnen Jahren. </span>
 
                         <br>
 
