@@ -17,7 +17,7 @@
                         <a class="nav-link" href="https://www.ariscorp.de/#about">Über Uns</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.ariscorp.de/#tabs">Mitglieder & Die Flotte & Aufgabenfelder</a>
+                        <a class="nav-link" href="https://www.ariscorp.de/#tabs">Mitglieder, Die Flotte & Aufgabenfelder</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.ariscorp.de/#recruitment">Bewerben</a>

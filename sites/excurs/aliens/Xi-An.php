@@ -41,12 +41,12 @@
 
                     <div>
 
-                        <span>Die erste Interaktion zwischen der Menschheit und den Xi'An fand im Jahr 2530 statt, als ein Unternehmen versehendlich versuchte, eine ihrer bewohnten Welten auszubeuten. Seitdem sind dieBeziehungen angespannt. Das Misstrauen wuchs sich zu einem Kalten Krieg aus, bei dem Seiten die Grenze zwischen beiden Imperien schützend patroullieren. Obwohl die Beziehung nach dem Fall des Messer-Regines besser wurde, blieb die Diplomatie vorsichtig. Dies ist zum Teil auch auf die natürlich Kré gehört. Die Regierung kontrolliert alle Aspekte des Lebens und ist in allen Bereichen präsent - von der Landwirtschaft über die Herstellung von Produkten bis hin zur Kriminalität und der Landnutzung. Alle Planeten haben spezifische Zwecke wie Landwirtschaft oder Produktion, je nachdem, wofür die Regierung sie am besten geeignet hält. Dieser Ansatz gilt auch für ihre kommerzielle Industrie, da di Häuser um exklusive Verträge zur Entwicklung eines bestimmten Produkts oder einer bestimmten Dienstleistung konkurrieren. Ausserhalb seines Hauses muss jeder Xi'An zwei Dienstzeiten für den Kaiser und die Regierung ableisten - eine, wenn sie mündig werde, und eine zweite am Ende ihres Lebens.</span>
+                        <span class="nasa">Die erste Interaktion zwischen der Menschheit und den Xi'An fand im Jahr 2530 statt, als ein Unternehmen versehendlich versuchte, eine ihrer bewohnten Welten auszubeuten. Seitdem sind dieBeziehungen angespannt. Das Misstrauen wuchs sich zu einem Kalten Krieg aus, bei dem Seiten die Grenze zwischen beiden Imperien schützend patroullieren. Obwohl die Beziehung nach dem Fall des Messer-Regines besser wurde, blieb die Diplomatie vorsichtig. Dies ist zum Teil auch auf die natürlich Kré gehört. Die Regierung kontrolliert alle Aspekte des Lebens und ist in allen Bereichen präsent - von der Landwirtschaft über die Herstellung von Produkten bis hin zur Kriminalität und der Landnutzung. Alle Planeten haben spezifische Zwecke wie Landwirtschaft oder Produktion, je nachdem, wofür die Regierung sie am besten geeignet hält. Dieser Ansatz gilt auch für ihre kommerzielle Industrie, da di Häuser um exklusive Verträge zur Entwicklung eines bestimmten Produkts oder einer bestimmten Dienstleistung konkurrieren. Ausserhalb seines Hauses muss jeder Xi'An zwei Dienstzeiten für den Kaiser und die Regierung ableisten - eine, wenn sie mündig werde, und eine zweite am Ende ihres Lebens.</span>
 
                         <br>
                         <br>
 
-                        <span>Die UEE hat jedoch auch grosse Fortschritte gemacht, um nach der Messer-Aera wieder mit den Xi'An anzuknüpfen. Deshalb unterstützt die UEE einen gesunden Handelüber die Grenzen hinweg. Das UEE-Handelsministerium überwacht dabei den Import und Export von Waren zwischender UEE und dem Raum der Xi'An. Menschliche Unternehmen, die Rohstoffe und waren handeln wollen, müssen eine Import- oder Exportlizenz von der Regierung einholen. Während des Lizensierungsprozesses analysiert das Empire die Handelsgeschichte des Unternehmens und holt Hintergrundinformationen über Führungskräfte ein. Kurz gesagt, die UEE versucht zu erkennen, ob der Handel des Unternehmens dem Empire zugte kommt. Allgemeiner konsens ist, dass ein florierender Handel ein zeichen für politischen willen ist.Allerdings haben manche im Empire auch Angst davor, zu sehr von Fremdprodukten abhängig zu werden, so dass sie manche Handelsabkommen nur strategisch genehmigen oder ein Veto einlegen werden. Die Handelskooperationen frustriert dies, da es ihnen oft so vorkommt, dass Vreinbarungen aus willkürlichen Gründen genehmigt oder abgelehnt werden.</span>
+                        <span class="nasa">Die UEE hat jedoch auch grosse Fortschritte gemacht, um nach der Messer-Aera wieder mit den Xi'An anzuknüpfen. Deshalb unterstützt die UEE einen gesunden Handelüber die Grenzen hinweg. Das UEE-Handelsministerium überwacht dabei den Import und Export von Waren zwischender UEE und dem Raum der Xi'An. Menschliche Unternehmen, die Rohstoffe und waren handeln wollen, müssen eine Import- oder Exportlizenz von der Regierung einholen. Während des Lizensierungsprozesses analysiert das Empire die Handelsgeschichte des Unternehmens und holt Hintergrundinformationen über Führungskräfte ein. Kurz gesagt, die UEE versucht zu erkennen, ob der Handel des Unternehmens dem Empire zugte kommt. Allgemeiner konsens ist, dass ein florierender Handel ein zeichen für politischen willen ist.Allerdings haben manche im Empire auch Angst davor, zu sehr von Fremdprodukten abhängig zu werden, so dass sie manche Handelsabkommen nur strategisch genehmigen oder ein Veto einlegen werden. Die Handelskooperationen frustriert dies, da es ihnen oft so vorkommt, dass Vreinbarungen aus willkürlichen Gründen genehmigt oder abgelehnt werden.</span>
 
                         <br>
                         <br>
@@ -56,30 +56,30 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Geschichte</h2>
-                        <span>Das Xi'An Reich und die Menschen hatten im Laufe der Jahrhunderte turblente Beziehungen. Die Xi'An sehen die Menschen allgemein als kurzsichtig und ungestüm an. Die Technologie der Xi'An scheint die der Menschen überlegen zu sein, in jedem Fall sieht sie schöner aus. Beide Zivilisationen stehen auf relativ gleicher technologischer Stufe. Die Fähigkeit zur gegenseitigen Vernichtung ist wahrscheinlich das, was beide Seiten davon abgehalten hat, einen umfassenden Angriff zu versuchen.</span>
+                        <h2 class="nasa"">Geschichte</h2>
+                        <span class="nasa">Das Xi'An Reich und die Menschen hatten im Laufe der Jahrhunderte turblente Beziehungen. Die Xi'An sehen die Menschen allgemein als kurzsichtig und ungestüm an. Die Technologie der Xi'An scheint die der Menschen überlegen zu sein, in jedem Fall sieht sie schöner aus. Beide Zivilisationen stehen auf relativ gleicher technologischer Stufe. Die Fähigkeit zur gegenseitigen Vernichtung ist wahrscheinlich das, was beide Seiten davon abgehalten hat, einen umfassenden Angriff zu versuchen.</span>
 
                         <br>
                         <br>
 
-                        <span>Eine Reihe Systeme fungierten während des Kalten Krieges als Niemandsland zwischen beiden Spezies. Dies waren Tohil, Oya, Gurzil, Horus, Pallas, Hadur, Indira und Virtus. Zusammenfassend wurden diese Systeme als so genannte Perry-Linie bekannt. Nach dem Friedensvertrag von 2789 wurde die Perry-Linie zwischen der UEE und dem Xi'An-Reich aufgeteilt, wobei Tohil, Oya, Gurzilund Horus an die UEE und Pallas, Hadur, Indra und Virtus an die Xi'An gingen. Die Beziehungen zu den Xi'An haben sich im Lufe der Jahrhunderte gebessert, aber es wäre übertrieben, sie freundschaftlich zu nennen. Die Menscheit hofft, dass die Xi'An nichts Böses mehr im Schilde führen, sie ist aber für alle Fälle gewappnet.</span>
+                        <span class="nasa">Eine Reihe Systeme fungierten während des Kalten Krieges als Niemandsland zwischen beiden Spezies. Dies waren Tohil, Oya, Gurzil, Horus, Pallas, Hadur, Indira und Virtus. Zusammenfassend wurden diese Systeme als so genannte Perry-Linie bekannt. Nach dem Friedensvertrag von 2789 wurde die Perry-Linie zwischen der UEE und dem Xi'An-Reich aufgeteilt, wobei Tohil, Oya, Gurzilund Horus an die UEE und Pallas, Hadur, Indra und Virtus an die Xi'An gingen. Die Beziehungen zu den Xi'An haben sich im Lufe der Jahrhunderte gebessert, aber es wäre übertrieben, sie freundschaftlich zu nennen. Die Menscheit hofft, dass die Xi'An nichts Böses mehr im Schilde führen, sie ist aber für alle Fälle gewappnet.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Heimatwelt</h2>
-                        <span>Das Hyoton System ist der Ort der Heimat des alten Heimatplaneten der Xi'an, RyiX'yan (Hyoton III), und der neün Hauptstadt Ka'ua (Hyoton IV), der Residenz des heutigen Kaisers Kr.ē, der seit fast 300 Jahren regiert.</span>
+                        <h2 class="nasa"">Heimatwelt</h2>
+                        <span class="nasa">Das Hyoton System ist der Ort der Heimat des alten Heimatplaneten der Xi'an, RyiX'yan (Hyoton III), und der neün Hauptstadt Ka'ua (Hyoton IV), der Residenz des heutigen Kaisers Kr.ē, der seit fast 300 Jahren regiert.</span>
 
                         <br>
                         <br>
 
-                        <span>Bestehend aus 13 bekannten Planetensystemen, glauben die Experten für menschliche Politik, dass es weitere Systeme geben könnte, die Xi'An den anderen Zivilisationen nicht offenbart haben. Das Empire Xi 'an (SaoXy'an) grenzt an das Vereinigte Reich der Erde entlang einer Reihe von Planetensystemen, die früher als Perry-Linie bekannt waren. Er teilt sich auch eine Grenze mit dem Gebiet der Kr'thak, obwohl die genauen Koordinaten dieser Grenze der UEE nicht bekannt sind.</span>
+                        <span class="nasa">Bestehend aus 13 bekannten Planetensystemen, glauben die Experten für menschliche Politik, dass es weitere Systeme geben könnte, die Xi'An den anderen Zivilisationen nicht offenbart haben. Das Empire Xi 'an (SaoXy'an) grenzt an das Vereinigte Reich der Erde entlang einer Reihe von Planetensystemen, die früher als Perry-Linie bekannt waren. Er teilt sich auch eine Grenze mit dem Gebiet der Kr'thak, obwohl die genauen Koordinaten dieser Grenze der UEE nicht bekannt sind.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Politisches System</h2>
-                        <span>Eine Erbliche, absolute Monarchie. der Titel des Kaisers geht durch die Familienlinie. Der Kaiser hat einen Hohen Rat von Beratern, der jeweils eine Facette der regierung repräsentiert. Auf jedem Planeten unter Xi'An-Kontrolle gibt es einen Rat, der diese Welt leitet. Diese Ratsmitglieder berichten direkt an ihren Kré war der Herscher der vergangenen dreihundert Jahre. Er war ebenfalls derjenige, der 2789 den Friedensvertrag mit Terra aushandelte.</span>
+                        <h2 class="nasa">Politisches System</h2>
+                        <span class="nasa">Eine Erbliche, absolute Monarchie. der Titel des Kaisers geht durch die Familienlinie. Der Kaiser hat einen Hohen Rat von Beratern, der jeweils eine Facette der regierung repräsentiert. Auf jedem Planeten unter Xi'An-Kontrolle gibt es einen Rat, der diese Welt leitet. Diese Ratsmitglieder berichten direkt an ihren Kré war der Herscher der vergangenen dreihundert Jahre. Er war ebenfalls derjenige, der 2789 den Friedensvertrag mit Terra aushandelte.</span>
 
                         <br>
                         <br>
@@ -89,17 +89,17 @@
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Diplomatie</h2>
+                        <h2 class="nasa">Diplomatie</h2>
 
-                        <span>Menschen:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; früher feindselig/Heute angespannt aber kooperativ</span>
-
-                        <br>
-
-                        <span>Banu:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Einige Clans handeln mit den Banu</span>
+                        <span class="nasa">Menschen:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; früher feindselig/Heute angespannt aber kooperativ</span>
 
                         <br>
 
-                        <span>Xi'An:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
+                        <span class="nasa">Banu:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Einige Clans handeln mit den Banu</span>
+
+                        <br>
+
+                        <span class="nasa">Xi'An:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freundlich</span>
 
                         <br>
                         <br>
@@ -107,48 +107,48 @@
 
 
 
-                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'XiAn-reg', sans-serif; display: inline; font-size: 300%;">no’a uo’a Jh’an</h2> <h2 id="ExcursText" style="font-family: 'Nasa'; display: inline; font-size: 60%;">*Ich rede/spreche Xi'An</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://robertsspaceindustries.com/spectrum/community/SC/forum/88012/thread/xi-an-language-learning-resources">JETZT XI'AN LERNEN: HIER KLICKEN!</a></h2> 
+                        <h2 id="ExcursText" class="nasa" style=" display: inline;">Sprache</h2> &nbsp;&nbsp; <h2 id="ExcursText" class="nasa" style="font-family: 'XiAn-reg', sans-serif; display: inline; font-size: 300%;">no’a uo’a Jh’an</h2> <h2 id="ExcursText"; display: inline; font-size: 60%;">*Ich rede/spreche Xi'An</h2> <h2 style=" display: inline; font-size: 80%;"><a href="https://robertsspaceindustries.com/spectrum/community/SC/forum/88012/thread/xi-an-language-learning-resources">JETZT XI'AN LERNEN: HIER KLICKEN!</a></h2> 
                             <button id="translate" onclick="changeFont();" style="color: #00ffe8;"><span style="color: white;">Ü</span>BERSETZEN</button>
 
                         <!-- <img src="https://www.ariscorp.de/assets/img/excurs/aliens/BanuLanguage2.webp" alt="" width="10%" height="auto" style="display: inline;"> -->
 
                         <br>
 
-                        <span>Die Xi'an-Sprache (uo'aXy'an) ist eine Gruppe von Sprachen, die vom Xi'an gesprochen werden. Es bezieht sich auf den Standarddialekt, den Militärdialekt und unzählige andere Dialekte, die im gesamten Xi'an-Reich verbreitet sind. Die meisten Xi'an-Dialekte sind aufgrund der Neuorganisation der Xi'an-Kultur nach dem Ende der großen Kluft (20044 - 19755 v. Chr.) Und der Forderung, dass alle Xi'an 30 Jahre im Xi'an-Dienst verbringen müssen, gegenseitig verständlich (Pō't.ōngp.ū). Das gleiche standardisierte Schriftsystem wird für alle Xi'an-Dialekte verwendet.</span>
+                        <span class="nasa">Die Xi'an-Sprache (uo'aXy'an) ist eine Gruppe von Sprachen, die vom Xi'an gesprochen werden. Es bezieht sich auf den Standarddialekt, den Militärdialekt und unzählige andere Dialekte, die im gesamten Xi'an-Reich verbreitet sind. Die meisten Xi'an-Dialekte sind aufgrund der Neuorganisation der Xi'an-Kultur nach dem Ende der großen Kluft (20044 - 19755 v. Chr.) Und der Forderung, dass alle Xi'an 30 Jahre im Xi'an-Dienst verbringen müssen, gegenseitig verständlich (Pō't.ōngp.ū). Das gleiche standardisierte Schriftsystem wird für alle Xi'an-Dialekte verwendet.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Religion</h2>
-                        <span>Keine offizielle Religion bekannt. Es gibt verstreute Glaubenssysteme, aber Xi'an neigen dazu, moralischen Richtlinien zu folgen und eine universelle Spiritualität zu fördern, die als Li'tova bekannt ist, anstatt bestimmte Götter anzubeten.</span>
+                        <h2 class="nasa">Religion</h2>
+                        <span class="nasa">Keine offizielle Religion bekannt. Es gibt verstreute Glaubenssysteme, aber Xi'an neigen dazu, moralischen Richtlinien zu folgen und eine universelle Spiritualität zu fördern, die als Li'tova bekannt ist, anstatt bestimmte Götter anzubeten.</span>
 
                         <br>
                         <br>
 
-                        <span>Die Li'tova ist der zentrale Ethikkodex und die wichtigste "Religion" des Xi'an-Volkes. Sie wurde im Jahr 33900 vor J.-C. ungefähr von den ersten Xi'an gegründet, um später im Gesetz am Ende der Großen Division, im Jahr I.0 vom Kaiser Ya.l'ē se Ru'a, der letzten Überlebenden seines Hauses und des ersten Kaisers Xi'an, kodifiziert zu werden.</span>
+                        <span class="nasa">Die Li'tova ist der zentrale Ethikkodex und die wichtigste "Religion" des Xi'an-Volkes. Sie wurde im Jahr 33900 vor J.-C. ungefähr von den ersten Xi'an gegründet, um später im Gesetz am Ende der Großen Division, im Jahr I.0 vom Kaiser Ya.l'ē se Ru'a, der letzten Überlebenden seines Hauses und des ersten Kaisers Xi'an, kodifiziert zu werden.</span>
 
                         <br>
 
-                        <span>Das Herz der Li'tova konzentriert sich auf das Konzept der Zeit, genauer gesagt auf die Absicht und die Wirkung aller Aktionen im Laufe der Zeit, so klein sie auch sein mögen. Eine Gemeinde, die Li'tova gewidmet ist, befindet sich auf dem Planeten R.aip'uāng (Kai'pua III).</span>
+                        <span class="nasa">Das Herz der Li'tova konzentriert sich auf das Konzept der Zeit, genauer gesagt auf die Absicht und die Wirkung aller Aktionen im Laufe der Zeit, so klein sie auch sein mögen. Eine Gemeinde, die Li'tova gewidmet ist, befindet sich auf dem Planeten R.aip'uāng (Kai'pua III).</span>
 
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Kriminalität</h2>
-                        <span>Es gibt weniger Verbrechen pro Kopf im Xi'An-Reich als in der UEE, aber es gibt sie. Die Xi'An sind stolz darauf, "bewusste"  Kriminellen zu haben, da das Handeln aus Emotionen als zeichen von Schwäche und unreife angesehen wird. So arbeiten Kriminelle innerhalb des Xi'An-Imperiums ähnlich wie die Syndikate innerhalb der UEE meist sehr diszipliniert. Es gibt Xi'An-Piraten und Schmuggler, aber sie sind in der Regel Jung und noch in ihrer wilden Lebensphase. Diese Piraten werden normalerweise im UEE-gebiet anzutreffen sein, aber sie werden auch ihre eigenen Leute ausrauben, wenn die Ladung es wert scheint.</span>
+                        <h2 class="nasa">Kriminalität</h2>
+                        <span class="nasa">Es gibt weniger Verbrechen pro Kopf im Xi'An-Reich als in der UEE, aber es gibt sie. Die Xi'An sind stolz darauf, "bewusste"  Kriminellen zu haben, da das Handeln aus Emotionen als zeichen von Schwäche und unreife angesehen wird. So arbeiten Kriminelle innerhalb des Xi'An-Imperiums ähnlich wie die Syndikate innerhalb der UEE meist sehr diszipliniert. Es gibt Xi'An-Piraten und Schmuggler, aber sie sind in der Regel Jung und noch in ihrer wilden Lebensphase. Diese Piraten werden normalerweise im UEE-gebiet anzutreffen sein, aber sie werden auch ihre eigenen Leute ausrauben, wenn die Ladung es wert scheint.</span>
 
                         <br>
                         <br>
 
-                        <h2 style="font-family: 'Nasa'">Sozialverhalten</h2>
+                        <h2 class="nasa">Sozialverhalten</h2>
                         <span>Die Xi'An sind extrem geduldig und daher Meister der Diplomatie. Das ist nicht verwunderlich: Sie leben Jahrhunderte lang. Aus diesem Grund wird auch die Verbreitung der Art sorgfältig überwacht und von der Regierung gesteürt. Während ihr ruhiges verhalten oft als Unnahbarkeit oder Apathie interpretiert wird, folgt aus ihrer Lebensdauer, dass sie stehts in Jahrzehnten denken und nicht in einzelnen Jahren. </span>
 
                         <br>
 
-                        <span>Die Xi'An präsentieren sich als höflich, aber neutral, besonders gegenüber denen, die sie noch nie zuvor getroffen haben. Dies ist ein jahrhundertealter sozialer Testmechanismus. Sie nähern sich einer Persondie und lassen zunächst einmal die andere Person den Ton angeben. Wenn sich ein Xi'An schliesslich wohlfuhlt, wird er anfangen sich zu öffnen und das Gespräch  wird persönlicher. Bei Menschen dauert dieser Prozess etwas länger. Die Xi'An werden sich immer auf die Seite der eigenen Art stellen werden es sei denn, es werden Beweise vorgelegt, die zum Beispiel bei einer Anklage die Anschuldigungen eines Aussenseiters stützen.</span>
+                        <span class="nasa">Die Xi'An präsentieren sich als höflich, aber neutral, besonders gegenüber denen, die sie noch nie zuvor getroffen haben. Dies ist ein jahrhundertealter sozialer Testmechanismus. Sie nähern sich einer Persondie und lassen zunächst einmal die andere Person den Ton angeben. Wenn sich ein Xi'An schliesslich wohlfuhlt, wird er anfangen sich zu öffnen und das Gespräch  wird persönlicher. Bei Menschen dauert dieser Prozess etwas länger. Die Xi'An werden sich immer auf die Seite der eigenen Art stellen werden es sei denn, es werden Beweise vorgelegt, die zum Beispiel bei einer Anklage die Anschuldigungen eines Aussenseiters stützen.</span>
 
                         <br>
 
-                        <span>Es ist nicht ungewöhnlich, Xi'An im UEE-Raum anzutreffen, in der Regel i den drei Kategorien: Besuch von Geschäftsleuten oder würdenträgern, jüngere Xi'An, die sich nicht in der Xi'An-Kultur eingelebt habenund Aussiedker. Es gibt nämlich Xi'An, die das Gefühl hatten dass sie in der Xi'An Lebensweise zürsticken würden, und die "Kindlichen" Emotionen der Menschheit als frischen Atemzug begrüssten und in die UEE auswanderten. Einige durchliefen sogar den mühsamen Prozess, Bürger der UEE zu werden.</span>
+                        <span class="nasa">Es ist nicht ungewöhnlich, Xi'An im UEE-Raum anzutreffen, in der Regel i den drei Kategorien: Besuch von Geschäftsleuten oder würdenträgern, jüngere Xi'An, die sich nicht in der Xi'An-Kultur eingelebt habenund Aussiedker. Es gibt nämlich Xi'An, die das Gefühl hatten dass sie in der Xi'An Lebensweise zürsticken würden, und die "Kindlichen" Emotionen der Menschheit als frischen Atemzug begrüssten und in die UEE auswanderten. Einige durchliefen sogar den mühsamen Prozess, Bürger der UEE zu werden.</span>
 
                         <br>
                         <br>

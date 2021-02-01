@@ -51,12 +51,15 @@
     <link href="https://www.ariscorp.de/assets/css/modal-video.min.css" rel="stylesheet">
     <!-- Main Stylesheet -->
     <link href="https://www.ariscorp.de/assets/css/styli.css" rel="stylesheet">
+    <!-- Starmap Stylesheet -->
+    <link href="https://www.ariscorp.de/assets/css/starmap.css" rel="stylesheet">
 
     <link href="https://www.ariscorp.de/assets/css/zozo.tabs.min.css" rel="stylesheet">
     <link href="https://www.ariscorp.de/assets/css/zozo.tabs.flat.min.css" rel="stylesheet">
     <script src="https://www.ariscorp.de/assets/js/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="http://zozoui.com/js/google-analytics.min.js"></script>
+
 
 
 
@@ -313,7 +316,7 @@
                             <hr class="animation-element extend">
                         </div><a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Casaba_Outlet.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Casaba_Outlet-white.png" alt="Self-Casaba_Outlet" width="25%" height="auto"></a>
 
-                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Centermass.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Centermass.png" alt="Centermass" width="25%" height="auto"></a>
+                        <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Centermass.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/centermass.png" alt="Centermass" width="25%" height="auto"></a>
 
                         <a href="https://www.ariscorp.de/sites/excurs/firmen/shops/Cubby_Blast.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/shops/Cubby_Blast.png" alt="Cubby_Blast" width="25%" height="auto"></a>
 
@@ -536,7 +539,7 @@
 
                     <div id="time" class="tabcontent">
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/util/NaviTimeline.png" usemap="#image-map2">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/util/NaviTimeline.webp" usemap="#image-map2">
 
                         <h1 class="short-hr-left" style="font-family: 'Nasa'; float: left;">Excurs - Geschichte</h1>
 
