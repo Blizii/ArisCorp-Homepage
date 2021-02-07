@@ -46,11 +46,11 @@ Primary Color: #E48632;
 @import url('https://fonts.googleapis.com/css?family=Open+Sans'); /* Open Sans Font */
 @font-face {
     font-family: 'Anurati';
-    src: url('../fonts/Anurati-Regular.otf');
+    src: url('https://www.ariscorp.de/assets/fonts/Anurati-Regular.otf');
 }
 @font-face {
     font-family: 'Nasa';
-    src: url('../fonts/nasalization-rg.ttf');
+    src: url('https://www.ariscorp.de/assets/fonts/nasalization-rg.ttf');
 }
 
 
@@ -92,7 +92,7 @@ a:focus {
 /* -Resets- */
 html, body { 
     background-color: #111;
-    background: url(../img/misc/bg.webp);
+    background: url(https://www.ariscorp.de/assets/img/misc/bg.webp);
     background-repeat: repeat;
     color: #FFF;
     font-size: 16px;

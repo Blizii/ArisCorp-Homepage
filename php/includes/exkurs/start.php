@@ -47,7 +47,7 @@
                             <br>
                             <br>
 
-                            <span>Als Quellen und auch als Referenz für unsere Inhalte geben wir folgende Quellen an.</span>
+                            <span>Als Referenz für unsere Inhalte geben wir folgende Quellen an.</span>
 
                             <br>
                             <br>

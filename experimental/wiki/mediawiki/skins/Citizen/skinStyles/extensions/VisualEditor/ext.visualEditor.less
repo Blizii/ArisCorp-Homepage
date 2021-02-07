@@ -1,0 +1,197 @@
+/*
+ * Citizen - Visual Editor Styles
+ * https://starcitizen.tools
+*/
+
+@import '../../../resources/variables.less';
+
+.ve-activated {
+	.mw-header {
+		z-index: 3; // Move lower to accompany VE
+		background-color: var( --background-color-dp-00 );
+
+		&:before {
+			box-shadow: none;
+		}
+	}
+
+	#page-tools {
+		z-index: 1; // Fix collision
+		opacity: 1;
+		pointer-events: auto;
+	}
+
+	.mw-footer {
+		z-index: 2; // Fix collision with VE elements
+	}
+}
+
+.skin-citizen {
+	.ve-ui {
+		&-toolbar {
+			> .oo-ui-toolbar-bar {
+				background-color: var( --background-color-dp-00 );
+			}
+
+			&-floating {
+				z-index: 4;
+			}
+		}
+
+		&-surface {
+			.ve-ce-documentNode {
+				padding: 0 !important;
+			}
+
+			&-placeholder {
+				padding: 0 !important;
+			}
+		}
+
+		&-overlay {
+			font-family: @fonts;
+
+			&-global {
+				z-index: 100;
+			}
+
+			&-surface {
+				&-placeholder,
+				.ve-ce-documentNode {
+					padding: 0;
+				}
+			}
+		}
+
+		&-mwSaveDialog {
+			&-summary {
+				background-color: transparent;
+			}
+
+			&-options {
+				border-color: var( --border-color-base );
+				background-color: var( --background-color-framed );
+			}
+
+			&--editSummary-count {
+				border-color: var( --border-color-base );
+			}
+
+			&-license {
+				color: var( --color-base--subtle );
+			}
+		}
+	}
+}
+
+// Fix weird compressed text bug
+.ve-init-mw-tempWikitextEditorWidget {
+	width: 100% !important;
+	background: transparent;
+}
+
+.ve-init-mw-desktopArticleTarget {
+	&-toolbar {
+		margin: -20px -20px 20px -20px !important; // Bypass @media screen styles
+
+		&.ve-ui-toolbar-floating > .oo-ui-toolbar-bar {
+			top: 56px; // Fixed under header
+		}
+
+		&Placeholder {
+			border: 0;
+			box-shadow: none;
+
+			&-open {
+				height: 42px;
+			}
+		}
+	}
+
+	.CodeMirror {
+		padding: 0 !important;
+		line-height: @content-line-height !important; // Lining up syntax highlighter
+
+		&-code * {
+			line-height: @content-line-height !important; // Lining up syntax highlighter
+		}
+	}
+
+	.ve-ui-mwWikitextSurface .ve-ce-paragraphNode {
+		line-height: @content-line-height !important; // Lining up syntax highlighter
+	}
+}
+
+// Make toolbar more smaller screen friendly
+// Well at least I did by best
+@media ( max-width: 800px ) {
+	.ve-activated {
+		.mw-header {
+			background-color: transparent; // Because header is taller than toolbar
+		}
+	}
+
+	.ve-init-mw-desktopArticleTarget {
+		&-toolbar {
+			&.ve-ui-toolbar-floating > .oo-ui-toolbar-bar {
+				top: 0; // stick to top
+			}
+
+			.ve-ui-toolbar-group {
+				// Hide some dropdown tools in smaller screen
+				// format - Paragraph
+				// link - Link
+				// strcture - List bullet
+				// insert - Insert
+				// specialCharacter - Special character
+				// help - Help
+				// notices - Notices
+				// pageMenu - Menu
+				&-format,
+				&-link,
+				&-structure,
+				&-insert,
+				&-specialCharacter,
+				&-help,
+				&-notices,
+				&-pageMenu {
+					display: none;
+				}
+			}
+
+			// Shorten save button
+			// Use CSS magic to create an icon
+			// Will change if I figure out a way to load the icon only for VE
+			.ve-ui-toolbar-saveButton {
+				width: 60px !important;
+				height: 42px !important;
+				padding: 0 !important;
+
+				&:before {
+					top: 12px;
+					transform: rotate( -45deg );
+				}
+
+				&:after {
+					bottom: 12px;
+					transform: rotate( 45deg );
+				}
+
+				&:before,
+				&:after {
+					position: absolute;
+					left: 30px;
+					display: block;
+					width: 2px;
+					height: 11px;
+					background: #fff;
+					content: '';
+				}
+
+				.oo-ui-tool-title {
+					display: none !important;
+				}
+			}
+		}
+	}
+}

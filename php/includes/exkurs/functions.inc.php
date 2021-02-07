@@ -1,10 +1,4 @@
 <?php
-
-/**
- * @author Sebastian Theobald
- * @copyright 2010
- */
- 
  function title()
  {
     if(isset($_GET["tab"]))
@@ -34,11 +28,14 @@
             case "firmen" : 
                 echo "ARISCORP - Verse-Exkurs - FIRMEN";
                 break;
+            case "technologien" : 
+                echo "ARISCORP - Verse-Exkurs - TECHNOLOGIEN";
+                break;
         }
     }
     else
     {
-        echo "ARISCORP - exkurs";
+        echo "ARISCORP - Exkurs";
     }
  }
  
@@ -53,6 +50,7 @@
                 include_once("start.php");
                 break;
             case "geschichte" :
+                
                 include_once("geschichte.php");
                 break;
             case "uee-regierung" :
@@ -71,6 +69,9 @@
             case "firmen" :
                 include_once("firmen.php");
                 break;
+            case "technologien" :
+                include_once("technologien.php");
+                break;
         }
     }
     else
@@ -81,6 +82,15 @@
  
  
 
-
+ 
 
 ?>
+
+
+<!--
+colorr
+colorl
+colorm
+colora
+colorf
+-->

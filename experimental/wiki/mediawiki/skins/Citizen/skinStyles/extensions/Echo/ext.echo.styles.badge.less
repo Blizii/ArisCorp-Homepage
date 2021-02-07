@@ -1,0 +1,63 @@
+/*
+ * Citizen - Echo Styles
+ * https://starcitizen.tools
+*/
+
+@import '../../../resources/variables.less';
+
+// Styles for echo badges
+#pt-notifications {
+	&-alert,
+	&-notice {
+		.mw-echo-notifications-badge {
+			top: 0;
+			width: var( --width-button-base );
+			height: var( --height-header );
+			margin: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			opacity: var( --opacity-icon-base );
+			transition: @transition-opacity-quick, @transition-transform-quick;
+
+			&:hover {
+				opacity: var( --opacity-icon-base--hover ) !important; // override all styles
+			}
+
+			&:active {
+				opacity: var( --opacity-icon-base--active ) !important;
+			}
+
+			// Badge tweaks
+			&:after {
+				background-color: @red-50;
+				font-size: 11px;
+			}
+
+			&.mw-echo-notifications-badge-all-read {
+				opacity: var( --opacity-base--disabled );
+			}
+		}
+	}
+
+	// Rotate bell
+	&-alert {
+		.mw-echo-notifications-badge {
+			&:hover,
+			&:focus,
+			&:active {
+				transform: rotateZ( 20deg );
+			}
+		}
+	}
+}
+
+.skin-citizen-dark {
+	#pt-notifications {
+		&-alert,
+		&-notice {
+			.mw-echo-notifications-badge {
+				filter: invert( 1 ) hue-rotate( 180deg );
+			}
+		}
+	}
+}

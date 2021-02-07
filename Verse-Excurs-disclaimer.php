@@ -51,7 +51,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">Verse <span class="coloredaris">Excurs</span></h1>
+                    <h1 class="animation-element slide-down">Verse <span class="coloredaris">Excurs-Disclaimer</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -73,7 +73,7 @@
                         <br>
                         <br>
 
-                        <span>Eine vorrab Version findest du</span> <a style="color: #E48632;" href="https://www.ariscorp.de/Verse-Excurs.php">HIER</a>
+                        <span>Eine vorrab Version findest du</span> <a style="color: #E48632;" href="https://www.ariscorp.de/Verse-Excurs.php?tab=start">HIER</a>
 
                     </div>
                 </div>

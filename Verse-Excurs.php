@@ -63,9 +63,6 @@
     <script src="http://zozoui.com/js/google-analytics.min.js"></script>
     </head>
     <body>
-        <a href="?tab=exkurs">Exkurs</a>
-        <a href="?tab=geschichte">History</a>
-        <a href="?tab=map">map</a>
 
         <!-- //// HEADER INCLUDE //// -->
             <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
@@ -83,14 +80,15 @@
     <div class="row medium-margin tab-manifesto">
 
         <div class="tab">
-            <button class="tablinks" onclick="location.href='Exkurs-test.php'"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.webp" alt="" width="100%" height="auto"></button> <br> <br> <br> <br>
-            <button class="tablinks" onclick="location.href='?tab=geschichte'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">G</span>ESCHICHTE</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=uee-regierung'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">U</span>EE-REGIERUNG</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=uee-leben'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">L</span>EBEN IM UEE</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=start'"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.webp" alt="" width="100%" height="auto"></button> <br> <br> <br> <br>
+            <button class="tablinks" onclick="location.href='?tab=geschichte'"><h1 style="float: left; color: <?php echo "$colorh"; ?>"><span class="coloredwhite" style="font-size: unset;">G</span>ESCHICHTE</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=uee-regierung'"><h1 style="float: left; color: <?php print_r($colorr); ?>"><span class="coloredwhite" style="font-size: unset;">U</span>EE-REGIERUNG</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=uee-leben'"><h1 style="float: left; color: <?php print_r($colorl); ?>"><span class="coloredwhite" style="font-size: unset;">L</span>EBEN IM UEE</h1></button>
 
-            <button class="tablinks" onclick="location.href='?tab=starmap'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">A</span>RK-STARMAP</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=alienrassen'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">A</span>LIENRASSEN</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=firmen'"><h1 style="float: left"><span class="coloredwhite" style="font-size: unset;">F</span>IRMEN</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=starmap'"><h1 style="float: left; color: <?php print_r($colorm); ?>"><span class="coloredwhite" style="font-size: unset;">A</span>RK-STARMAP</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=alienrassen'"><h1 style="float: left; color: <?php print_r($colora); ?>"><span class="coloredwhite" style="font-size: unset;">A</span>LIENRASSEN</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=firmen'"><h1 style="float: left; color: <?php print_r($colorf); ?>"><span class="coloredwhite" style="font-size: unset;">F</span>IRMEN</h1></button>
+            <button class="tablinks" onclick="location.href='?tab=technologien'"><h1 style="float: left; color: <?php print_r($colort); ?>"><span class="coloredwhite" style="font-size: unset;">T</span>ECHNOLOGIEN</h1></button>
         </div>
         </div>
         

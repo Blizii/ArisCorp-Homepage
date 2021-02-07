@@ -1,0 +1,43 @@
+.mw-header {
+	--width-button-base: ~'calc(var(--size-icon) + var(--padding-page))';
+	--width-button-corner: ~'calc(var(--size-icon) + var(--padding-page) * 2)';
+	position: fixed;
+	z-index: 10;
+	top: 0;
+	right: 0;
+	left: 0;
+	display: flex;
+	height: var( --height-header );
+	justify-content: space-between;
+
+	&-tools {
+		display: inherit;
+	}
+
+	ul {
+		list-style: none;
+	}
+
+	ul,
+	li {
+		display: block;
+		margin: 0;
+	}
+
+	&:before {
+		position: absolute;
+		right: 0;
+		left: 0;
+		box-shadow: 0 0 30px var( --height-header ) var( --background-color-dp-00 );
+		content: '';
+	}
+}
+
+// User icon bar
+#p-personal-extra {
+	ul {
+		display: flex;
+		height: var( --height-header );
+		align-items: center;
+	}
+}

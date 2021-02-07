@@ -238,6 +238,100 @@
                         <h2 style="font-family: 'Nasa'; float: left;">Marines</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/UEE_Marine.webp" alt="UEE-Marines" style="float: right;" width="32%" height="auto">
                         <br> <br> <span>Sie sind Speerspitze und Schocktruppe gleichermassen. Die Marines wurden bis zum Ende des ersten Tevarin-Krieges unter dem Dach der Befehlstruktur der Army geführt. Erst danach wurde eine eigene Division daraus gebildet. Die UPE war der Meinung, dass sie eine konsolidierte Spezialeinheit brauchte, die das beste aus der Navy und der Army vereinigte. Ihr Fokus und ihre primäre Aufgabe wurde die Invasion auf Planeten. Einheiten der Marines sind dabei reine Kriegswaffen. Sie kümmern sich nicht um Diplomatie oder ähnliches. Wenn der Imperator sie nicht braucht, trainieren die Marines auf ihrer Basis auf Corin im Kilian-System. Kandidaten der Marines werden aus dem allgemeinen Pool der Rekruten der Army und der Navy ausgewählt. Die Auswahlkriterien sind unbekannt.</span>
                         
+                        <br>
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'; float: left;">Civilian Defence Force (CDF)</h2> <img src="https://www.ariscorp.de/assets/img/excurs/uee/CDF.webp" alt="CDF" style="float: right;" width="37%" height="auto">
+                        <br> <br><h3 style="font-family: 'Nasa'; float: center;">"Die beste Verteidigung eines Systems wird immer von seinen Bewohnern kommen."</h3>
+                        
+                        <br>
+
+                        <span>Bryce Balewa verteidigte diesen Punkt jahrelang, bevor er zu einem der wichtigsten Unterstützer der Zivilverteidigungstruppe (CDF) wurde, einer Freiwilligenmiliz, die von der UEE-Armee und Advocacy aufgefordert wurde, in Krisenzeiten Unterstützung zu leisten. Bis zur Gründung der CDF im Rahmen der Initiative zur militärischen Mobilisierung (MMI) fanden die meisten lokalen Milizen und betroffenen Personen es so schwierig, die Sicherheits- oder Rettungsbemühungen mit den UEE-Streitkräften zu koordinieren, dass sie sich nicht einmal die Mühe machten. Stattdessen organisierten sie ihre eigenen Anstrengungen und stritten häufig mit den Kräften des Imperiums über die Gerichtsbarkeit und den Umfang ihrer Rechte.</span>
+                        
+                        <br>
+                        <br>
+
+                        <span>Glücklicherweise hat die CDF eine Möglichkeit zur Koordinierung der Unterstützung mit den lokalen Kräften geschaffen, um eine schnellere und solidere Antwort auf die schwerwiegenden Sicherheitsprobleme innerhalb eines Systems zu geben. Ob es nun darum ging, die Navigationswege gegen immer aggressivere Überfälle von gesetzlosen Banden zu verteidigen oder den Opfern von Naturkatastrophen zu helfen. Die CDF erwies sich schnell als ein wesentliches Element der Sicherheit eines Systems und ein Element, das Balewa gern gehabt hätte, als er noch Advocacy-Agent in Ferron war.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Der Special Agent Bryce Balewa hat mehr als ein Jahrzehnt im Ferron-System verbracht. Er sah, wie die kriminellen Gewerkschaften ihren Einfluss und ihre Autorität erhöhten, indem sie die zerstörte Infrastruktur des Systems, die Ineffizienz der lokalen Strafverfolgungsbehörden und die Unterfinanzierung des Geschäftsbereichs Advocacy ausnutzten. Da er wusste, dass es mehr als nur einige Verhaftungen braucht, um einen Unterschied zu machen, hat er seine Zeit damit verbracht, Kontakte aufzubauen und das Vertrauen gut platzierter Quellen zu gewinnen, die ihm wertvolle Informationen liefern können.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Im Jahr 2941 verfasste Balewa einen ausführlichen Bericht über die verheerenden wirtschaftlichen und sicherheitspolitischen Folgen, die die Fortsetzung der Aktivitäten der Verbrechensgewerkschaften in Ferron mit sich bringen würde. Als er also erfuhr, dass die Voiders die Absicht hatten, eine Basis in Ferron zu errichten, um ihr kriminelles Reich erheblich zu entwickeln, wusste er genau, wie katastrophal das sein würde. Balewa hatte die Bestätigung des Gerüchts aus mehreren Quellen und erhielt weitere Details über den Plan der Voiders, eine deklassierte Gold Horizon Raumstation zu erobern. Er beeilte sich, einen Antrag auf zusätzliche Kräfte zum Schutz der nicht in Betrieb genommenen Raumstation zu stellen und übermittelte ihn an die Befehlskette der Advocacy, die jedoch als zu teuer und gefährlich abgelehnt wurde.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Er erkannte, dass die Verteidigung der Station für die langfristige Sicherheit des Systems von entscheidender Bedeutung ist und dass es angesichts des Kräfteverhältnisses, das er auf den Voiders erhalten hatte, mit seinen derzeitigen Kräften äußerst schwierig wäre, dies zu erreichen. Er rief den Sektionsleiter (SC) von Ferron, Jolena Hurley, an, um ihm zu ermöglichen, sich mit den Truppen der lokalen Miliz zu koordinieren, um den Angriff abzuwehren.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Den örtlichen Ordnungskräften von Ferron fehlte es an Personal und Mitteln und die lokalen Milizen des Systems waren oft eine wichtigere und besser ausgerüstete Option. SC Hurley unterstützt diese Idee, stellt jedoch fest, dass die derzeitige Politik verlangt, dass jeder, der direkt hilft oder Informationen von Advocacy erhält, vom Hauptquartier auf der Erde kontrolliert und überprüft wird.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Anstatt den Angriff vorzubereiten und eine Strategie mit seinen lokalen Kontakten zu entwickeln, wurde die SAC Balewa gezwungen, die Räumlichkeiten zu filtern, was sie viel Zeit kostete, um zu erfahren, dass die Voiders bereits in Arbeit waren und dass das Überlaufen der Raumstation begonnen hatte. Eine kleine Truppe der Advocacy, angeführt vom Balewa, eilte zur Raumstation. Da der Angriff offiziell im Gange war, kontaktierte er die örtlichen Ordnungskräfte und bat sie um Hilfe, aber eine strategische Lockaktion, die von einer kleinen Truppe der Voiders auf der anderen Seite des Systems durchgeführt wurde, brachte sie in Aktion. </span>
+
+                        <br>
+                        <br>
+
+                        <span>Da Balewa nicht in der Lage war, eine offizielle Antwort mit den lokalen Milizen zu organisieren, führte sie ihre kleine Truppe zur Station, um dort auf starken Widerstand zu stoßen. Die Voiders hatten Zeit, einen Umkreis zu errichten und die Kontrolle der Türme der Station zu umgehen, um das Advocacy ins Visier zu nehmen. Balewas trupp erlitt mehrere Verluste, bevor sie zum Rückzug gezwungen wurde. Wütend über den Verlust von Menschenleben und den Mangel an institutioneller Unterstützung durch die Advocacy auf allen Ebenen, überreichte SAC Balewa sofort sein Rücktrittsschreiben und bat seine lokalen Kontakte zu schauen, wie sie helfen könnte.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Gemeinsam besser</h2>
+                        <span>Balewa verbrachte die folgenden Monate mit den lokalen Kräften von Ferron, um den wachsenden Einfluss der Voiders zu bremsen, aber das war nicht sehr hilfreich. Diese Erfahrung in Verbindung mit seinem umfassenden Wissen über die Advocacy hat ihn davon überzeugt, dass eine starke und verlässliche Partnerschaft zwischen den lokalen Sicherheitskräften, der Advocacy und der Navy, aber auch den zuständigen Personen die beste Sicherheitsoption für das System wäre.</span>
+
+                        <br>
+                        <br>
+
+                        <span>m Jahr 2944 hielt Balewa eine Rede auf dem zivilen Sicherheitsgipfel zu diesem speziellen Thema und wurde dann von Amanda Xiang, einer prominenten Anwältin und Milizenrechtlerin, angesprochen. Beim Trinken in der Lobby eines Hotels wurden die beiden Protagonisten schnell Freunde. Sie erkannten, dass ihre Erfahrungen und Ansätze unterschiedlich waren, aber dass ihr Endziel das gleiche war, die Sicherheit der Systeme für Zivilisten und Handel zu gewährleisten. In dieser Nacht beschlossen sie, ihre Kräfte zu bündeln und die Idee der Zivilverteidigungstruppe entstand.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Amanda Xiang ist in Bremen geboren und aufgewachsen und sah mit eigenen Augen, wie eine starke lokale Miliz wie die Bremer Verteidigungstruppe (BDF) der Sicherheit eines Systems zugute kommen konnte. Sie trat der BDF während ihres Universitätsstudiums bei und widmete sich nach ihrem Abschluss dem Schutz und der Ausweitung der Rechte der Milizen in Bremen und in der gesamten UEE. Vor dem Treffen mit Balewa hatte Xiang ein tiefes politisches Verhältnis und ein hohes Maß an Erfahrung in den Gesetzen über die Milizen, was ihr als Sicherheitsberaterin im Rahmen der Milizenmobilisierungsinitiative (MMI) einen herausragenden Platz einbrachte, der darauf abzielte, den Verkauf von Militärschiffen an Zivilisten zu rationalisieren. Dennoch glaubte Xiang, dass die MMI viel mehr tun könnte und bestand darauf, dass die Gesetzgebung einen Abschnitt erhält, der eine Partnerschaft zwischen Advocacy, Navy und freiwilligen zivilen Kräften formalisiert.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Ihre jahrelange Tätigkeit bei der BDF ermöglichte es ihr, das Problem auf der anderen Seite zu sehen. Die Advocacy hat oft die Unterstützungsangebote der BDF für ihre Operationen gerügt oder darüber gestritten, wie genau sie helfen können, ohne sich in die offiziellen Angelegenheiten der Advocacy einzumischen. Heute, mit einem ehemaligen Advocacy-Agenten an ihrer Seite, kann sie das umfangreiche institutionelle Wissen von Balewa nutzen, um einen Plan zu entwickeln, der für beide Seiten sinnvoll ist.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Gemeinsam haben Balewa und Xiang einen Vorschlag zur Schaffung einer zivilen Verteidigungstruppe (CDF) ausgearbeitet, damit die örtliche Bevölkerung, unabhängig oder im Rahmen einer Miliz, im Notfall rasch als provisorische Polizeibeamte eingesetzt werden kann. Es handelt sich nicht um eine ständige Truppe, sondern nur um eine Kraft, die man im Bedarfsfall in Anspruch nehmen kann. Xiang kümmerte sich um die rechtlichen Hindernisse, während Balewa sie so geformt hat, dass sie die Advocacy-Quellen oder die Souveränität nicht gefährdet.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Während Xiang sich nur darauf konzentrierte, wie Milizen und Zivilisten bei der Verteidigung ihres Systems unterstützt werden könnten, bestand Balewa darauf, den Anwendungsbereich der CDF zu erweitern, um die Hilfe für humanitäre Zwecke einzubeziehen, um eine breitere politische Unterstützung zu gewinnen. Obwohl ihr Vorschlag schnell die Gunst mehrerer Senatoren fand, musste sie vor dem Verteidigungsausschuss des Senats vorstellig werden, bevor sie der MMI hinzugefügt wurde. Balewa und Xiang wussten nicht, ob sie die notwendigen Stimmen hatten, als der Ausschuss zusammentrat, um das Thema zu erörtern und waren überrascht, als der Advocacy-Direktor, Thomas Carmody, und nicht einer seiner Stellvertreter, die Position der Advocacy vorstellte.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Obwohl die Protokolle der Sitzung unter Ausschluss der Öffentlichkeit versiegelt blieben, soll Direktor Carmody mehrere Bedenken geäußert haben. Quellen, die dem Direktor Carmody nahestehen, behaupten, dass er diese Politik nicht mochte, aber mit dem rasanten Anstieg der Kriminalitätsrate und dem Einfrieren des Advocacy-Budgets aufgrund des kostspieligen Krieges gegen die Vanduul hatte er keine andere Wahl, um seinen Agenten vor Ort zu helfen. Als der Ausschuss zustimmte, die Politik auf der Grundlage seiner Empfehlungen anzupassen, billigte die Advocacy sie offiziell und ebnete den Weg für die Schaffung der Zivilschutztruppe im Januar 2947.</span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Unterstützungstruppe</h2>
+                        <span>Nach Monate intensiver Planung kam der erste offizielle Hilferuf der Zivilverteidigungstruppe, um die Bewohner von Tangaroa (Helios II) aus den Gebieten zu evakuieren, die von einer plötzlichen und intensiven vulkanischen Aktivität bedroht sind. Bis heute wurde die CDF fast 50 Mal angerufen, um Zivilisten zu erreichen, um die Schifffahrtsrouten in Hadur gegen Angriffe zu verteidigen, Nahrungsmittel an die von der Hungersnot in Fora betroffenen Menschen zu liefern und mehr. Trotz zahlreicher Erfolge behaupten die Kritiker des Programms, dass der Auswahlprozess  von Zivilisten zu nachsichtig ist und die Kopfgeldjäger haben argumentiert, dass hochgefährliche Gebiete mit unausgebildeten und unvorbereiteten Zivilisten überflutet, die die Situation häufig verschlimmern.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Balewa und Xiang sind sich zwar einig, dass einige Aspekte der CDF verbessert werden können, aber sie bleiben energisch und optimistisch, was ihre Zukunft angeht. Sie sind der Ansicht, dass sich das Imperium auf mehr öffentlich-private Partnerschaften stützen sollte, die die Menschen direkt in ihre Zukunft einbeziehen. Ihrer Meinung nach erhöht die CDF das bürgerschaftliche Engagement und ist zu einem Leuchtturm der Macht des Volkes geworden, um Widrigkeiten zu überwinden, wenn sie zusammenarbeiten.</span>
+
+
                         <div class="img-gameplays-line">
                             <hr class="animation-element extend">
                         </div>

@@ -274,6 +274,9 @@
                 <a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/BiotiCorp.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/Bioticorp.png" alt="BiotiCorp" style="width:100%" onclick="myFunction(this);"></a>
             </div>
             <div class="column">
+                <a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/ChemlineSolutions.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/Chemline_Solutions.png" alt="Chemline_Solutions" style="width:100%" onclick="myFunction(this);"></a>
+            </div>
+            <div class="column">
                 <a href="https://www.ariscorp.de/sites/excurs/firmen/verschiedenes/InterDimension_Software.php" class="button-ships"><img src="https://www.ariscorp.de/assets/img/excurs/logos/firmen/verschiedenes/InterDimension_Software.png" alt="InterDimension_Software" style="width:100%" onclick="myFunction(this);"></a>
             </div>
             <div class="column">

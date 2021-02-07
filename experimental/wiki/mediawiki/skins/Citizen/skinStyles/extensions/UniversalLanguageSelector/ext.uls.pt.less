@@ -1,0 +1,32 @@
+/*
+ * Citizen - ULS toggle Styles
+ * https://starcitizen.tools
+*/
+
+@import '../../../resources/variables.less';
+
+// Styles for ULS icon
+#pt-uls a.uls-trigger,
+#pt-uls a.uls-trigger:before {
+	display: block;
+	width: var( --width-button-base );
+	height: var( --height-header );
+	padding: 0 !important;
+	background-position: center;
+	background-size: @icon-box-size;
+	color: transparent; // Hide text
+	opacity: 0.6; // Replicate color of other icons
+	transition: @transition-opacity-quick;
+
+	&:hover,
+	&:focus,
+	&:active {
+		opacity: 0.8;
+	}
+}
+
+.skin-citizen-dark {
+	#pt-uls a.uls-trigger {
+		filter: invert( 1 );
+	}
+}

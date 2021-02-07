@@ -1,0 +1,73 @@
+/*
+ * Citizen - Buttons
+ * https://starcitizen.tools
+*/
+
+@import '../../../resources/variables.less';
+
+.skin-citizen-dark {
+	.mw-ui-button {
+		border-color: @dark-bg-50;
+		background-color: @dark-bg-10;
+		color: @dark-text-90;
+
+		&:visited {
+			color: @dark-text-90;
+		}
+
+		&:hover {
+			border-color: @dark-bg-50;
+			background-color: @dark-bg-0;
+			color: @dark-text-80;
+		}
+
+		&:focus {
+			background-color: @dark-bg-0;
+			color: @dark-text-90;
+		}
+
+		&:active,
+		&.is-on {
+			border-color: @dark-bg-60;
+			background-color: @dark-bg-30;
+			color: @dark-text-100;
+		}
+
+		&:disabled {
+			border-color: @dark-bg-30 !important;
+			background-color: @dark-bg-30 !important;
+			color: @dark-text-100 !important;
+
+			&:hover,
+			&:active {
+				border-color: @dark-bg-20;
+				background-color: @dark-bg-20;
+				color: @dark-text-90;
+			}
+		}
+
+		&.mw-ui-quiet,
+		&.mw-ui-quiet.mw-ui-progressive,
+		&.mw-ui-quiet.mw-ui-destructive {
+			color: @dark-text-90;
+
+			&:hover {
+				color: @dark-text-80;
+			}
+
+			&:active {
+				color: @dark-text-100;
+			}
+
+			&:focus {
+				color: @dark-text-90;
+			}
+
+			&:disabled,
+			&:disabled:hover,
+			&:disabled:active {
+				color: @dark-text-70;
+			}
+		}
+	}
+}

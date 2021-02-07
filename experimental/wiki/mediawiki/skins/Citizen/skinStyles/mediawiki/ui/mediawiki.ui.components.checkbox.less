@@ -1,0 +1,23 @@
+/*
+ * Citizen - Checkbox
+ * https://starcitizen.tools
+*/
+
+@import '../../../resources/variables.less';
+
+.skin-citizen-dark {
+	.mw-ui-checkbox:not( #noop ) {
+		[ type='checkbox' ] {
+			& + label:before {
+				border: 1px solid @dark-bg-60;
+				background-color: @dark-bg-0;
+			}
+
+			// disabled checkboxes have a gray background
+			&:disabled + label:before {
+				border-color: @dark-bg-30;
+				background-color: @dark-bg-30;
+			}
+		}
+	}
+}

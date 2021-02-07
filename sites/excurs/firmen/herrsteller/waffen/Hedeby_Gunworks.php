@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">SCHIFFHERSTELLER: <span class="coloredaris">HEDEBY GUNWORKS</span></h1>
+                    <h1 class="animation-element slide-down">WAFFENHERRSTELLER: <span class="coloredaris">HEDEBY GUNWORKS</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -31,7 +31,7 @@
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
                     <img src="https://www.ariscorp.de/assets/img/excurs/firmen/herrsteller/waffen/Hedeby-Gunworks.webp" width="109%" height="auto">
-                    <h2 class="short-hr-left">Excurs - Schiffhersteller: Hedeby Gunworks</h2>
+                    <h2 class="short-hr-left">Excurs - Waffenherrsteller: Hedeby Gunworks</h2>
 
                     <div>
                         <Span>Altruis Hedeby zögerte vor der brüllenden Flamme des Ofens. Der Metallhaufen, den er zerstören wollte, war eine alte Waffe, die er nicht zuvor gesehen hatte. Trotz jahrelanger Vernachlässigung und Rost fand er eine gewisse Schönheit und Anmut in seinem ausgeprägten Doppelfass-Design. Er drehte die gewichtige Waffe in seine Hände und bemerkte, dass gravierte Blüten atypisch für die billigen, massenproduzierten Waffen, die in Asura gefunden wurden.</Span>

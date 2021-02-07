@@ -1,0 +1,45 @@
+table.wikitable {
+	border: 0; // Override core MW styles
+	background-color: transparent; // Override core MW  styles
+	border-collapse: collapse;
+	color: var( --color-base ); // Override core MW  styles
+
+	caption {
+		margin-top: @content-margin-top;
+		font-weight: 700;
+		text-align: left;
+	}
+
+	tr {
+		vertical-align: top;
+
+		th {
+			background-color: transparent;
+			color: var( --color-base--subtle );
+			font-size: @content-caption-size;
+			font-weight: 600;
+			text-align: left;
+		}
+
+		td {
+			font-size: @content-monospace-size;
+		}
+
+		th,
+		td {
+			padding: @margin-side / 2 @margin-side @margin-side / 2 0;
+			border: 0;
+			border-bottom: 1px solid var( --border-color-base );
+		}
+
+		&:hover {
+			background-color: var( --background-color-quiet--hover );
+		}
+	}
+}
+
+@media ( max-width: @screen2 ) {
+	table.wikiatble {
+		white-space: nowrap;
+	}
+}

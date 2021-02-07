@@ -1,0 +1,67 @@
+@width-breakpoint-desktop-wider: @width-breakpoint-desktop + @width-toc * 2;
+
+.mw-body-header,
+.mw-body-content {
+	max-width: var( --width-layout );
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.mw-body-header {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 0.8rem;
+}
+
+.page-heading {
+	flex-grow: 1;
+	margin-bottom: 0.8rem;
+}
+
+.firstHeading-container {
+	display: flex;
+	align-items: center;
+}
+
+.mw-body-content {
+	.mixin-clearfix();
+}
+
+.thumb {
+	margin: 0.6rem 0;
+
+	.thumbinner {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+}
+
+a.image > img {
+	max-width: 100%;
+	height: auto;
+}
+
+@media ( min-width: @width-breakpoint-tablet ) {
+	div.tleft,
+	div.floatleft,
+	table.floatleft {
+		margin-right: 1.4rem;
+		clear: left;
+		float: left;
+	}
+
+	div.tright,
+	div.floatright,
+	table.floatright {
+		margin-left: 1.4rem;
+		clear: right;
+		float: right;
+	}
+}
+
+/* Wider page width for special pages */
+@media ( min-width: @width-breakpoint-desktop-wide ) {
+	.ns--1 {
+		--width-layout: @width-breakpoint-desktop-wide - @padding-page * 2;
+	}
+}

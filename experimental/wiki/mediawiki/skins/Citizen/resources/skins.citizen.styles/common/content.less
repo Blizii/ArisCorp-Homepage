@@ -1,0 +1,143 @@
+.firstHeading {
+	margin: 0;
+	overflow-wrap: break-word; // Break word instead of overflow if title is too long
+}
+
+#siteSub {
+	display: block;
+	margin-top: 0.2rem;
+}
+
+#siteSub,
+#contentSub,
+#contentSub2 {
+	color: var( --color-base--subtle );
+}
+
+#mw-content-text {
+	> .mw-parser-output {
+		/*
+		 * Interal link styles
+		 * Only apply to internal links in article
+		*/
+		a[ href^='/' ]:not( .image ):not( .external ) {
+			.link-content-text( var(--color-primary--hover) );
+
+			&.new {
+				background-image: linear-gradient( to right, var( --color-destructive--hover ) 0, var( --color-destructive--hover ) 100% );
+			}
+		}
+	}
+
+	.mw-parser-output {
+		& > h1,
+		& > h2,
+		& > h3,
+		& > h4,
+		& > h5,
+		& > h6 {
+			display: flex;
+			align-items: center;
+		}
+
+		.mw-editsection {
+			display: flex;
+			margin-left: 10px;
+
+			a {
+				.resource-loader-icon-link-small;
+				padding: @margin-side / 4;
+				background: 0 !important; // Cancel above styles
+				opacity: var( --opacity-icon-base );
+				text-indent: -9999px; // Hide text
+				transition: @transition-opacity-quick;
+
+				&:before {
+					.resource-loader-icon;
+					display: block;
+					background-size: contain;
+				}
+
+				&:hover {
+					opacity: var( --opacity-icon-base--hover );
+				}
+
+				&:active {
+					opacity: var( --opacity-icon-base--active );
+				}
+			}
+
+			> span {
+				display: none;
+			}
+		}
+	}
+}
+
+.mw-body-content {
+	p {
+		overflow-wrap: break-word;
+	}
+
+	table {
+		margin: 0;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		padding: 0;
+		margin: 0;
+	}
+
+	h1,
+	h2 {
+		margin-top: @content-margin-top * 3;
+	}
+
+	h3,
+	h4,
+	h5,
+	h6,
+	p + p {
+		margin-top: @content-margin-top * 2;
+	}
+
+	h1 + h2,
+	h2 + h3,
+	h3 + h4,
+	h4 + h5,
+	h5 + h6,
+	p,
+	table {
+		margin-top: @content-margin-top;
+	}
+
+	ul {
+		margin: @content-margin-top 0 0 @content-margin-top * 2;
+
+		ul {
+			margin: 0 0 0 @content-margin-top * 2;
+		}
+	}
+
+	ol {
+		margin: @content-margin-top 0 0 @content-margin-top * 3;
+
+		ol {
+			margin: 0 0 0 @content-margin-top * 3;
+		}
+	}
+
+	img {
+		vertical-align: middle;
+	}
+
+	a.image {
+		display: block;
+		overflow: hidden;
+	}
+}
