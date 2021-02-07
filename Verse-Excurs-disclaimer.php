@@ -57,6 +57,7 @@
                     <hr class="animation-element extend">
                 </div>
             </div>
+            <img src="assets/img/misc/maintanance.png" alt="Maintanance" width="20%" height="auto" style="float: right">
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
                     <h2 class="short-hr-left">Der Verse Excurs ist aktuell im Aufbau!</h2>
@@ -74,6 +75,8 @@
                         <br>
 
                         <span>Eine vorrab Version findest du</span> <a style="color: #E48632;" href="https://www.ariscorp.de/Verse-Excurs.php?tab=start">HIER</a>
+
+                        
 
                     </div>
                 </div>
