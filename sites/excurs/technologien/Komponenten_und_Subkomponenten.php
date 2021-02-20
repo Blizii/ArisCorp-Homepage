@@ -69,21 +69,21 @@
                         <br>
                          <!--Bilder dieser Sektion seitlich darstellen-->
                         <h3 style="font-family: 'Nasa'">Schildgeneratoren</h3>
-                        <span>Schildgeneratoren erzeugen ein Schutzfeld um Raumschiffe und Stationen und Beschutzen so Ihre besatzungen vor diversen gefahren wie Waffenfeuer aber auch natürlichen bedrohungen wie Sonnenemmisionen/ Strahlungsstürmen, Partikelschauern. Dabei kann es von nöten sein einen Generator zu tauschen um mit speziellen Situationen und gefahren zurechzukommen.Sehe dazu mer im Technologie Guide:<a href="www.https://Ariscorp.de/verseExkurs/technologie/Schilde_und_Schild_Management">Schilde und Schild Management</a>().</span>
+                        <span>Schildgeneratoren erzeugen ein Schutzfeld um Raumschiffe und Stationen und Beschutzen so Ihre besatzungen vor diversen gefahren wie Waffenfeuer aber auch natürlichen bedrohungen wie Sonnenemmisionen/ Strahlungsstürmen, Partikelschauern. Dabei kann es von nöten sein einen Generator zu tauschen um mit speziellen Situationen und gefahren zurechzukommen.Sehe dazu mer im Technologie Guide:<a href="https://www.ariscorp.de/sites/excurs/technologien/Schilde_und_Schild_Manegment.php">Schilde und Schild Management</a>().</span>
                         <img src="https://www.ariscorp.de/assets/img/excurs/technologien/shldgen.webp" width="100%" height="auto">
 
                         <br>
                         <br>
                          <!--Bilder dieser Sektion seitlich darstellen-->
                         <h3 style="font-family: 'Nasa'">Quantumdrive</h3>
-                        <span>Beim Quantum Drive handel es sich um kein Antriebsgerät in der uns bekannten Weise. Ein Vergleich mit einem Strahltriebwerk oder einer Rakete ist nicht sinnvoll, da es nicht nach den gleichen Prinzipien arbeitet und auch nicht für einen unbegrenzten Dauerbetrieb ausgelegt ist. Mit einem Quantum Drive kann man ein Sternensystem zwischen 8 und 20 Minuten durchfliegen können.Sehe dazu mer im Technologie Guide:<a href="www.https://Ariscorp.de/verseExkurs/technologie/Quantum-_und_Jumpdrive">Quantum- und Jumpdrive</a>().</span>
+                        <span>Beim Quantum Drive handel es sich um kein Antriebsgerät in der uns bekannten Weise. Ein Vergleich mit einem Strahltriebwerk oder einer Rakete ist nicht sinnvoll, da es nicht nach den gleichen Prinzipien arbeitet und auch nicht für einen unbegrenzten Dauerbetrieb ausgelegt ist. Mit einem Quantum Drive kann man ein Sternensystem zwischen 8 und 20 Minuten durchfliegen können.Sehe dazu mer im Technologie Guide:<a href="https://www.ariscorp.de/sites/excurs/technologien/Quantum_und_Jumpdrive.php">Quantum- und Jumpdrive</a>().</span>
                         <img src="https://www.ariscorp.de/assets/img/excurs/technologien/QD.webp" width="100%" height="auto">
 
                         <br>
                         <br>
                          <!--Bilder dieser Sektion seitlich darstellen-->
                         <h3 style="font-family: 'Nasa'">Jumpdrives</h3>
-                        <span>Der Jumpdrive ist eine “einfache” Komponenten erweiterung des Quantumdrives. Er besitzt die Fähigkeit, Impulse aus negativer und Positiver Masse zu erzeugen, die benötigt werden, um Wurmlöcher an Sprungpunkten zu öffnen. Mit diesem ist es möglich durch Sprungpunkte zu Navigieren und in andere Sternensysteme zu Reisen.Sehe dazu mer im Technologie Guide:<a href="www.https://Ariscorp.de/verseExkurs/technologie/Quantum-_und_Jumpdrive">Quantum- und Jumpdrive</a>().</span>
+                        <span>Der Jumpdrive ist eine “einfache” Komponenten erweiterung des Quantumdrives. Er besitzt die Fähigkeit, Impulse aus negativer und Positiver Masse zu erzeugen, die benötigt werden, um Wurmlöcher an Sprungpunkten zu öffnen. Mit diesem ist es möglich durch Sprungpunkte zu Navigieren und in andere Sternensysteme zu Reisen.Sehe dazu mer im Technologie Guide:<a href="https://www.ariscorp.de/sites/excurs/technologien/Quantum_und_Jumpdrive.php">Quantum- und Jumpdrive</a>().</span>
                         <img src="https://www.ariscorp.de/assets/img/excurs/technologien/jd.webp" width="100%" height="auto">
 
                         <br>
