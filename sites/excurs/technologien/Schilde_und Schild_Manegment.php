@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke.webp" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke3.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Technologien: SCHILDE- UND SCHILD MANAGEMENT</h2>
 
                     <div>

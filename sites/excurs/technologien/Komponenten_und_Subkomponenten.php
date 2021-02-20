@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke.webp" width="100%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke3.webp" width="100%" height="auto">
                     <h2 class="short-hr-left">Excurs - Technologien: KOMPONENTEN UND SUBKOMPONENTEN SYSTEM</h2>
 
                     <div>
@@ -264,7 +264,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/SubComp2.webp" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/SubComp2.webp" width="100%" height="auto">
                        
                         <br>
                         <br>

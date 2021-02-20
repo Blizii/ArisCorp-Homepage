@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke.webp" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke3.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Technologien: PlASMATRIEBWERKE</h2>
 
                     <div>
@@ -61,7 +61,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/VISMIR.webp" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/VASIMR.webp" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -111,7 +111,7 @@
                         <br>
                         <br>
                         
-                        <span>Mehr dazu in der Rubrik <a href="https://ArisCorp.de/verseExkurs/technologien/Treibstoffmechanik">Treibstoffmechanik</a>().</span>
+                        <span>Mehr dazu in der Rubrik <a href="https://ArisCorp.de/sites/excurs/technologien/Plasmatriebwerke.php">Treibstoffmechanik</a>().</span>
 
                         <br>
                         <br>
@@ -148,14 +148,14 @@
                         <span>Manövertriebwerke Fixiert (F)</span>
                         <span>Fixierte Manövertriebwerke ermöglichen sofortigen Schub, da sie sich nicht erst am gewünschten Vektor ausrichten müssen, was zu einer schnelleren Reaktionszeit und erhöhter Beweglichkeit führt. Der Nachteil ist, dass man mehr von ihnen benötigt, mindestens 12 pro Schiff, um die Fähigkeit zu haben, sich auf allen 6 Freiheitsgraden zu bewegen.</span>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/Small_Fixed.Gif" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Fixed_small.webp" width="100%" height="auto">
                         <br>
                         <br>
 
                         <span>Manövertriebwerke Gimbal (G)</span>
                         <span>Gimbal Manövertriebwerke erlauben Schub auf einer oder mehr Achsen, da sie schwenk- oder rotierbar sind und sich auf einen Vektor ausrichten können, bevor sie Schub erzeugen. Dadurch sind weniger Schubdüsen notwendig, während man den Nachteil einer langsameren Reaktionszeit und geringen Energiebedarf für die Ausrichtung akzeptieren muss. Dies macht sie natürlich verwundbar, was Energiemanagementprobleme angeht.</span>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/Gimbal.Gif" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Gimbal.webp" width="100%" height="auto">
                         <br>
                         <br>
 

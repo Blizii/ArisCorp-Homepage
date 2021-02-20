@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Tanker.webp" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/tanker.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Technologien: TREIBSTOFFMECHANIK</h2>
 
                     <div>
