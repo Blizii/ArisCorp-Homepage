@@ -30,7 +30,7 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/Tanker.webp" width="109%" height="auto">
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Tanker.webp" width="109%" height="auto">
                     <h2 class="short-hr-left">Excurs - Technologien: TREIBSTOFFMECHANIK</h2>
 
                     <div>
@@ -64,7 +64,7 @@
                         
                         <br>
                         <br>
-
+                    
                         Der erste Schritt, um euer Schiff zu bewegen, ist das Generieren von Schub, der dann durch das Triebwerk ausgestoßen ist. Ingame läuft die Generierung von Schub wie folgt ab:</span>
 
                         <li>1. Treibstoff-Einlässe sammeln natürlich vorkommende Gase aus der Umwelt und leiten sie in das Schiff. </li>
@@ -80,13 +80,18 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/Fuelkreis.webp" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Fuelkreis.webp" width="100%" height="auto">
 
                         <br>
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Neue Möglichkeiten</h2>
                         <span>Wasserstoff ist das häufigste Element im Weltall. Alle Schiffe können Wasserstoff nutzen, um ihre Triebwerke zu betreiben, aber es ist nicht die einzige Art Gas, die umgewandelt werden kann. Manche Schiffe können verschiedene Gase sammeln und umwandeln, die nach der Raffinierung zusätzliche Vorteile bieten, wie eine erhöhte Effizienz oder reduzierte Emissionen. Pro Tank kann man nur eine Art von Treibstoff lagern, also sollte man weise wählen. Wenn ihr die Treibstoffart wechseln möchte, muss man den Tank vor dem Neubefüllen leeren, was mitten im All möglich sein wird aber nicht angeraten wird. Raffinerien sind der Schlüssel, um andere Gase in nutzbaren Treibstoff umzuwandeln. Auch wenn Treibstoff-Einlässe einen passablen Job machen, heben Raffinerien das ganze auf ein ganz neues Level. Man findet sie in einer ganzen Reihe von Schiffen wie der 100er Reihe, der Freelancer DUR , der Schon erwähnten Anvil Carrack und am oberen Ende bei der MISC Starfarer.</span>
+
+                        <br>
+                        <br>
+
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/tanker2.webp" width="109%" height="auto">
 
                         <br>
                         <br>

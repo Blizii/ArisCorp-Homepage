@@ -1,3 +1,4 @@
+
 <div class="" style="padding: 6px 12px; border: 1px solid transparent; border-top: none;">
     <div class="tab">
         <button class="tablinks" onclick="openExcurs(event, 'hersteller')"><h2 style="float: right; font-family: 'Nasa';" class="animation-element slide-down"><span class="coloredwhite" style="font-size: unset;">H</span>ERSTELLER</h2></button>
@@ -372,3 +373,44 @@
     clear: both;
     }
 </style>
+
+<style>
+        .tab2 button.active2 {
+            color: #00FFE8;
+        }
+        .tab3 button.active3 {
+            color: #00FFE8;
+        }
+        .tab4 button.active4 {
+            color: #00FFE8;
+        }
+
+
+
+        .tabcontent2 {
+            text-align: center;
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid transparent;
+            border-top: none;
+        }
+
+
+        .tabcontent3 {
+            text-align: center;
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid transparent;
+            border-top: none;
+        }
+
+
+
+        .tabcontent4 {
+            text-align: center;
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid transparent;
+            border-top: none;
+        }
+    </style>

@@ -1,8 +1,6 @@
-<?php
-    include_once("https://www.ariscorp.de/php/includes/exkurs/functions.inc.php");
-?>
+<!DOCTYPE html>
 <html>
-    <head>
+<head>
         <!-- META TAGS -->
     <meta charset="utf-8">
     <meta name="author" content="AtypicalThemes">
@@ -55,60 +53,12 @@
     <link href="https://www.ariscorp.de/assets/css/styli.css" rel="stylesheet">
     <!-- Starmap Stylesheet -->
     <link href="https://www.ariscorp.de/assets/css/starmap.css" rel="stylesheet">
-
-    <link href="https://www.ariscorp.de/assets/css/zozo.tabs.min.css" rel="stylesheet">
-    <link href="https://www.ariscorp.de/assets/css/zozo.tabs.flat.min.css" rel="stylesheet">
-    <script src="https://www.ariscorp.de/assets/js/jquery.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-    <script src="http://zozoui.com/js/google-analytics.min.js"></script>
-    </head>
-    <body>
-
-        <!-- //// HEADER INCLUDE //// -->
-            <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
-        <!-- //// END HEADER INCLUDE //// -->
-
-        <!-- /// Main Container /// -->
-    <div class="container">
-
-<!-- /// EXCURS SECTION /// -->
-
-<div id="excurs" class='large-margin'>
-    <a href="excurs"></a><!-- Nav Anchor -->
-    <div class="row heading tiny-margin">
-    </div>
-    <div class="row medium-margin tab-manifesto">
-
-        <div class="tab">
-            <button class="tablinks" onclick="location.href='?tab=start'"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.webp" alt="" width="100%" height="auto"></button> <br> <br> <br> <br>
-            <button class="tablinks" onclick="location.href='?tab=geschichte'"><h1 style="float: left; color: <?php echo "$colorh"; ?>"><span class="coloredwhite" style="font-size: unset;">G</span>ESCHICHTE</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=uee-regierung'"><h1 style="float: left; color: <?php print_r($colorr); ?>"><span class="coloredwhite" style="font-size: unset;">U</span>EE-REGIERUNG</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=uee-leben'"><h1 style="float: left; color: <?php print_r($colorl); ?>"><span class="coloredwhite" style="font-size: unset;">L</span>EBEN IM UEE</h1></button>
-
-            <button class="tablinks" onclick="location.href='?tab=starmap'"><h1 style="float: left; color: <?php print_r($colorm); ?>"><span class="coloredwhite" style="font-size: unset;">A</span>RK-STARMAP</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=alienrassen'"><h1 style="float: left; color: <?php print_r($colora); ?>"><span class="coloredwhite" style="font-size: unset;">A</span>LIENRASSEN</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=firmen'"><h1 style="float: left; color: <?php print_r($colorf); ?>"><span class="coloredwhite" style="font-size: unset;">F</span>IRMEN</h1></button>
-            <button class="tablinks" onclick="location.href='?tab=technologien'"><h1 style="float: left; color: <?php print_r($colort); ?>"><span class="coloredwhite" style="font-size: unset;">T</span>ECHNOLOGIEN</h1></button>
-        </div>
-        </div>
-        
-            <div class=""><?php print_content(); ?></div>
-        </div>
-        </div>
-        </div>
-        </div>
-        <!-- /// CONTACT SECTION /// -->
-    </div><!-- Main Container End -->
-
-
-    
-                
-    <!-- /// FOOTER INCLUDE /// -->
-        <?php include('https://www.ariscorp.de/php/includes/footer.php'); ?>
-    <!-- /// END FOOTER INCLUDE /// -->
-
-
-    <!-- //// SCRIPTS //// -->
+	<!-- Tab Stylesheet -->
+	<link rel="stylesheet" href="https://www.ariscorp.deassets/css/orgtabs.css">
+	
+	
+     <!-- //// SCRIPTS //// -->
+     
     <script src="https://www.ariscorp.de/assets/js/jquery-3.2.1.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/popper.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/bootstrap.min.js"></script>
@@ -117,9 +67,126 @@
     <script src="https://www.ariscorp.de/assets/js/lightbox.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/jquery-modal-video.min.js"></script>
     <script src="https://www.ariscorp.de/assets/js/validator.min.js"></script>
-    <script src="https://www.ariscorp.de/assets/js/strider.js"></script>
+    <script src="https://www.ariscorp.de/assets/js/strider-exkurs.js"></script>
+    
+	<script src="https://www.ariscorp.de/assets/js/jquery.min.js"></script>
+	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js'></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="http://zozoui.com/js/google-analytics.min.js"></script>
+    </head>
+	
+	
 
-    <!-- /// EXCURS FUNCTIONS INCLUDE /// -->
-    <?php include('https://www.ariscorp.de/php/includes/exkurs/excurs.php'); ?>
-    <!-- /// END EXCURS FUNCTIONS INCLUDE /// -->
+	
+	<script src="https://www.ariscorp.deassets/js/organictabs.jquery.js"></script>
+	
+	<script>
+		$(function() {
+		
+			// Calling the plugin
+			$("#maintabs").organicTabs();
+			$("#example-two").organicTabs({
+				"speed": 100,
+				"param": "tab"
+			});
+			
+		});
+	</script>
+
+    <body>
+        <!-- //// HEADER INCLUDE //// -->
+		    <?php include('https://www.ariscorp.de/php/includes/header.php'); ?>
+	    <!-- //// END HEADER INCLUDE //// -->
+
+        <!-- /// Main Container /// -->
+        <div class="container">
+
+            <!-- /// EXCURS SECTION /// -->
+                <div id="excurs" class='large-margin'>
+                    <a href="excurs"></a><!-- Nav Anchor -->
+                    <div class="row heading tiny-margin">
+                    </div>
+
+                    <div class="row medium-margin tab-manifesto">
+                        <div id="page-wrap">
+                            <div id="maintabs">
+                                <ul class="nav">
+                                    <li class="nav-home"><a href="#home" class="current"><img src="https://www.ariscorp.de/assets/img/excurs/util/ARISBannerVerseExkurs.webp" alt=""></a></li>
+                                    <li class="nav-one"><a href="#geschichte"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">G</span>ESCHICHTE</h1></a></li> <br>
+                                    <li class="nav-two"><a href="#uee-regierung"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">U</span>EE-REGIERUNG</h1></a></li>
+                                    <li class="nav-three"><a href="#uee-leben"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">U</span>EE-LEBEN</h1></a></li>
+                                    <li class="nav-four"><a href="#starmap"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">A</span>RK-STARMAP</h1></a></li>
+                                    <li class="nav-five"><a href="#alienrassen"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">A</span>LIENRASSEN</h1></a></li>
+                                    <li class="nav-six"><a href="#firmen"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">F</span>IRMEN</h1></a></li>
+                                    <li class="nav-seven"><a href="#technologien"><h1 style="float: left;"><span class="coloredwhite" style="font-size: unset;">T</span>ECHNOLOGIEN</h1></a></li>
+                                </ul>
+                                <div class="list-wrap">
+                                    <ul id="home" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/home.php");
+                                        ?>
+                                    </ul>
+
+                                    <ul id="geschichte" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/geschichte.php");
+                                        ?>
+                                    </ul>
+                                    
+                                    <ul id="uee-regierung" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/regierung.php");
+                                        ?>
+                                    </ul>
+                                    
+                                    <ul id="uee-leben" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/leben.php");
+                                        ?>
+                                    </ul>
+                                        
+                                    <ul id="starmap" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/starmap.php");
+                                        ?>
+                                    </ul>
+
+                                    <ul id="alienrassen" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/alienrassen.php");
+                                        ?>
+                                    </ul>
+
+                                    <ul id="firmen" class="hide">
+                                        <?php
+                                            include_once("php/includes/exkurs/firmen.php");
+                                        ?>
+                                    </ul>
+
+                                    <ul id="technologien" class="hide">
+                                    <?php
+                                            include_once("php/includes/exkurs/technologien.php");
+                                        ?>
+                                    </ul>
+                                    <div class="img-gameplays-line">
+                                        <hr class="animation-element extend">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+        </div>
+
+        <!-- /// FOOTER INCLUDE /// -->
+            <?php include('https://www.ariscorp.de/php/includes/footer.php'); ?>
+        <!-- /// END FOOTER INCLUDE /// -->
+
+        <!-- /// EXCURS FUNCTIONS INCLUDE /// -->
+            <?php include('https://www.ariscorp.de/php/includes/exkurs/excurs.php'); ?>
+        <!-- /// END EXCURS FUNCTIONS INCLUDE /// -->
+    </body>
+
+
 </html>

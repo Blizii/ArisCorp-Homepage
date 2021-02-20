@@ -139,6 +139,7 @@
 
                         <h3 style="font-family: 'Nasa'">Batterien</h3>
                         <span>Batterien sind Komponenten die in den meisten Schiffen zu finden sein werden. Spezieller, funktionieren diese wie gewöhnliche Batterien, welche über den Generator geladen werden und dann das Schiff versorgen können, wenn dieser heruntergefahren wird. Das ist sinnvoll, wenn man nur eine geringe Signatur abgeben möchte oder die Hauptenergie aus diversen gründen ausfällt.</span>
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/batt.webp" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -242,7 +243,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/pipe.jpg" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/pipe.webp" width="100%" height="auto">
 
                         <br>
                         <br>
@@ -263,7 +264,7 @@
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/SubComp.jpg" width="100%" height="auto">
+                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/SubComp2.webp" width="100%" height="auto">
                        
                         <br>
                         <br>
@@ -356,13 +357,15 @@
                         <br>
                         <br>
                         
-                        <span>Untergegenstände können in viele verschiedene Gegenstände passen und sind nicht auf eine bestimmte Gegenstandsart beschränkt, z.B. auf einen Energiegenerator.</span>
+                        <span>Subkomponenten können in viele verschiedene Gegenstände passen und sind nicht auf eine bestimmte typen beschränkt, z.B. auf einen Energiegenerator.</span>
 
                         <br>
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Computerchips und Blades</h2>
-                        <span>Computerchips sind keine SubKomponenten. Sie sind ein eigenständiges Element, das Funktionen hinzufügt oder erweitert, anstatt die Ausgangswerte zu verbessern. Während sie derzeit nur Computer-Elementen hinzugefügt werden können, wird das in Zukunft möglicherweise nicht der einzige Ort bleiben.</span>
+                        <span>Computerchips sind keine SubKomponenten. Sie sind ein eigenständiges Element, das Funktionen hinzufügt oder erweitert, anstatt die Ausgangswerte zu verbessern. Während sie derzeit nur Computer-Elementen hinzugefügt werden können, wird das in Zukunft möglicherweise nicht der einzige Ort bleiben.
+                        </span>
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/chips.webp" width="100%" height="auto">
 
                     </div>
                 </div>

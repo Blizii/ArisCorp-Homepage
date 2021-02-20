@@ -1,6 +1,7 @@
+
                     <div class="img-gameplays-line">
-                        <hr class="animation-element extend">
-                    </div>
+    <hr class="animation-element extend">
+</div>
                     <div id="aliens" class="" style="padding: 6px 12px; border: 1px solid transparent; border-top: none;">
 
                         <a href="https://www.ariscorp.de/sites/excurs/aliens/Banu.php" class="linkc captiontext1hover al">
@@ -43,10 +44,6 @@
                                 <figcaption class="captiontext1 captiontext1hover"><h2 style="font-family: 'Nasa'; font-size: 350%; margin-left: 5%; display: inline; color: white;">BIESTARIUM</h2></figcaption>
                             </figure>
                         </a>
-
-                        <div class="img-gameplays-line">
-                                <hr class="animation-element extend">
-                            </div>
     
                         <style>
                             figure {
@@ -93,3 +90,4 @@
                         </style>
 
                     </div>
+                    

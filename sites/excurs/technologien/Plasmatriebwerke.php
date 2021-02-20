@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- /// HEAD INCLUDE /// -->
-  <title>ARISCORP - Verse-Excurs - Technologien : SCHUBTRIEBWERKE</title>
+  <title>ARISCORP - Verse-Excurs - Technologien : PLASMATRIEBWERKE</title>
   <?php include('https://www.ariscorp.de/php/includes/head.php'); ?>
 <!-- /// END HEAD INCLUDE /// -->
 <body>
@@ -22,7 +22,7 @@
             <a href="EXCURS"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
-                    <h1 class="animation-element slide-down">TECHNOLOGIEN: <span class="coloredaris">SCHUBTRIEBWERKE</span></h1>
+                    <h1 class="animation-element slide-down">TECHNOLOGIEN: <span class="coloredaris">PLASMATRIEBWERKE</span></h1>
                 </div>
                 <div class="col">
                     <hr class="animation-element extend">
@@ -30,18 +30,18 @@
             </div>
             <div class="row medium-margin tab-manifesto">
                 <div class="col-md-11">
-                    <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/Triebwerke.webp" width="109%" height="auto">
-                    <h2 class="short-hr-left">Excurs - Technologien: SCHUBTRIEBWERKE</h2>
+                    <img src="https://www.ariscorp.de/assets/img/excurs/technologien/Triebwerke.webp" width="109%" height="auto">
+                    <h2 class="short-hr-left">Excurs - Technologien: PlASMATRIEBWERKE</h2>
 
                     <div>
 
-                        <span>Triebwerke (und Manöverdüsen) sind eine Schlüsselkomponente von Raumschiffen eines der Zentralen Elemente um ein Raumschiff durch den Raum zu bewegen und ein Schlüsselelement bei der Bestimmung von Bewegung, Kalkulation von Treibstoffverbrauch und Signatur Emissionen.</span>
+                        <span>Triebwerke (und Manöverdüsen) sind eine Schlüsselkomponente um Raumschiffe durch den Raum zu bewegen und ein Schlüsselelement bei der erzeugung von Bewegung und der Kalkulation von Treibstoffverbrauch und Signatur Emissionen.</span>
 
                         <br>
                         <br>
 
                         <h2 style="font-family: 'Nasa'">Inspiration aus der Realität</h2>
-                        <span>Das zentrale Modell für alle Triebwerke in Star Citizen, egal ob Haupt-, Retro- oder Manövriertriebwerke, ist die VASIMR Triebwerkstechnologie, die auch in der Realität existiert.</span>
+                        <span>Das zentrale Modell für Triebwerke, egal ob Haupt-, Retro- oder Manövriertriebwerke, ist die VASIMR Triebwerkstechnologie, die auch in der Realität existiert.</span>
 
                         <br>
                         <br>
@@ -51,13 +51,28 @@
                         <br>
                         <br>
 
-                        <span>Dabei handelt es sich um eine Variante des magnetoplasmadynamischen Antriebs,die vom US-Unternehmen Ad Astra Rocket Company entwickelt wurde.Leiter ist der frühere siebenfache NASA-Astronaut und Plasmaphysiker Franklin Ramon Chang-Diaz, der das Konzept schon 1979 bei seiner Arbeit am MIT entwickelte.</span>
+                        <span>Dabei handelt es sich um eine Variante des magnetoplasmadynamischen Antriebs, die vom US-Unternehmen Ad Astra Rocket Company entwickelt wurde.Leiter ist der frühere siebenfache NASA-Astronaut und Plasmaphysiker Franklin Ramon Chang-Diaz,der das Konzept schon 1979 bei seiner Arbeit am MIT entwickelte.</span>
 
                         <br>
                         <br>
 
-                        <img src="https://www.ariscorp.de/assets/img/excurs/Technologien/VISMIR.webp" width="100%" height="auto">
+                        <span>Er nutzt die Lorentzkraft, welche die Wechselwirkung zwischen einem Magnetfeld und elektrischem Strom beschreibt, und wird daher auch Lorentz Force Accelerator (LFA) genannt. MPD-Antriebe stellen eine Weiterentwicklung des thermischen Lichtbogentriebwerks (Arcjet) dar, dessen elektrothermische Beschleunigung hierbei durch die effizientere elektromagnetische Beschleunigung ersetzt wird. Dadurch kann ein höherer Wirkungsgrad erreicht werden, welcher aber erst bei hohen Leistungen, und damit verbundenen starken Magnetfeldern, erreicht wird. Wird zusätzlich ein Magnetfeld aufgebracht, spricht man vom Fremdfeldbeschleuniger (engl. AF-MPD; Applied-Field MPD), ansonsten vom Eigenfeldbeschleuniger (engl. SF-MPD; Self-Field MPD).</span>
 
+                        <br>
+                        <br>
+
+                        <img src="https://www.ariscorp.de/assets/img/excurs/technologien/VISMIR.webp" width="100%" height="auto">
+
+                        <br>
+                        <br>
+
+                        <span>MPD-Triebwerke bestehen aus einer trichterförmigen Anode, in deren Mitte eine stabförmige Kathode angebracht ist. Wird eine elektrische Spannung zwischen den beiden Elektroden angelegt, wird die sich im Trichter befindende Stützmasse ionisiert und erlaubt so einen Stromfluss radial durch das Gas zur Kathode. Durch den Stromfluss wird nun ein starkes Magnetfeld erzeugt. Die Wechselwirkung zwischen dem elektrisch erzeugten Magnetfeld um die Brennkammer und der ionisierten Stützmasse beschleunigt diese in axialer Richtung und lässt sie mit sehr hoher Geschwindigkeit entweichen. Durch den dabei wirksamen Impuls entsteht die Schubkraft.</span>
+
+                        <br>
+                        <br>
+
+                        <span>Als Grundlage für das Plasma eignen sich vor allem Argon, Lithium und Wasserstoff. In Versuchslabors wurden bereits unter Nutzung eines externen Magnetfeldes bei einem MPD-Antrieb Austrittsgeschwindigkeiten von 144.000 km/h (40 km/s) erreicht.</span>
+                        
                         <br>
                         <br>
 
@@ -79,7 +94,13 @@
                         <br>
                         <br>
 
-                        <span>Damit ist eine Variation des Verhältnisses zwischen spezifischem Impuls und Schub möglich, analog zu der Getriebeschaltung eines Radfahrzeugs. Ein Raumfahrzeug könnte damit etwa zum Verlassen des Schwerefeldes eines Planeten einen hohen Schub erzeugen, um dann eine längere Strecke mit hoher Geschwindigkeit zurückzulegen. </span>
+                        <span>Damit ist eine Variation des Verhältnisses zwischen spezifischem Impuls und Schub möglich, analog zu der Getriebeschaltung eines Radfahrzeugs. Ein Raumfahrzeug könnte damit etwa zum Verlassen des Schwerefeldes eines Planeten einen hohen Schub erzeugen, um dann eine längere Strecke mit hoher Geschwindigkeit zurückzulegen. </span>
+
+                        <br>
+                        <br>
+
+                        <h2 style="font-family: 'Nasa'">Schubtriebwerke Im Verse</h2>
+                        <span>Im 30. Jahrhundert hat die Triebwerkstechnologie einen hohen grad an effiziens und ausgefeiltheit und miniaturisierung erreicht. Raumschifftriebwerke erreichen die 50-fache an leistung und können geschwindigkeiten von 1400 metern pro sek. ()  </span>
 
                         <br>
                         <br>
@@ -88,14 +109,15 @@
                         <span>Als Treibstoffe für alle Raumschiffe werden flüssige Gase verwendet, die in Treibstofftanks gelagert werden. Dabei können viele Arten von Gasen Verwendung finden, z. B. Wasserstoff oder Stickstoff. Dabei gilt aber immer die Regel - Je massereicher das gelagerte Gas, desto effektiver arbeitet der Antrieb. Die Treibstofftanks können nur eine Gasart gleichzeitig lagern. Wenn Antriebskraft benötigt wird, wird der gesammelte oder getankte Treibstoff durch den Energiereaktor geleitet und in energetisches Plasma umgewandelt. Dieses wird in die Triebwerke geleitet und große Magnetspulen stoßen mit hoher Geschwindigkeit das ionisierte Gas aus. Schub wird produziert und das Schiff bewegt sich entsprechend der bereitgestellten Menge an Energie. Deshalb ist das Energie- und Wärmemanagement sehr wichtig und nicht einfach nur die Anforderung, Treibstoff im Tank zu haben.</span>
                         
                         <br>
+                        <br>
                         
-                        <span>Mehr dazu in der Rubrik <a href="https://ArisCorp.de/verseExkurs/Technologien/Treibstoffmechanik"> Wikipedia.org/Treibstoffmechanik</a>().</span>
+                        <span>Mehr dazu in der Rubrik <a href="https://ArisCorp.de/verseExkurs/technologien/Treibstoffmechanik">Treibstoffmechanik</a>().</span>
 
                         <br>
                         <br>
 
                         <h3 style="font-family: 'Nasa'">Triebwerkstypen</h3>
-                        <span>Triebwerke von Raumschiffen kommen in einer breiten Auswahl an Größen und Typen vor. Von den kleinsten, fixierten Manöverdüsen an einer Nox, über die großen, schwenkbaren VTOL Triebwerke der Idris bis hin zu den gigantischen Haupttriebwerken an einem Bengal Träger. Doch alle diese Typen sind unerlässlich für eine Fortbewegung und das manövrieren im All.</span>
+                        <span>Triebwerke von Raumschiffen kommen in einer breiten Auswahl an Größen und Typen vor. Von den kleinsten, fixierten Manöverdüsen an einer Nox,über die großen, schwenkbaren VTOL Triebwerke der Idris bis hin zu den gigantischen Haupttriebwerken an einem Bengal Träger. hoch alle diese Typen sind unerlässlich für eine Fortbewegung und das manövrieren im All.</span>
 
                         <br>
                         <br>

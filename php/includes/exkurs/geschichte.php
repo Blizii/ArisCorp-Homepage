@@ -1,6 +1,6 @@
 <div class="img-gameplays-line">
-                        <hr class="animation-element extend">
-                    </div>
+    <hr class="animation-element extend">
+</div>
 <img src="https://www.ariscorp.de/assets/img/excurs/util/NaviTimeline.webp" usemap="#image-map2">
 
                         <h1 class="short-hr-left" style="font-family: 'Nasa'; float: left;">Excurs - Geschichte</h1>
@@ -541,9 +541,3 @@
                                 <area target="" alt="2950 / Heute" title="2950 / Heute" href="#" coords="1031,130,1041,140,1049,131,1065,141,1097,100,1087,92,1077,101,1073,96,1063,90" shape="poly" onclick="ueeRegTab()">
                                 </map>
                         </div>
-
-                        <div class="img-gameplays-line">
-                            <hr class="animation-element extend">
-                        </div>
-                    </div>
-                    </div>
